@@ -1,4 +1,5 @@
 <item>
-<title>Name</title>
-<link>rtmp://distribution02.arabtvnet.tv:1935/live?email=rabah_haddad%40hotmail.com&password=bba603afe02da152e23661f32e28c34e/271.stream swfUrl=http://atnnetwork.com/webtv/player.swf pageUrl=http://atnnetwork.com/webtv.php</link>
+<title>Nrt</title>
+<link>rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_<playpath>mp4:nrt1.stream_1 <swfUrl>http://nrttv.iptv-playoutcenter.de/player/jwplayer.flash.swf <pageUrl>http://nrttv.iptv-playoutcenter.de/player/nrt1.html <objectEncoding>
+</link>
 </item>
