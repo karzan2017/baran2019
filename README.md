@@ -1,5 +1,5 @@
 
 <item>
-<title>nrt</title>
-<link>rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_<playpath>mp4:nrt1.stream_1 <swfUrl>http://nrttv.iptv-playoutcenter.de/player/jwplayer.flash.swf <pageUrl>http://nrttv.iptv-playoutcenter.de/player/nrt1.html </link>
+<title>nrt2</title>
+<link>http://live1.karwan.tv/karwan.tv/nalia-2-tv/playlist.m3u8?wmsAuthSign=</link>
 </item>
