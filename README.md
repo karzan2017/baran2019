@@ -1,5 +1,8 @@
-<item>
-<title>Nrt</title>
-<link>rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_<playpath>mp4:nrt1.stream_1 <swfUrl>http://nrttv.iptv-playoutcenter.de/player/jwplayer.flash.swf <pageUrl>http://nrttv.iptv-playoutcenter.de/player/nrt1.html <objectEncoding>
-</link>
-</item>
+
+
+#EXTINF:0,mbc2
+
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_2&t=ar
+
+#EXTINF:0,mbc2
+http://158.69.229.52:8900/MBC2/index.m3u8
