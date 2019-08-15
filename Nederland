@@ -34,7 +34,7 @@ https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1652623679_b1894400_sl
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="NETHERLANDS",GO-RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="NETHERLANDS",GO-RTV 
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAD13mY.png" group-title="NETHERLANDS",HTR TV Heusden
