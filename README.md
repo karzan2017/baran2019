@@ -1,8 +1,34 @@
 
 #EXTM3U
  
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto1
+ https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/events(1550232041)/live-audio_1=96000-video=904000.m3u8
+ 
+ 
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto2
+ https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=cgYEH-MAKNUy/events(1557315332)/live-audio_1=96000-video=904000.m3u8
  
 
+ 
+   #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto3
+ 
+ https://salto-streams.nl/live/sotv1.m3u8
+ 
+ 
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto4
+ 
+ https://salto-streams.nl/live/sotv2.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",Dtv Oss
+ 
+ https://ms7.mx-cd.net/tv/143-646311/DTV_Den_Bosch.smil/chunklist_w201397643_b1894400_slNLD.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",AT5
+ 
+ https://ngx.cr1.streamzilla.xlcdn.com/session/8ec9b98a084f0330246fdc519ec7a955/sz/atvijf/wowza4/live/live.smil/chunklist_b3145728.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",EDE TV
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1652623679_b1894400_slNLD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="NETHERLANDS",Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
@@ -45,6 +71,11 @@ http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
 http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
+ 
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",Omroep Brabant
+ https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+ 
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/266px-SBS9_2018.png" group-title="NETHERLANDS",SBS9
 http://fluxus.tv@bit.ly/SBS9NL
