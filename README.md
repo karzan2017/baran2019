@@ -77,6 +77,10 @@ http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
  https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
  
  
+  #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",omroepvenlo
+ 
+ https://media.streamone.net/hlslive/account=lDJBNuobD5c2/livestream=2JJFDeYCdhw0/2JJFDeYCdhw0.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/266px-SBS9_2018.png" group-title="NETHERLANDS",SBS9
 http://fluxus.tv@bit.ly/SBS9NL
  
