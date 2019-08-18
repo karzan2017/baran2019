@@ -1,16 +1,50 @@
 
-
-#EXTM3U
-#EXTINF:0,<item>
-<title>[COLOR green]new.update 07.08.2019[COLOR red][HD][/COLOR]</title>
-#EXTINF:0,<link>$doregex[url]</link>
-<regex>
-#EXTINF:0,<name>url</name>
-<expres>(?:file|source).*?[\'"]([^'"]+)</expres>
-#EXTINF:0,<page>http://www.giniko.com/watch.php?id=327</page>
-</regex>
-#EXTINF:0,<thumbnail>https://chmk.org/files/2018/05/29473244_575900426111106_1240286014195367936_n-1.jpg</thumbnail>
-</item>
-#EXTINF:0,<item>
-<title>[COLOR green]kurdsat[COLOR red][HD][/COLOR]</title>
-#EXTINF:0,<link>$doregex[url]</link>
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title><item></title>
+			<location><title>[COLOR green]rudaw[COLOR red][HD][/COLOR]</title></location>
+		</track>
+		<track>
+			<title><link>$doregex[url]</link></title>
+			<location><regex></location>
+		</track>
+		<track>
+			<title><name>url</name></title>
+			<location><expres>hls: '(.*?)'</expres></location>
+		</track>
+		<track>
+			<title><page>https://karwan.tv/live/rudaw-tv.php</page></title>
+			<location><referer>http://karwan.tv/rudaw-tv.html</referer></location>
+		</track>
+		<track>
+			<title><cookieJar></cookieJar></title>
+			<location><thumbnail>http://karwan.tv/images/tvlogo/rudaw.png</thumbnail></location>
+		</track>
+		<track>
+			<title><fanart>http://ladda-upp.se/files/2016/b183632.png</fanart></title>
+			<location></regex></location>
+		</track>
+		<track>
+			<title></item></title>
+			<location> </location>
+		</track>
+		<track>
+			<title> </title>
+			<location> </location>
+		</track>
+		<track>
+			<title><item></title>
+			<location><title>[COLOR green]Rudaw[COLOR red][HD][/COLOR]</title></location>
+		</track>
+		<track>
+			<title><link>https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8</link></title>
+			<location><thumbnail>http://karwan.tv/images/tvlogo/rudaw.png</thumbnail></location>
+		</track>
+		<track>
+			<title></item></title>
+			<location> </location>
+		</track>
+	</trackList>
+</playlist>
