@@ -87,6 +87,11 @@ http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/266px-SBS9_2018.png" group-title="NETHERLANDS",SBS9
 http://fluxus.tv@bit.ly/SBS9NL
  
+ 
+ #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-nqgy4QEBOFQ/U9971fpjDjI/AAAAAAAATCs/M0AiQm7YToE/s1600/BVN-logo.png" group-title="NETHERLANDS",Bvn
+ https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/index.m3u8
+ 
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TZN13d.png" group-title="NETHERLANDS",Slotstad RTV
 rtmp://mediaserv19.video-streams.nl:80/slotstadrtv/slotstadrtv
  
