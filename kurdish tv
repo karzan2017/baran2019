@@ -3,8 +3,12 @@
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
-http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/33.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat2
+ http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/33.m3u8
 
 
 
@@ -110,5 +114,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
+
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
 http://137.74.205.201/live2/sterk-3mbps.m3u8
+
