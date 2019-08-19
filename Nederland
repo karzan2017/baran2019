@@ -86,7 +86,19 @@ rtmp://mediaserv19.video-streams.nl:80/slotstadrtv/slotstadrtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",TV Ellef Limburg
 rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",RTV Utrecht
 
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",UStad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",nhnieuws
+https://ngx.cr6.streamzilla.xlcdn.com/session/2cf97dcbfbd5fd90b825146bd30b27b7/sz/nhnieuws/wowza4/live/live.smil/chunklist_b3170304.m3u8
 
  #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto4
  
