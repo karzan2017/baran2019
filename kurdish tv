@@ -3,7 +3,7 @@
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/33.m3u8
 
 
