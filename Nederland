@@ -100,7 +100,38 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",nhnieuws
 https://ngx.cr6.streamzilla.xlcdn.com/session/2cf97dcbfbd5fd90b825146bd30b27b7/sz/nhnieuws/wowza4/live/live.smil/chunklist_b3170304.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rtvgo
+https://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",RTV Dordrecht
+https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rtvnoord
+https://media.rtvnoord.nl/live/rtvnoord/tv/6a46cbb2-57ee-4192-b55a-de7b4575b19b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",RN7
+http://media.streamone.net/hlslive/account=GCNkoILS_cQE/livestream=mwNspKpCuN4g/mwNspKpCuN4g.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",midvliet-tv
+https://s29.ipcamlive.com/streams/1d5d44cba45d73e3b/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS", MerweTV
+https://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ/krINAu6TPoQQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",wos
+https://ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto4
  
  https://salto-streams.nl/live/sotv2.m3u8
  
