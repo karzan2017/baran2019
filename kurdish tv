@@ -101,14 +101,20 @@ https://z0lji4d157n.a.trbcdn.net/livemaster/2j0jd8afwm_chanal3/playlist.m3u8
 http://sm8hcx0ox55.a.trbcdn.net/livemaster/4tuqxezfow_Bibanyariga/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
-http://185.255.47.178/stream.m3u8
-
-
 
 
 #EXTINF:-1, tvg-logo="",national-geographic 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
+http://185.255.47.178/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",
+zarokhttps://stream-09.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikj__8IGYzVuQBnF_o4wsK_U)/dm/3/x63b9ty/live.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
