@@ -2,6 +2,11 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/266px-SBS9_2018.png" group-title="NETHERLANDS",Qmusic
+
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SBS9_2018.png/266px-SBS9_2018.png" group-title="NETHERLANDS",SBS9
  http://fluxus.tv@bit.ly/SBS9NL
  
