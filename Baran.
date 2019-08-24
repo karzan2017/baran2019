@@ -30,7 +30,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w7771
 
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
-http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/28.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.knnc.net/wene/logo.png",knn
 https://5ad0e3fe9c6c1.streamlock.net/live/livestream1/playlist.m3u8
