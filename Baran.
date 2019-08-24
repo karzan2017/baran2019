@@ -1,10 +1,11 @@
 #EXTM3U 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
+
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat2
  http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/33.m3u8
@@ -64,8 +65,8 @@ http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline
 http://cdn.teradek.live:1935/live/ip/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://forumbilder.se/FBDIO/newline-2.png",NewLine2
-http://newline.teradek.live:1935/live/error/playlist.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
 http://teradek.live:1935/live/cihan/playlist.m3u8
@@ -96,6 +97,7 @@ http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/13.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/25.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdmax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/21.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/19.m3u8
 
@@ -118,7 +120,7 @@ http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/26.m3u8
 https://stream-02.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikj__8IGYzVuQBnF_o4wsK_U)/dm/3/x63b9ty/s/live-1.m3u8
 
 EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule
-
+http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
