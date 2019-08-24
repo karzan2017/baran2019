@@ -96,8 +96,8 @@ http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/13.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/25.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdmax
-http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/19.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/21.m3u8
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/19.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
 http://cdn.teradek.live:1935/live/astera/playlist.m3u8
