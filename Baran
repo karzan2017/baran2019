@@ -46,7 +46,7 @@ http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt.
  http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/2.m3u8 
  #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt1
- https://www.youtube.com/watch?v=JxhrC6WM7gg
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566961495/ei/95plXZP-BIPa1gKhkp-QCA/ip/31.20.5.117/id/JxhrC6WM7gg.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAN2hcIv1_yAPY8DJTkWIYCmEp4-314z2uqmYmuifWpLqAiEAstd5zECB7zE4RARZKxjHfA33KQJfpdOOoukfytETlyY%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
 http://185.105.4.190:1935/NRT2/ngrp:livestream_all/playlist.m3u8
  
