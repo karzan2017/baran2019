@@ -45,7 +45,8 @@ http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt.
  http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/2.m3u8 
- 
+ #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt1
+ https://www.youtube.com/watch?v=JxhrC6WM7gg
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
 http://185.105.4.190:1935/NRT2/ngrp:livestream_all/playlist.m3u8
  
