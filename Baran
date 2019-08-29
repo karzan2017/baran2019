@@ -43,7 +43,7 @@ http://95.170.215.106/hls/m3u8/KNN-Backup.m3u8
 http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/78.m3u8
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
-http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
 
 
 
