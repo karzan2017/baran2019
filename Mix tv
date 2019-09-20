@@ -90,9 +90,20 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 
 
+#EXTINF:-1,korek
+
+
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/13.m3u8
 
 
 
+#EXTINF:-1,kanal4
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/17.m3u8
+
+#EXTINF:-1,test
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/05.m3u8
+#EXTINF:-1,test1
+http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/07.m3u8
 #EXTINF:-1,ava TV
 http://95.170.207.28:1935/live/Channel01/playlist.m3u8
 
