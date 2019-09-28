@@ -80,8 +80,7 @@ http://cdn.teradek.live:1935/live/enschede/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
 http://teradek.live:1935/live/cihan/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="",sahartv
- http://cdn1live.irib.ir/live-channels/smil:sahar3/playlist.m3u8?s=aBTI7DuMGekpNfmlsc-fQQ&t=1569158659
+
 
  
 #EXTINF:-1, tvg-logo="",Nettv 
