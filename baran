@@ -55,6 +55,10 @@ http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
 http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 
+#EXTINF:-1, tvg-logo="",Heva.document
+
+https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/bjqTO8zU8Uw/expires/1570132237054/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531334892192_high/index.m3u8?p
+
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
 
