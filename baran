@@ -59,6 +59,9 @@ http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
 
 
+#EXTINF:-1, tvg-logo="",MTBamoki TV
+https://vsd58.mycdn.me/hls/570884885152.m3u8/sig/wbkV9KcGZQM/expires/1570131576527/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/570884885152_high/index.m3u8?p
+
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
 http://utv.teradek.live:1935/live/utv/playlist.m3u8
 
