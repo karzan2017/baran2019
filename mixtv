@@ -14,9 +14,8 @@ http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 
 
 
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsatnews
-http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/11.m3u8
+#EXTINF:-1, tvg-logo="",gali-kurdistan
+http://173.249.45.123:8080/hls/gksat/7_8/index.m3u8?sessId=28492
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
