@@ -81,6 +81,14 @@ http://cdn.teradek.live:1935/live/enschede/playlist.m3u8
 http://teradek.live:1935/live/cihan/playlist.m3u8
  
 
+#EXTINF:-1, tvg-logo="",shaista
+
+https://vsd31.mycdn.me/hls/572659206816.m3u8/sig/Rc1F6XE4BaQ/expires/1570133830049/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/572659206816_high/index.m3u8?p
+
+
+#EXTINF:-1, tvg-logo="",Heva.document
+
+https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/bjqTO8zU8Uw/expires/1570132237054/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531334892192_high/index.m3u8?p
 
  
 #EXTINF:-1, tvg-logo="",Nettv 
@@ -190,18 +198,14 @@ https://vsd16.mycdn.me/hls/531111479968.m3u8/sig/b_tfmlvREyw/expires/15701350923
 https://vsd30.mycdn.me/hls/531131402912.m3u8/sig/LGWrW_wTGBY/expires/1570134981610/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131402912_high/index.m3u8?p
 
 
+#EXTINF:-1, tvg-logo="",Sema TV
+https://vsd5.mycdn.me/hls/531626855072.m3u8/sig/oHpjzcamuZc/expires/1570219944794/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531626855072_high/index.m3u8?p
+
+
 #EXTINF:-1, tvg-logo="",dalatv
 
 https://vsd1.mycdn.me/hls/548869048992.m3u8/sig/_VXuU-KzWqw/expires/1570133946984/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/548869048992_high/index.m3u8?p
 
-#EXTINF:-1, tvg-logo="",shaista
-
-https://vsd31.mycdn.me/hls/572659206816.m3u8/sig/Rc1F6XE4BaQ/expires/1570133830049/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/572659206816_high/index.m3u8?p
-
-
-#EXTINF:-1, tvg-logo="",Heva.document
-
-https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/bjqTO8zU8Uw/expires/1570132237054/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531334892192_high/index.m3u8?p
 
 
 
