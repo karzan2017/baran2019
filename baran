@@ -95,6 +95,14 @@ https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/bjqTO8zU8Uw/expires/15701322370
 
 https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
 
+
+#EXTINF:-1, tvg-logo="",sahar
+https://cdn1live.irib.ir/live-channels/smil:sahar3/playlist.m3u8?s=D0gKB4JJ-6jm61F5L1ypUw&t=1570142418
+
+#EXTINF:-1, tvg-logo="",sahar.
+https://cdn1live.irib.ir/live-channels/smil:sahar3/chunklist_b307200_slFa.m3u8?s=D0gKB4JJ-6jm61F5L1ypUw&t=1570142418
+
+
 #EXTINF:-1, tvg-logo="",med muzik
 http://137.74.205.201/live3/mm-3mbps.m3u8
 
