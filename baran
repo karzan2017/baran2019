@@ -93,16 +93,15 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 
 
-#EXTINF:-1,korek
+#EXTINF:-1,peshmarga-tv
+
+https://vsd15.mycdn.me/hls/548434217632.m3u8/sig/SlNBYpuqjFE/expires/1570179857684/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548434217632_high/index.m3u8?p
 
 
-http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/13.m3u8
 
+#EXTINF:-1,/kurdistan-oil-gas-channel
 
-
-#EXTINF:-1,kanal4
-http://163.172.39.179:25461/live/line/Cqa1A@!21A1awEq/17.m3u8
-
+https://vsd2.mycdn.me/hls/548206676640.m3u8/sig/ZX6zlVBuwj0/expires/1570179945872/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548206676640_high/index.m3u8?p
 
 #EXTINF:-1,ava TV
 http://95.170.207.28:1935/live/Channel01/playlist.m3u8
@@ -192,11 +191,11 @@ https://vsd16.mycdn.me/hls/531111479968.m3u8/sig/b_tfmlvREyw/expires/15701350923
 https://vsd30.mycdn.me/hls/531131402912.m3u8/sig/LGWrW_wTGBY/expires/1570134981610/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131402912_high/index.m3u8?p
 
 
-#EXTINF:-1, tvg-logo="",/dalatv
+#EXTINF:-1, tvg-logo="",dalatv
 
 https://vsd1.mycdn.me/hls/548869048992.m3u8/sig/_VXuU-KzWqw/expires/1570133946984/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/548869048992_high/index.m3u8?p
 
-#EXTINF:-1, tvg-logo="",/shaista
+#EXTINF:-1, tvg-logo="",shaista
 
 https://vsd31.mycdn.me/hls/572659206816.m3u8/sig/Rc1F6XE4BaQ/expires/1570133830049/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/572659206816_high/index.m3u8?p
 
