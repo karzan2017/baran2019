@@ -1,0 +1,236 @@
+#EXTM3U8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat..
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
+http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="",kurdistan24.
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/rudaw.png",rudaw       
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros                           
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
+
+
+
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+
+
+
+ 
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+ 
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",MTBamoki TV
+https://vsd58.mycdn.me/hls/570884885152.m3u8/sig/wbkV9KcGZQM/expires/1570131576527/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/570884885152_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Kani TV
+
+https://vsd27.mycdn.me/hls/531132123808.m3u8/sig/RI2pRL7ekZI/expires/1570135509484/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531132123808_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
+http://utv.teradek.live:1935/live/utv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",payam
+
+http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/speda-tv.png",speda
+ http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline
+http://cdn.teradek.live:1935/live/ip/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline2
+http://cdn.teradek.live:1935/live/enschede/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
+http://teradek.live:1935/live/cihan/playlist.m3u8
+ 
+
+
+ 
+#EXTINF:-1, tvg-logo="",Nettv 
+
+https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",med muzik
+http://137.74.205.201/live3/mm-3mbps.m3u8
+
+
+
+#EXTINF:-1,peshmarga-tv
+
+https://vsd15.mycdn.me/hls/548434217632.m3u8/sig/SlNBYpuqjFE/expires/1570179857684/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548434217632_high/index.m3u8?p
+
+
+
+#EXTINF:-1,/kurdistan-oil-gas-channel
+
+https://vsd2.mycdn.me/hls/548206676640.m3u8/sig/ZX6zlVBuwj0/expires/1570179945872/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548206676640_high/index.m3u8?p
+
+#EXTINF:-1,ava TV
+http://95.170.207.28:1935/live/Channel01/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.music
+
+http://31.14.40.139:1935/music/livestream/palylist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",kurdmaxshow
+
+
+#EXTINF:-1, tvg-logo="",kurdmax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.
+http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmaxshow
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
+http://cdn.teradek.live:1935/live/astera/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",NewMax Kids HD
+https://vsd12.mycdn.me/hls/541813312160.m3u8/sig/-iQM7FmHNug/expires/1570135747912/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/541813312160_high/index.m3u8?p
+#EXTINF:-1, tvg-logo="",helheloktv
+
+https://vsd35.mycdn.me/hls/579706161824.m3u8/sig/Y2u27L8bsEQ/expires/1570134688954/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/579706161824_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="", KurdMax Pepule
+https://vsd31.mycdn.me/hls/531851578016.m3u8/sig/wV3Y5Jd4588/expires/1570136711226/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531851578016_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",DASINYA KIDS
+https://vsd26.mycdn.me/hls/531131796128.m3u8/sig/6lNgMk2oSMw/expires/1570136632236/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131796128_lowest/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="", NewMax Box Office
+https://vsd23.mycdn.me/hls/531854789280.m3u8/sig/Ao_jQYKJ2xk/expires/1570136562144/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854789280_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Dasniya Music HD
+https://vsd52.mycdn.me/hls/531131992736.m3u8/sig/kQuNZQRd1jI/expires/1570136433046/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131992736_lowest/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",ATV KURD HD
+https://vsd15.mycdn.me/hls/531114429088.m3u8/sig/ApnVVtRD32s/expires/1570136231015/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531114429088_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Falcon Eye HD2
+https://vsd31.mycdn.me/hls/580134177440.m3u8/sig/v2Tlto_aTHE/expires/1570136112179/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/580134177440_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Dasinya sport
+https://vsd1.mycdn.me/hls/564676332192.m3u8/sig/e2oqz_tpbJE/expires/1570135902035/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/564676332192_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",kurdshow
+
+https://vsd9.mycdn.me/hls/566733048480.m3u8/sig/vm5LvognPYg/expires/1570133724286/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/566733048480_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",halabja
+
+https://vsd15.mycdn.me/hls/544206424736.m3u8/sig/5HuFkLyzs2A/expires/1570133089558/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/544206424736_low/index.m3u8?p
+#EXTINF:-1, tvg-logo="",arina
+https://vsd36.mycdn.me/hls/566733376160.m3u8/sig/qBSls32fIME/expires/1570134560912/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/566733376160_medium/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Harki Azadi TV
+
+https://vsd2.mycdn.me/hls/580540041888.m3u8/sig/HfHgI5Tmz_Q/expires/1570134816504/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/580540041888_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Bafrren-TV
+https://vsd28.mycdn.me/hls/531115674272.m3u8/sig/C0vKkIefaME/expires/1570135597561/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531115674272_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",binin-tv
+
+https://vsd14.mycdn.me/hls/545965935264.m3u8/sig/j6RBlO50ANo/expires/1570134451716/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/545965935264_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Niroj TV
+https://vsd11.mycdn.me/hls/531626396320.m3u8/sig/P-AUDTO_ODU/expires/1570135408169/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531626396320_lowest/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="", AMED TV
+ https://vsd21.mycdn.me/hls/530744609440.m3u8/sig/vF4xXiGYtPU/expires/1570135289417/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/530744609440_lowest/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Sima TV
+https://vsd54.mycdn.me/hls/531112856224.m3u8/sig/rLXdmmWb4WU/expires/1570135196121/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531112856224_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Dasinya TV
+
+https://vsd16.mycdn.me/hls/531111479968.m3u8/sig/b_tfmlvREyw/expires/1570135092322/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531111479968_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Duhok TV
+https://vsd30.mycdn.me/hls/531131402912.m3u8/sig/LGWrW_wTGBY/expires/1570134981610/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131402912_high/index.m3u8?p
+
+
+#EXTINF:-1, tvg-logo="",dalatv
+
+https://vsd1.mycdn.me/hls/548869048992.m3u8/sig/_VXuU-KzWqw/expires/1570133946984/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/548869048992_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",shaista
+
+https://vsd31.mycdn.me/hls/572659206816.m3u8/sig/Rc1F6XE4BaQ/expires/1570133830049/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/572659206816_high/index.m3u8?p
+
+
+#EXTINF:-1, tvg-logo="",Heva.document
+
+https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/bjqTO8zU8Uw/expires/1570132237054/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531334892192_high/index.m3u8?p
+
+
+
+#EXTINF:-1, tvg-logo="",waar
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",national-geographic 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+
+
+EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule
+http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
+
+EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule.
+http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
+http://185.255.47.178/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
+https://bozztv.com/36bay2/gin/giniko_ciratv_800kb_36bay2/tracks-v1a1/mono.m3u8
