@@ -153,6 +153,9 @@ https://vsd31.mycdn.me/hls/531851578016.m3u8/sig/wV3Y5Jd4588/expires/15701367112
 #EXTINF:-1, tvg-logo="",DASINYA KIDS
 https://vsd26.mycdn.me/hls/531131796128.m3u8/sig/6lNgMk2oSMw/expires/1570136632236/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131796128_lowest/index.m3u8?p
 
+#EXTINF:-1, tvg-logo="",NewMax HD
+https://vsd58.mycdn.me/hls/531854461600.m3u8/sig/Nf-Fuv1de9Y/expires/1570229168218/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854461600_high/index.m3u8?p
+
 #EXTINF:-1, tvg-logo="", NewMax Box Office
 https://vsd23.mycdn.me/hls/531854789280.m3u8/sig/Ao_jQYKJ2xk/expires/1570136562144/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854789280_high/index.m3u8?p
 
