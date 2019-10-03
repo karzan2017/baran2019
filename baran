@@ -9,7 +9,7 @@ https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
 http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 
-#EXTINF:-1, tvg-logo="",gali-kurdistan
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
 http://173.249.45.123:8080/hls/gksat/7_8/index.m3u8?sessId=28492
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
@@ -31,7 +31,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
 
 
 
