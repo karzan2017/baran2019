@@ -156,6 +156,9 @@ https://vsd26.mycdn.me/hls/531131796128.m3u8/sig/6lNgMk2oSMw/expires/15701366322
 #EXTINF:-1, tvg-logo="", NewMax Box Office
 https://vsd23.mycdn.me/hls/531854789280.m3u8/sig/Ao_jQYKJ2xk/expires/1570136562144/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854789280_high/index.m3u8?p
 
+#EXTINF:-1, tvg-logo="",NewMax Comedy HD
+https://vsd22.mycdn.me/hls/531854658208.m3u8/sig/LqC-P6SS0oc/expires/1570228654756/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854658208_high/index.m3u8?p
+
 #EXTINF:-1, tvg-logo="",Dasniya Music HD
 https://vsd52.mycdn.me/hls/531131992736.m3u8/sig/kQuNZQRd1jI/expires/1570136433046/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131992736_lowest/index.m3u8?p
 
