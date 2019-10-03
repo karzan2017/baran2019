@@ -162,11 +162,16 @@ https://vsd52.mycdn.me/hls/531131992736.m3u8/sig/kQuNZQRd1jI/expires/15701364330
 #EXTINF:-1, tvg-logo="",ATV KURD HD
 https://vsd15.mycdn.me/hls/531114429088.m3u8/sig/ApnVVtRD32s/expires/1570136231015/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531114429088_high/index.m3u8?p
 
-#EXTINF:-1, tvg-logo="",falcon
+#EXTINF:-1, tvg-logo="",Zawa HD
+https://vsd31.mycdn.me/hls/555689380512.m3u8/sig/wz0imdpfKpk/expires/1570227917485/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/555689380512_high/index.m3u8?p
+#EXTINF:-1, tvg-logo="",falcon1
 http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.mpd
 
+#EXTINF:-1, tvg-logo="",falcon2
+http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.mpd
+
 #EXTINF:-1, tvg-logo="",Falcon Eye HD2
-https://vsd31.mycdn.me/hls/580134177440.m3u8/sig/v2Tlto_aTHE/expires/1570136112179/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/580134177440_high/index.m3u8?p
+https://vsd31.mycdn.me/hls/580134177440.m3u8/sig/g1AxZJXPYU8/expires/1570228143542/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/580134177440_lowest/index.m3u8?p
 
 #EXTINF:-1, tvg-logo="",Dasinya sport
 https://vsd1.mycdn.me/hls/564676332192.m3u8/sig/e2oqz_tpbJE/expires/1570135902035/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/564676332192_high/index.m3u8?p
