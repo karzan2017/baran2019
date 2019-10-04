@@ -9,6 +9,9 @@ https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
 http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 
+#EXTINF:-1, tvg-logo="",kurdsatnews
+http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
+
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
 http://173.249.45.123:8080/hls/gksat/index.m3u8
 
@@ -241,7 +244,8 @@ http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 #EXTINF:-1, tvg-logo="",national-geographic 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
 
-
+#EXTINF:-1, tvg-logo="",national-geographic.. 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 
 EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule
 http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
