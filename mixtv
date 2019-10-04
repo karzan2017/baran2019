@@ -192,6 +192,10 @@ https://vsd31.mycdn.me/hls/580134177440.m3u8/sig/g1AxZJXPYU8/expires/15702281435
 #EXTINF:-1, tvg-logo="",Dasinya sport
 https://vsd1.mycdn.me/hls/564676332192.m3u8/sig/e2oqz_tpbJE/expires/1570135902035/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/564676332192_high/index.m3u8?p
 
+#EXTINF:-1, tvg-logo="",reng-sports
+https://vsd2.mycdn.me/hls/521369881091.m3u8/sig/ZTKTK1jT8Cg/expires/1570257840585/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/521369881091_high/index.m3u8?p
+
+
 #EXTINF:-1, tvg-logo="",kurdshow
 
 https://vsd9.mycdn.me/hls/566733048480.m3u8/sig/vm5LvognPYg/expires/1570133724286/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/566733048480_high/index.m3u8?p
