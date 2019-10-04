@@ -218,45 +218,236 @@ https://vsd28.mycdn.me/hls/531115674272.m3u8/sig/C0vKkIefaME/expires/15701355975
 
 https://vsd14.mycdn.me/hls/545965935264.m3u8/sig/j6RBlO50ANo/expires/1570134451716/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/545965935264_high/index.m3u8?p
 
+#EXTM3U8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat..
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
+http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdsatnews
+http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
+http://173.249.45.123:8080/hls/gksat/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="",kurdistan24.
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/rudaw.png",rudaw       
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros                           
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+
+
+
+ 
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+ 
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",MTBamoki TV
+https://vsd10.mycdn.me/hls/570884885152.m3u8/sig/cC4kroOM3wA/expires/1570300443933/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/570884885152_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Kani TV
+https://vsd27.mycdn.me/hls/531132123808.m3u8/sig/Nc99ZoZggoQ/expires/1570300791348/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531132123808_lowest/index.m3u8?p
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
+http://utv.teradek.live:1935/live/utv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",payam
+
+http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/speda-tv.png",speda
+ http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline
+http://cdn.teradek.live:1935/live/ip/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline2
+http://cdn.teradek.live:1935/live/enschede/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
+http://teradek.live:1935/live/cihan/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="",Zed
+https://vsd34.mycdn.me/hls/531854068384.m3u8/sig/fL9wb0xNNcI/expires/1570301463446/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531854068384_high/index.m3u8?p
+
+
+
+
+
+#EXTINF:-1, tvg-logo="",halabja
+https://vsd15.mycdn.me/hls/544206424736.m3u8/sig/E8R8Mt8b_FI/expires/1570300562153/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/544206424736_medium/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Heva.document
+https://vsd57.mycdn.me/hls/531334892192.m3u8/sig/h9LSlZY9zYA/expires/1570300854883/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531334892192_high/index.m3u8?p
+
+
+ 
+#EXTINF:-1, tvg-logo="",Nettv 
+
+https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="",med muzik
+http://137.74.205.201/live3/mm-3mbps.m3u8
+
+
+
+#EXTINF:-1,peshmarga-tv
+
+
+https://vsd60.mycdn.me/hls/548434217632.m3u8/sig/Bure0O9VWqg/expires/1570301203427/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548434217632_high/index.m3u8?p
+
+
+#EXTINF:-1,ava TV
+http://95.170.207.28:1935/live/Channel01/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.music
+
+http://31.14.40.139:1935/music/livestream/palylist.m3u8
+
+
+#EXTINF:-1, tvg-logo="",kurdmax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.
+http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmaxshow
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
+http://cdn.teradek.live:1935/live/astera/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",NewMax Kids HD
+https://vsd12.mycdn.me/hls/541813312160.m3u8/sig/E3oYBhiuqUA/expires/1570301341651/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/541813312160_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",helheloktv
+https://vsd35.mycdn.me/hls/579706161824.m3u8/sig/TjkOtKGPjVE/expires/1570300629206/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/579706161824_high/index.m3u8?p
+
+
+
+
+
+EXTINF:-1, tvg-logo="",kurdmaxpepule
+http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
+
+EXTINF:-1, tvg-logo="",kurdmaxpepule.
+http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="",NewMax..
+https://vsd58.mycdn.me/hls/531854461600.m3u8/sig/XKoQdTDhtOA/expires/1570301315011/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531854461600_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="", NewMax Box Office
+
+https://vsd6.mycdn.me/hls/531854789280.m3u8/sig/PKkGbmHIkdM/expires/1570307686685/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531854789280_high/index.m3u8?p
+#EXTINF:-1, tvg-logo="",NewMax Comedy HD
+https://vsd22.mycdn.me/hls/531854658208.m3u8/sig/LqC-P6SS0oc/expires/1570228654756/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531854658208_high/index.m3u8?p
+
+
+
+#EXTINF:-1, tvg-logo="",Bafrren-TV
+https://vsd28.mycdn.me/hls/531115674272.m3u8/sig/3_vULEb0NaE/expires/1570301177519/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531115674272_high/index.m3u8?p
+
+EXTINF:-1, tvg-logo="",binin-tv
+https://vsd24.mycdn.me/hls/545965935264.m3u8/sig/Jx_GgnTVX2A/expires/1570300650584/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/545965935264_high/index.m3u8?p
+
 #EXTINF:-1, tvg-logo="",Niroj TV
 https://vsd11.mycdn.me/hls/531626396320.m3u8/sig/P-AUDTO_ODU/expires/1570135408169/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531626396320_lowest/index.m3u8?p
 
-#EXTINF:-1, tvg-logo="", AMED TV
- https://vsd21.mycdn.me/hls/530744609440.m3u8/sig/vF4xXiGYtPU/expires/1570135289417/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/530744609440_lowest/index.m3u8?p
 
-#EXTINF:-1, tvg-logo="",Sima TV
-https://vsd54.mycdn.me/hls/531112856224.m3u8/sig/rLXdmmWb4WU/expires/1570135196121/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531112856224_high/index.m3u8?p
+#EXTINF:-1, tvg-logo="",blanntv
+https://vsd7.mycdn.me/hls/531115149984.m3u8/sig/lirK8n9OZfU/expires/1570300707912/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531115149984_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="", AMED TV
+https://vsd1.mycdn.me/hls/530744609440.m3u8/sig/T63lUGN4gMk/expires/1570300731651/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/530744609440_high/index.m3u8?p
+
+
+#EXTINF:-1, tvg-logo="",niber
+
+https://vsd29.mycdn.me/hls/530645977760.m3u8/sig/eFglqto7qZE/expires/1570301228050/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/530645977760_high/index.m3u8?p
 
 #EXTINF:-1, tvg-logo="",Dasinya TV
 
-https://vsd16.mycdn.me/hls/531111479968.m3u8/sig/b_tfmlvREyw/expires/1570135092322/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531111479968_high/index.m3u8?p
+https://vsd33.mycdn.me/hls/531111479968.m3u8/sig/Yn5Q-BXiwYM/expires/1570300680824/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531111479968_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Dasniya Music HD
+https://vsd35.mycdn.me/hls/531131992736.m3u8/sig/XK9sP8Ri3V4/expires/1570301380006/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531131992736_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",ATV KURD HD
+https://vsd57.mycdn.me/hls/531114429088.m3u8/sig/A-ba83FDB60/expires/1570301517681/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531114429088_high/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Zawa HD
+https://vsd5.mycdn.me/hls/555689380512.m3u8/sig/801MyXd9vW4/expires/1570301020290/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/555689380512_medium/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",falcon1
+http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.mpd
+
+#EXTINF:-1, tvg-logo="",falcon2
+http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.mpd
+
+#EXTINF:-1, tvg-logo="",Falcon Eye HD2
+https://vsd31.mycdn.me/hls/580134177440.m3u8/sig/g1AxZJXPYU8/expires/1570228143542/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/580134177440_lowest/index.m3u8?p
+
+#EXTINF:-1, tvg-logo="",Dasinya sport
+https://vsd1.mycdn.me/hls/564676332192.m3u8/sig/1cNIu0pezzA/expires/1570300917757/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/564676332192_high/index.m3u8?p
+
+
+
 
 #EXTINF:-1, tvg-logo="",Duhok TV
-https://vsd30.mycdn.me/hls/531131402912.m3u8/sig/LGWrW_wTGBY/expires/1570134981610/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/531131402912_high/index.m3u8?p
-
-#EXTINF:-1, tvg-logo="",Sema TV
-https://vsd5.mycdn.me/hls/531626855072.m3u8/sig/oHpjzcamuZc/expires/1570219944794/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531626855072_high/index.m3u8?p
-
+https://vsd54.mycdn.me/hls/531131402912.m3u8/sig/ylJB3hQ1U18/expires/1570307024690/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/531131402912_high/index.m3u8?p
 #EXTINF:-1, tvg-logo="",dalatv
 
-https://vsd1.mycdn.me/hls/548869048992.m3u8/sig/_VXuU-KzWqw/expires/1570133946984/srcIp/31.201.176.22/clientType/1/srcAg/UNKNOWN_ANDROID/548869048992_high/index.m3u8?p
-
-
-
+https://vsd19.mycdn.me/hls/548869048992.m3u8/sig/tM-I2LjC5Bo/expires/1570307216264/srcIp/31.201.176.22/clientType/0/srcAg/CHROME_ANDROID/548869048992_high/index.m3u8?p
 #EXTINF:-1, tvg-logo="",waar
 http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 
 #EXTINF:-1, tvg-logo="",national-geographic 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
 
-#EXTINF:-1, tvg-logo="",national-geographic 
+#EXTINF:-1, tvg-logo="",national-geographic.. 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 
-EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule
-http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
-
-EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",kurdmaxpepule.
-http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
@@ -272,7 +463,6 @@ http://137.74.205.201/live2/sterk-3mbps.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
 https://bozztv.com/36bay2/gin/giniko_ciratv_800kb_36bay2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="ARAB SAT",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 2
