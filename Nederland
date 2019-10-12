@@ -139,7 +139,7 @@ https://salto-streams.nl/hls/sotv2_high.m3u8
  
 
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto3
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto3.
    https://salto-streams.nl/hls/sotv1_high.m3u8
  
 
