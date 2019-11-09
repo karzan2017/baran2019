@@ -61,8 +61,10 @@ http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Amozh
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
 http://utv.teradek.live:1935/live/utv/playlist.m3u8
+#EXTINF:-1, tvg-logo="",Bangawaz
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8 
 
-#EXTINF:-1, tvg-logo="",payam
+EXTINF:-1, tvg-logo="",payam
 
 http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
 
@@ -83,6 +85,7 @@ http://teradek.live:1935/live/cihan/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="",Nettv. 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
+
 #EXTINF:-1, tvg-logo="",Nettv 
 https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
 
@@ -118,6 +121,7 @@ http://cdn.teradek.live:1935/live/astera/playlist.m3u8
 EXTINF:-1, tvg-logo="",Zarok
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
+
 EXTINF:-1, tvg-logo="",kurdmaxpepule
 http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
 
@@ -148,6 +152,18 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
+
+#EXTINF:-1, tvg-logo="",Sahar
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
+
+#EXTINF:-1, tvg-logo="",Aryan
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
+
+#EXTINF:-1, tvg-logo="",manbij
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
+
+#EXTINF:-1, tvg-logo="",Rojava
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
 
