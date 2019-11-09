@@ -121,7 +121,7 @@ http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
 #EXTINF:-1, tvg-logo="",falcon2
 http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
 
-#EXTINF:-1, tvg-logo="",falcon3
+#EXTINF:-1, tvg-logo="",falconfamily
 http://falconiptv.hopto.org:1935/f4/f4/manifest.m3u
 
 #EXTINF:-1, tvg-logo="",waar
