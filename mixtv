@@ -76,8 +76,9 @@ http://teradek.live:1935/live/cihan/playlist.m3u8
  
 
  
+#EXTINF:-1, tvg-logo="",Nettv. 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 #EXTINF:-1, tvg-logo="",Nettv 
-
 https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
 
 
