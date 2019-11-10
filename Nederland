@@ -1,6 +1,6 @@
 #EXTM3U8
-
-
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.nieuws
+https://smoote2b.omroep.nl/urishieldv2/l2fm4f67ad7d3b471663005dc8405f000000.3e85c8c41a26ab56e96e88759e487793/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1000000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Qmusic
 
