@@ -92,6 +92,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 
 #EXTINF:-1, tvg-logo="",falcon1
 http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
+
 #EXTINF:-1, tvg-logo="",falcon2
 http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
 
@@ -128,7 +129,8 @@ http://utv.teradek.live:1935/live/utv/playlist.m3u8
 #EXTINF:-1, tvg-logo="",payam
 
 http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
-
+#EXTINF:-1, tvg-logo="",payam.
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="",Bangawaz
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8 
 
