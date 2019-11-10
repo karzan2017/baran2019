@@ -30,13 +30,54 @@ https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_sl
 
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",breda
+
+https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/nJQBqssIRB82.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
+https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akN2ODG.png" group-title="NETHERLANDS",RTV Noord Extra
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1HwXBj.png" group-title="NETHERLANDS",Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uxI1Rm.png" group-title="NETHERLANDS",Radio 538 102.1 FM Amsterdam
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKVaZYH.png" group-title="NETHERLANDS",Omroep_Peel
+https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8shzoMS.png" group-title="NETHERLANDS",RTV Meppel
+https://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/live-audio101_dut=128000-video=260000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRF3hv5.png" group-title="NETHERLANDS",RTV Maastricht
+https://stream.rtvmaastricht.nl/rtvm_live/tv/playlist.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVCi6QP.png" group-title="NETHERLANDS",ZO-NWS
+https://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/live-audio101_dut=128000-video=1400000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rSPxYBz.png" group-title="NETHERLANDS",RTV 1 Stadskanaal
+
+https://media.streamone.net/hlslive/account=lqRIFo4bDtQ2/livestream=X7ZMrsKBXl8S/live-audio101_dut=128000-video=800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oQYDrA.png" group-title="NETHERLANDS",Regionieuws TV Groningen 
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWjqcEe.png" group-title="NETHERLANDS",Omroep Sudwest
+https://media.streamone.net/hlslive/account=E7RAPuILTJc2/livestream=-ZZMK-aARoY2/live-audio101_dut=128000-video=1400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBtSSp5.png" group-title="NETHERLANDS",Meer Vandaag
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwXAUGZ.png" group-title="NETHERLANDS",Norderney 192 TV
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAnZ48d.png" group-title="NETHERLANDS",Omroep Assen
+http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/live-audio101_dut=128000-video=1400000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",At5
 https://ngx.cr6.streamzilla.xlcdn.com/session/8f3c6cf036362cbaa1cd4fa7b56a2bcc/sz/atvijf/wowza4/live/live.smil/playlist.m3u8
