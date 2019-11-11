@@ -207,7 +207,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
 
-
+#EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="Iraq (العراق)",MBC Iraq
+http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 #EXTINF:-1,Rotana aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1,Rotana cinema
