@@ -13,7 +13,7 @@ http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 #EXTINF:-1, tvg-logo="",kurdsatnews
 http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kelikurdistan.png",galikurdistan
+#EXTINF:-1, tvg-logo="https://karwan.tv/wp-content/uploads/2019/07/geli-kurdistan-tv.png",galikurdistan
 http://173.249.45.123:8080/hls/gksat/index.m3u8
 
 #EXTINF:-1, tvg-logo="",Kirkuk
