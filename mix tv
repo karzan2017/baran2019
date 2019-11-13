@@ -277,16 +277,18 @@ http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
 #EXTINF:-1, tvg-logo="",sky movies Disney
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
 
-#EXTINF:-1, tvg-logo="",Beinmovies1
 
-http://95.170.215.120:80/hls/m3u8/BeinMovies4.m3u8 
-#EXTINF:-1, tvg-logo="",Beinmovies2
-http://95.170.215.120:80/hls/m3u8/BeinSeries1.m3u8 
 
-#EXTINF:-1, tvg-logo="",Beinmovies3
-http://95.170.215.120:80/hls/m3u8/BeinMovies2.m3u8 
-#EXTINF:-1, tvg-logo="",Beinmovies4
-http://95.170.215.120:80/hls/m3u8/BeinMovies3.m3u8 
+#EXTINF:-1, tvg-logo="",Bein DRAMA
+http://95.170.215.120/hls/m3u8/Bein-Drama1.m3u8
+ 
+#EXTINF:-1, tvg-logo="",BEIN MOVIES HD1
+http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8 
+
+#EXTINF:-1, tvg-logo="",BEIN Fatafeet
+http://95.170.215.120/hls/m3u8/Bein-Fatafeat.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo="",SAMA
