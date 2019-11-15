@@ -90,14 +90,12 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
 #EXTINF:-1, tvg-logo="",Aryan
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
 
-#EXTINF:-1, tvg-logo="",kurd goal
-http://95.170.215.118:80/hls/m3u8/Kurd-Goal.m3u8 
+
 #EXTINF:-1, tvg-logo="",falcon1
 http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
 
 #EXTINF:-1, tvg-logo="",falcon2
 http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
-
 
 
 #EXTINF:-1, tvg-logo="",falconfamily
@@ -135,6 +133,7 @@ http://utv.teradek.live:1935/live/utv/playlist.m3u8
 http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
 #EXTINF:-1, tvg-logo="",payam.
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="",Bangawaz
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8 
 
@@ -189,8 +188,6 @@ http://95.170.207.28:1935/live/Channel01/playlist.m3u8
 #EXTINF:-1, tvg-logo="",kurdmax.music
 
 http://31.14.40.139:1935/music/livestream/palylist.m3u8
-
-
 
 #EXTINF:-1 group-title="ARAB SAT",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
@@ -254,13 +251,12 @@ http://23.237.22.82:8086/udp/127.0.0.1:56021
 #EXTINF:-1, tvg-logo="",sky football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8 
 
-#EXTINF:-1, tvg-logo="",sky sport
 
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8 
 #EXTINF:-1, tvg-logo="",sky sport
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8 
 #EXTINF:-1, tvg-logo="",sky sport
 http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8 
+#EXTINF:-1, tvg-logo="",sky-Golf
 http://95.170.215.120:80/hls/m3u8/Sky-Sports-Golf.m3u8 
 #EXTINF:-1, tvg-logo="",sky movies
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8 
@@ -285,7 +281,7 @@ http://95.170.215.120/hls/m3u8/Bein-Drama1.m3u8
 #EXTINF:-1, tvg-logo="",BEIN MOVIES HD1
 http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8 
 
-#EXTINF:-1, tvg-logo="",BEIN Fatafeet
+#EXTINF:-1, tvg-logo="",Fatafeet
 http://95.170.215.120/hls/m3u8/Bein-Fatafeat.m3u8
 
 
