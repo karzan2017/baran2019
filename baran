@@ -1,6 +1,6 @@
 #EXTM3U8
 
-#EXTINF:-1, tvg-logo="",Radio Dangi Quran
+#EXTINF:-1, tvg-logo="", Dangi Quran
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
