@@ -10,15 +10,6 @@ http://217.103.38.220:8001/1:0:16:51BD:C96:3:EB0000:0:0:0:
 #EXTINF:-1,Eurosport 1 HD NL
 http://217.103.38.220:8001/1:0:19:52E1:C96:3:EB0000:0:0:0:
 
-#EXTINF:-1,Eurosport 2 NL
-http://217.103.38.220:8001/1:0:16:1B94:C88:3:EB0000:0:0:0:
-
-#EXTINF:-1,FOX Sports 1 HD
-http://217.103.38.220:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
-#EXTINF:-1,FOX Sports 2 HD
-http://217.103.38.220:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
-#EXTINF:-1,FOX Sports 4 HD
-http://217.103.38.220:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
 
 
 #EXTINF:-1,Ziggo sport
@@ -27,8 +18,6 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1, ZIGGO SELECT
 
 http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
-
-
 
 #EXTINF:-1,RN7
 https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
