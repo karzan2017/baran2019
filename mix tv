@@ -1562,7 +1562,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 
 
 
-#EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی :: إذاعة القران الكريم في السليمانية
+#EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی 
 http://38.96.148.28:10346/stream
 #EXTINF:0,Nasser Alqatami Musshaf 
 http://184.173.185.71:9994/
