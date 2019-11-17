@@ -98,8 +98,7 @@ https://media.streamone.net/hlslive/account=E7RAPuILTJc2/livestream=-ZZMK-aARoY2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBtSSp5.png" group-title="NETHERLANDS",Meer Vandaag
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwXAUGZ.png" group-title="NETHERLANDS",Norderney 192 TV
-http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAnZ48d.png" group-title="NETHERLANDS",Omroep Assen
 http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/live-audio101_dut=128000-video=1400000.m3u8
