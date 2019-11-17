@@ -2,14 +2,13 @@
 
 #EXTINF:-1,Ziggo sport
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-#EXTINF:-1,Ziggo select
-http://95.170.215.118hls/m3u8/ZIGGO-Select.m3u8
+
 
 #EXTINF:-1,RN7
-https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8?nimblesessionid=90242
+https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.politiek
-https://smoote2g.omroep.nl/urishieldv2/l2fm028635367506f0eb005dcc6ecd000000.a0180127c5ba38b42d7c3f9656cf2656/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
+https://smoote2d.omroep.nl/urishieldv2/l2fm473f91e769cd1f76005dd12542000000.c8601a682a6e4bcd354ddb0e0e69be1d/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.nieuws
 https://smoote2b.omroep.nl/urishieldv2/l2fm4f67ad7d3b471663005dc8405f000000.3e85c8c41a26ab56e96e88759e487793/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1000000.m3u8
