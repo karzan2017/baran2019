@@ -1,15 +1,5 @@
 #EXTM3U8
 
-#EXTINF:-1,Ziggo Sport Golf
-http://217.103.38.220:8001/1:0:16:51C2:C96:3:EB0000:0:0:0:
-#EXTINF:-1,Ziggo Sport Select HD
-http://217.103.38.220:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
-#EXTINF:-1,Ziggo Sport Voetbal
-http://217.103.38.220:8001/1:0:16:51BD:C96:3:EB0000:0:0:0:
-
-#EXTINF:-1,Eurosport 1 HD NL
-http://217.103.38.220:8001/1:0:19:52E1:C96:3:EB0000:0:0:0:
-
 
 
 #EXTINF:-1,Ziggo sport
