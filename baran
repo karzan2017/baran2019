@@ -6,12 +6,7 @@
 
 #EXTM3U8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",waar
-http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",zarok
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
