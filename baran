@@ -71,6 +71,19 @@ http://cdn.teradek.live:1935/live/enschede/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
 http://teradek.live:1935/live/cihan/playlist.m3u8
  
+ #EXTINF:-1, tvg-logo="",newmax-tv-box-office
+ https://karwan1.de/karwan.tv/newmax-tv-box-office/chunks.m3u8
+ 
+ #EXTINF:-1, tvg-logo="",niroj-tv
+https://karwan1.de/karwan.tv/niroj-tv/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="",kurd-show-tv
+https://karwan1.de/karwan.tv/kurd-show-tv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",ava
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+
+
 #EXTINF:-1, tvg-logo="",kurdmax
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
@@ -194,7 +207,9 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/43.m3u8
 
 #EXTINF:-1,ava TV
-http://95.170.207.28:1935/live/Channel01/playlist.m3u8
+
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+
 
 #EXTINF:-1, tvg-logo="",kurdmax.music
 
