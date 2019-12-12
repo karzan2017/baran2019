@@ -5,6 +5,12 @@
 
 
 #EXTM3U8
+#EXTINF:-1, tvg-logo="",NewLine
+http://cdn.teradek.live:1935/live/newline01/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="",NewLine2
+http://qanat.tv/player/player.html?url=http://kora24.tv/FF0000/_definst_/pop1/Q0MxMg.m3u8
 
 
 
