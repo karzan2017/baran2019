@@ -5,12 +5,7 @@
 
 
 #EXTM3U8
-#EXTINF:-1, tvg-logo="",NewLine
-http://cdn.teradek.live:1935/live/newline01/playlist.m3u8
 
-
-#EXTINF:-1, tvg-logo="",NewLine2
-http://qanat.tv/player/player.html?url=http://kora24.tv/FF0000/_definst_/pop1/Q0MxMg.m3u8
 
 
 
@@ -69,6 +64,20 @@ http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 
 
+
+
+
+#EXTINF:-1, tvg-logo="",NewLine
+http://cdn.teradek.live:1935/live/newline01/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="",NewLine2
+http://qanat.tv/player/player.html?url=http://kora24.tv/FF0000/_definst_/pop1/Q0MxMg.m3u8
+
+#EXTINF:-1, tvg-logo="",cihanhd
+http://cdn.teradek.live:1935/live/cihann/playlist.m3u8
+
+
 #EXTINF:-1, tvg-logo="",ava
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
@@ -92,6 +101,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 #EXTINF:-1, tvg-logo="",Nettv 
 
 https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdchannel
+http://116.203.41.89:8080/hls/stream.m3u8
 
 
 #EXTINF:-1, tvg-logo="",Sahar
