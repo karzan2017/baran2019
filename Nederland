@@ -11,6 +11,10 @@ http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
 
 #EXTINF:-1,Animal-Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8
+
 #EXTINF:-1,RN7
 https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
