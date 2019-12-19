@@ -67,6 +67,7 @@ https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_sl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",Omroep Tilburg
 
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+
 EXTINF:-1,zuid west
 http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/live-audio101_dut=128000-video=1400000.m3u8
 
@@ -75,6 +76,9 @@ http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/
 
 https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/nJQBqssIRB82.m3u8
 
+
+EXTINF:-1,NH Gooi
+http://studiohilversum.6fm.nl:7007/hls/6fmtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
 https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
@@ -100,6 +104,8 @@ https://stream.rtvmaastricht.nl/rtvm_live/tv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVCi6QP.png" group-title="NETHERLANDS",ZO-NWS
 https://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/live-audio101_dut=128000-video=1400000.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rSPxYBz.png" group-title="NETHERLANDS",RTV 1 Stadskanaal
 
 https://media.streamone.net/hlslive/account=lqRIFo4bDtQ2/livestream=X7ZMrsKBXl8S/live-audio101_dut=128000-video=800000.m3u8
