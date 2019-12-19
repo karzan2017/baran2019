@@ -67,6 +67,8 @@ https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_sl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",Omroep Tilburg
 
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+EXTINF:-1,zuid west
+http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/live-audio101_dut=128000-video=1400000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",breda
