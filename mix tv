@@ -61,44 +61,6 @@ http://94.236.230.110:3333/8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 
-#EXTINF:-1, tvg-logo="",sky football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8 
-
-
-#EXTINF:-1, tvg-logo="",sky sport
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8 
-#EXTINF:-1, tvg-logo="",sky sport
-http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8 
-#EXTINF:-1, tvg-logo="",sky-Golf
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-Golf.m3u8 
-#EXTINF:-1, tvg-logo="",sky movies
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8 
-#EXTINF:-1, tvg-logo="",sky movies drama
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDrama.m3u8 
-#EXTINF:-1, tvg-logo="",sky movies action
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesAction.m3u8 
-#EXTINF:-1, tvg-logo="",sky moviespremie
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8 
-#EXTINF:-1, tvg-logo="",sky movies Disney
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
-
-
-#EXTINF:-1, tvg-logo="",sky movies Disney
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="",Bein DRAMA
-http://95.170.215.120/hls/m3u8/Bein-Drama1.m3u8
- 
-#EXTINF:-1, tvg-logo="",BEIN MOVIES HD1
-http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8 
-
-#EXTINF:-1, tvg-logo="",Fatafeet
-http://95.170.215.120/hls/m3u8/Bein-Fatafeat.m3u8
-
-
-
 
 #EXTINF:-1, tvg-logo="",SAMA
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
