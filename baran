@@ -70,8 +70,6 @@ http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 #EXTINF:-1, tvg-logo="",NewLine
 http://cdn.teradek.live:1935/live/newline01/playlist.m3u8
 
-#EXTINF:-1,New line hd1
-http://95.170.215.118/hls/m3u8/NewLine-1-HD.m3u8
 
 #EXTINF:-1, tvg-logo="",NewLine2
 http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
