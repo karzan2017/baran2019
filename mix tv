@@ -5,17 +5,19 @@
 #EXTINF:-1 group-title="ARAB SAT",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Action
-http://bath-talfaza.stackstaging.com/hls/arabic-live/mbc-action.php.m3u8?id=MBC-ACTION
+http://bath-talfaza.stackstaging.com/hls/arabic-live/mbc-action.php.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC Action.
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8?sd=10&rebase=on
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="Iraq (العراق)",MBC Iraq
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
@@ -62,6 +64,22 @@ http://94.236.230.110:3333/8
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 
 
+#EXTINF:-1,CINEMA 1 HD
+http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
+#EXTINF:-1,cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+
+#EXTINF:-1, tvg-logo="",FOX-FAMILY
+http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+
 #EXTINF:-1, tvg-logo="",SAMA
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 
@@ -75,7 +93,10 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1,Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
-
+#EXTINF:-1,Music Now HD
+http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+#EXTINF:-1,Music Now sd
+http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
 #EXTINF:-1,Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
@@ -92,52 +113,52 @@ https://babylonlive.net/babylontv/kardokardo.m3u8
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 
 #EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:-1,Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:-1,Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:-1,Dubai Sports*
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1,Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:-1,Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 1*
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 2*
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
@@ -149,28 +170,28 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1,Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 
 #EXTINF:-1,KTV 1*
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
 
 #EXTINF:-1,KTV 2
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
 
 #EXTINF:-1,KTV 2*
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
@@ -240,7 +261,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", sky news
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:0 type="stream" channelId="-1", cnbc ara
-https://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8?sd=10&rebase=on
+https://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", trt ara
 https://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", aljazeera
@@ -252,7 +273,7 @@ https://5baddb02ef445.streamlock.net/qanat/alqanat9/chunklist_w1592046185.m3u8
 #EXTINF:0 type="stream" channelId="-1",alhiwar 1
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",alhiwar 2
-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b964000.m3u8?
+nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b964000.m3u8
 #EXTINF:0 type="stream" channelId="-1",mekameleen
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
 #EXTINF:0 type="stream" channelId="-1",elsharq
@@ -296,8 +317,6 @@ http://109.236.92.216:9090/Cairo_Drama/tracks-v1a1/mono.m3u8
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0,elsharq tv
 http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8
-#EXTINF:0,mekameleen
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b800000.m3u8?v=2545016994
 #EXTINF:-1,NILE SPORT sd
 http://livecdnh2.tvanywhere.ae/hls/nile_sp/01.m3u8
 #EXTINF:-1,NILE SPORT hd 
@@ -327,8 +346,7 @@ https://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
 #EXTINF:0 type="stream" channelId="-1",emarat tv
 https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b860000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",alwousta tv
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_b764000_t64VVE=.m3u8?v=2545016994
+
 #EXTINF:0 type="stream" channelId="-1",ktv 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
 #EXTINF:0 type="stream" channelId="-1",ktv 2
@@ -422,22 +440,6 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:0 type="stream" channelId="-1", sima tv
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
 
-#EXTINF:-1,CINEMA 1 HD
-http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
-#EXTINF:-1,cinema 1 sd
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,Music Now HD
-http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1,Music Now sd
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1,STAR MOVIES HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies SD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World SD
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 
 
 #EXTINF:-1,i24
