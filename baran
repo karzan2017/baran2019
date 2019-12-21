@@ -100,6 +100,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 #EXTINF:-1, tvg-logo="",kurdchannel
 http://116.203.41.89:8080/hls/stream.m3u8
 
+#EXTINF:-1, tvg-logo="",IRIB-KORDESTAN
+http://95.170.215.118:80/hls/m3u8/IRIB-KORDESTAN.m3u8 
 
 #EXTINF:-1, tvg-logo="",Sahar
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
