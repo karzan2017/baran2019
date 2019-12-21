@@ -4,6 +4,10 @@
 #EXTINF:-1,B4UMovies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
 
+#EXTINF:0,star_world
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+
 
 #EXTINF:0,ZEE aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
