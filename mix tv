@@ -10,9 +10,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",MBC Action
-http://bath-talfaza.stackstaging.com/hls/arabic-live/mbc-action.php.m3u8
-#EXTINF:0 type="stream" channelId="-1",MBC Action.
 http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
@@ -57,12 +56,10 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN", beIN Sports 5 
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="beIN", beIN Sports 6 
-http://94.236.230.110:3333/6
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN", beIN Sports 8 
 http://94.236.230.110:3333/8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 US
-http://23.237.22.82:8086/udp/127.0.0.1:56021
+
 
 
 #EXTINF:-1,CINEMA 1 HD
@@ -91,8 +88,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1,ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
-#EXTINF:-1,Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+
 
 #EXTINF:-1,Music Now HD
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
@@ -113,77 +109,15 @@ https://babylonlive.net/babylontv/kardokardo.m3u8
 #EXTINF:-1,Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
-#EXTINF:-1,Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
-#EXTINF:-1,Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
-#EXTINF:-1,Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
-
-#EXTINF:-1,Dubai Sports*
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1,Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
-
-#EXTINF:-1,Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 1*
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports 2*
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
-#EXTINF:-1,Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:-1,Al Jazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-
-#EXTINF:-1,Al Jazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
-
-#EXTINF:-1,Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1,Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1,KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
@@ -246,8 +180,7 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:-1,-INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
-#EXTINF:-1,-ARAB 5
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+
 
 #EXTINF:-1 group-title="AKHBAR ARABIC",alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -256,8 +189,7 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b585000.m3u8
 #EXTINF:0 type="stream" channelId="-1", alhura
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", bbc arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", sky news
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -267,28 +199,21 @@ https://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
 https://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8
-#EXTINF:0 type="stream" channelId="-1", aljazeera mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",alqanat 9
 https://5baddb02ef445.streamlock.net/qanat/alqanat9/chunklist_w1592046185.m3u8
 #EXTINF:0 type="stream" channelId="-1",alhiwar 1
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",alhiwar 2
 nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b964000.m3u8
-#EXTINF:0 type="stream" channelId="-1",mekameleen
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",elsharq
 http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_1024p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",watan 1
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",watan 2
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",alaraby 1
-http://213.162.202.9:8000/play/a01u/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",alaraby 2
-http://213.162.202.9:8000/play/a01j/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", aljazeera-docr
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+
 #EXTINF:0,Mehwar plus
 https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
 
@@ -309,8 +234,6 @@ http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:0, Nile drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
-#EXTINF:0, Cairo drama
-http://109.236.92.216:9090/Cairo_Drama/tracks-v1a1/mono.m3u8
 
 
 
@@ -344,8 +267,7 @@ http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
 http://adtv.ercdn.net/addrama/addrama_360p.m3u8
 #EXTINF:0 type="stream" channelId="-1",emarat tv
 https://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-#EXTINF:0 type="stream" channelId="-1",emarat tv
-https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b860000.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="-1",ktv 1
@@ -418,20 +340,14 @@ https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
 #EXTINF:0 type="stream" channelId="-1",otv
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/01.m3u8
-#EXTINF:0 type="stream" channelId="-1",otv hd
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",jadeed tv
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:0 type="stream" channelId="-1",jadeed tv hd
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?sd=10&rebase=on
 
 
-#EXTINF:0 type="stream" channelId="-1",nbn Lebanon 2
-https://cllive.itworkscdn.net/nbnlive/token=nva=1557281931~dirs=1~hash=05b501cfcf2788cd00742/nbnhd/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1",nbn Lebanon 3
-http://youness-export.com/tv/nbn
-#EXTINF:0 type="stream" channelId="-1",Arabica Lebanon
-http://95.170.215.124/live/disk1/Arabica/anevia1/Arabica-audio_20000=160000-video=1587600.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",kudus tv
 http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8
 #EXTINF:0 type="stream" channelId="-1",future tv   
@@ -449,16 +365,14 @@ https://i24alive1-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1,Knesset
 https://w1.013.gostreaming.tv/Knesset/myStream/chunklist_w254899179.m3u8
-#EXTINF:-1,Channel 5
-http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
+
 #EXTINF:-1,Channel 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_1.8k/chunklist.m3u8
 #EXTINF:-1,Channel 11 plus
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:-1,Channel 12
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:-1,Channel 13
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
 #EXTINF:-1,Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,Channel 24
@@ -476,10 +390,7 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 http://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
 #EXTINF:-1,Shopping Channel (Opt-1)
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4
-#EXTINF:-1,Palestin tv
-https://4tfgufj-lh.akamaihd.net/i/4tfgufj2owx9ga_1@793108/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Palestine Mubasher
-https://4tfgufj-lh.akamaihd.net/i/4tfgufjzm5l47o_1@794116/index_2000_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:0,Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Musawa TV
@@ -490,30 +401,33 @@ http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Salam TV
 http://htvint.mada.ps:8889//salamtv/tracks-v1a1/playlist.m3u8
-#EXTINF:0,pnn Tv
-http://htvmada.mada.ps:8888/pnn/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,palestinian tv
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 #EXTINF:0,ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:0,audeh tv
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
-#EXTINF:0,Maan TV
-http://vstream3.hadara.ps:8081/MaanHD_web/web/playlist.m3u8
-#EXTINF:0,Raya TV
-http://vstream3.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
+
 #EXTINF:0,bethlehem
 http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
-#EXTINF:-1,ALFAJR
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 
+
+
+ 
+
+#EXTINF:0,b4uaflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:0,Alfajertv 2.
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1,Al Fajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:0,Kolalnas TV
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/playlist.m3u8
 
 
- 
+ #EXTINF:0,AD_NAT_GEO_HD+
+http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
 #EXTINF:-1 group-title="Documentary SAT",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,nat_geo_ara
@@ -523,7 +437,10 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1,nat_geo_people
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 
-
+#EXTINF:-1,nat_geo_wild HD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1,nat_geo HD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 #EXTINF:-1,Nat geo people HD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,Nat geo people SD ENGLISH
@@ -533,7 +450,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1,Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
- 
+
+
 
 #EXTINF:-1,jeem
 http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
@@ -559,12 +477,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w21
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:-1,Al Iarth Al Nabawi
 http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1,Iqraa
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
 
-
-#EXTINF:-1,almajd tv 2
-http://109.236.92.216:9090/al_majd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Kuwait TV Ethra Islamic
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
@@ -581,8 +494,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
 
 #EXTINF:-1,makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
-#EXTINF:-1,Iqraa Europa
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_africa
+
 #EXTINF:-1,islam live TV
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
 #EXTINF:-1,peace TV 1
@@ -635,8 +547,6 @@ http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
 #EXTINF:-1,Medi1 tv Afrique hd
 http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
-#EXTINF:-1,chada tv
-http://213.162.202.9:8000/play/a02a/index.m3u8
 
 #EXTINF:-1,m24 tv news
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
@@ -644,12 +554,10 @@ http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1,tamazight_tv8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,magharibia
-http://185.59.222.165:8081/atnProvider/magharibia_480p/chunks.m3u8
+
 #EXTINF:-1,laayoune
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,RASD TV
-https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="KUWAIT SAT",KTV 1
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
@@ -681,8 +589,7 @@ https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
 #EXTINF:-1,KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1,Kuwait TV 2
-http://109.236.92.216:9090/Kuwait2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Kuwait TV Al Majlis
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7
 #EXTINF:-1,Al Rai 
@@ -702,8 +609,7 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 
 #EXTINF:-1,al HURRA IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/index_350_av-b.m3u8
-#EXTINF:-1,aletejah tv
-http://212.18.231.213:1935/aletejahtv/aletejahtv/chunklist_w986680702.m3u8
+
 
 #EXTINF:-1,arrafidain tv
 http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_1024p/chunks.m3u8
