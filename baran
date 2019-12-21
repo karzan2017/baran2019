@@ -92,8 +92,6 @@ http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
 #EXTINF:-1, tvg-logo="",kurdmaxshow
 http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
-http://cdn.teradek.live:1935/live/astera/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",Nettv. 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
