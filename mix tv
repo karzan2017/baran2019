@@ -629,7 +629,8 @@ http://212.18.231.213:1935/samarra/samarra_160p/chunklist_w579537662.m3u8
 
 #EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی 
 http://38.96.148.28:10346/stream
-
+#EXTINF:0,رعد محمد الكردي
+http://www.mp3quran.net/ar/kurdi.html
 #EXTINF:0,Saad AlGhamdi kurdi
 http://quraan.us:9970/;*.mp3
 
@@ -671,12 +672,8 @@ http://188.165.232.7:8673/stream
 http://184.173.185.71:8004/
 #EXTINF:0,Saad AlGhamdi Radio
 http://184.173.185.71:9976
-
 #EXTINF:0,Maher Al Meaqli
 http://quraan.us:9854/;*.mp3
-#EXTINF:0,رعد محمد الكردي
-http://www.mp3quran.net/ar/kurdi.html
-
 #EXTINF:0,Saud Alshuraim Radio
 http://184.173.185.71:9986/
 #EXTINF:0,Slaah Bukhatir Radio
