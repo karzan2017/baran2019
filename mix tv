@@ -633,7 +633,10 @@ http://38.96.148.28:10346/stream
 http://www.mp3quran.net/ar/kurdi.html
 #EXTINF:0,Saad AlGhamdi kurdi
 http://quraan.us:9970/;*.mp3
-
+#EXTINF:0,Saad AlGhamdi Radio
+http://184.173.185.71:9976
+#EXTINF:0,Maher Al Meaqli
+http://server2.quraan.us:9856/;*.mp3
 #EXTINF:0,Nasser Alqatami Musshaf 
 http://184.173.185.71:9994/
 #EXTINF:0,Nabil Al Rifay Radio
@@ -670,10 +673,6 @@ http://167.114.64.4:9984/stream
 http://188.165.232.7:8673/stream
 #EXTINF:0,Saad AlGhamdi Radio
 http://184.173.185.71:8004/
-#EXTINF:0,Saad AlGhamdi Radio
-http://184.173.185.71:9976
-#EXTINF:0,Maher Al Meaqli
-http://quraan.us:9854/;*.mp3
 #EXTINF:0,Saud Alshuraim Radio
 http://184.173.185.71:9986/
 #EXTINF:0,Slaah Bukhatir Radio
