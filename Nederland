@@ -42,8 +42,8 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 
 
- 
-
+ #EXTINF:-1,VRT Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",Omroep Zeeland
 
