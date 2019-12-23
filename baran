@@ -163,11 +163,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/speda-tv.png",speda
  http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="",national-geographic 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
-
-#EXTINF:-1, tvg-logo="",national-geographic.. 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
