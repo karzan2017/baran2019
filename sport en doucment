@@ -1,0 +1,51 @@
+#EXTINF:-1,actionsportstv
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1,4
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,BT-Sport
+ http://sportbar.biz/lba/123/g7/btse.m3u8
+ 
+
+#EXTINF:-1,BT-Sport1
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1,BT-Sport2
+
+ http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+ #EXTINF:-1,BT-Sport
+ http://sportbar.biz/lba/123/g7/btse.m3u8
+
+
+#EXTINF:-1,Eurosport
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+
+#EXTINF:-1,Eurosport2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+
+#EXTINF:-1,Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1,History english
+http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8
+
+#EXTINF:-1,Discovery
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
+
+#EXTINF:-1, tvg-logo="",national-geographic 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+#EXTINF:-1, tvg-logo="",national-geographic.. 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+#EXTINF:-1,nat geo hd 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1,nat_geo_wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,nat_geo_wild.
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Right this minute
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 
+#EXTINF:-1,Redbull tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
