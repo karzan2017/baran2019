@@ -45,6 +45,16 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,-ADSport 2HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
+#EXTINF:-1,Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,-AD SPORT 1 TV
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,NILE SPORT sd
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/01.m3u8
+#EXTINF:-1,NILE SPORT hd 
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/03.m3u8
+#EXTINF:-1,NILE SPORT plus
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
@@ -112,12 +122,8 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 
 
 
-
-
-#EXTINF:-1,Abu Dhabi Sports 2*
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-
+#EXTINF:-1,CBC-Sofra
+http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 
 
 #EXTINF:-1,KTV 1
@@ -171,11 +177,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1,Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-#EXTINF:-1,-AD SPORT 1 TV
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
-#EXTINF:-1,-AD SPORT 2 TV
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 
 
 #EXTINF:-1,-INSAN TV
@@ -242,12 +244,6 @@ http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0,elsharq tv
 http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8
-#EXTINF:-1,NILE SPORT sd
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/01.m3u8
-#EXTINF:-1,NILE SPORT hd 
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/03.m3u8
-#EXTINF:-1,NILE SPORT plus
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 
 
 
