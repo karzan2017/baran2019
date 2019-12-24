@@ -212,15 +212,13 @@ nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b964000.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",elsharq
 http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_1024p/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1",watan 1
+#EXTINF:0,watantv
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",watan 2
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
 
 #EXTINF:0,Mehwar plus
 https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
-
-
 #EXTINF:-1,DREAM 2
 http://livecdnH2.tvanywhere.ae/hls/dream2/04.m3u8
 #EXTINF:0,CBC DRAMA
@@ -240,8 +238,6 @@ http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
 
 
 
-#EXTINF:0,watantv
-http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0,elsharq tv
 http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8
 
@@ -467,6 +463,9 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
 #EXTINF:-1,makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
 
+#EXTINF:0,Iqraa
+ 
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1,islam live TV
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
 #EXTINF:-1,peace TV 1
