@@ -1,7 +1,11 @@
 
 #EXTM3U8
-
-
+#EXTINF:-1 group-title="ARAB SAT",MBC 1.
+http://95.170.215.118/hls/m3u8/MBC1-Ali-Mar-AA-Z.m3u8
+#EXTINF:-1,Mbc HD2
+http://95.170.215.118/hls/m3u8/MBC2-QQ-DD-G-C.m3u8
+#EXTINF:-1,Mbc HD3
+http://95.170.215.118/hls/m3u8/MBC3-WW-TT-B-D.m3u8
 #EXTINF:-1 group-title="ARAB SAT",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 2
