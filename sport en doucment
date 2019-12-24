@@ -3,9 +3,23 @@
 #EXTM3U8
 #EXTINF:-1,Bein-Sport
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN", beIN Sports 2 
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN", beIN Sports 3 
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN", beIN Sports 4 
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN", beIN Sports 5 
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN", beIN Sports 8 
+http://94.236.230.110:3333/8
+#EXTINF:-1,-ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-
-
+#EXTINF:-1,-ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1,actionsportstv
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
