@@ -1,5 +1,12 @@
 
 #EXTM3U8
+#EXTINF:-1,angel-has-fallen
+https://s12.123movieulz.org/hls/wqtacjdnfqnuzwv4jmmempbvax67nfxm7c5juicu3,2hklwftjafsadxujv4q,shklwftjafyohlwv4da,.urlset/master.m3u8
+
+
+#EXTINF:-1,angel-has-fallen.
+https://s12.123movieulz.org/hls/wqtacjdnfqnuzwv4jmmempbvax67nfxm7c5juicu32hklwftjafsadxujv4q/index-v1-a1.m3u8
+
 #EXTINF:-1,dabangg3
 https://fs171.gounlimited.to/tea5v5jjpd2qzxfffmpyj53z4zrnlmvdb6hhw2lb4x2qfvylgdau6dvovufq/v.mp4
 
