@@ -14,9 +14,12 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC 4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-
 #EXTINF:0 type="stream" channelId="-1",MBC Action
 http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1,Mbc MAX
+http://95.170.215.118/hls/MBC-MAX-TT-DD-N.m3u8
+#EXTINF:-1,Mbc MAX.
+http://95.170.215.118/hls/m3u8/MBC-MAX-TT-DD.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
@@ -25,6 +28,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
 http://95.170.215.107:80/hls/MBC-Masr-2-Backu-M.m3u8 
 #EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="Iraq (العراق)",MBC Iraq
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+
+
 #EXTINF:-1,Rotana aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1,Rotana cinema
