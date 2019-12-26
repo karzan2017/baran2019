@@ -129,6 +129,8 @@ http://falconiptv.hopto.org:1935/f4/f4/manifest.m3u
 #EXTINF:-1, tvg-logo="",waar
 http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 
+EXTINF:-1, Nrt kids
+http://185.132.132.19/swe162128/index.m3u8
 EXTINF:-1, tvg-logo="",Zarok
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
