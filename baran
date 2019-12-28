@@ -83,7 +83,9 @@ http://95.170.215.118/hls/m3u8/Astera-HD.m3u8
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="",kurdmax
+
+
+
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdmax.
