@@ -55,10 +55,6 @@ http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
 
 
 
- 
-#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
-http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
- 
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
 http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
@@ -70,22 +66,23 @@ http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
 #EXTINF:-1, tvg-logo="",NewLine
 http://cdn.teradek.live:1935/live/newline01/playlist.m3u8
 
-
 #EXTINF:-1, tvg-logo="",NewLine2
+http://cdn.teradek.live:1935/live/newline2006/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",NewLine2.
 http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
+
 
 #EXTINF:-1, tvg-logo="",cihanhd
 http://cdn.teradek.live:1935/live/cihann/playlist.m3u8
+
 #EXTINF:-1,Astera Family
 http://95.170.215.118/hls/m3u8/Astera-HD.m3u8
 
-#EXTINF:-1, tvg-logo="",ava
-https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1, tvg-logo="",kurdmax
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdmax.
@@ -132,9 +129,10 @@ http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 
 #EXTINF:-1, Nrt kids
 http://185.132.132.19/swe162128/index.m3u8
-#EXTINF:-1,Zarok
 
+#EXTINF:-1,Zarok
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
+
 #EXTINF:-1,Zarok.
 http://95.170.215.106/hls/m3u8/Zarok-TV.m3u8
 
