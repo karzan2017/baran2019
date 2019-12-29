@@ -186,10 +186,11 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
 #EXTINF:-1, tvg-logo="",Rojava
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
 
+#EXTINF: -1, Rojava TV
+http://95.170.215.106/hls/m3u8/Rojava-TV-Backup.m3u8
+
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
 http://95.170.215.106/hls/m3u8/Ronahi-TV-Backup.m3u8
-
-
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
 http://137.74.205.201/live25/live25.m3u8
