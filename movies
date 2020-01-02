@@ -1,0 +1,70 @@
+
+
+
+
+#EXTM3U8
+
+#EXTINF:-1,My-Cinema
+http://95.170.215.118/hls/m3u8/My-Cinema-HD--UU-FF-RR.m3u8
+#EXTINF:-1,FILMBOX
+http://95.170.215.118/hls/m3u8/MY-FILMBOX-OO-AA-FF.m3u8
+#EXTINF:-1, tvg-logo="",FOX-FAMILY
+http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+#EXTINF:-1,star_movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1,-HBO HOME
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+
+#EXTINF:-1,HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1,HBO2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1,HBO3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1,CINEMA 1 HD
+http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
+#EXTINF:-1,cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:0,star_world
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1,-24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,-24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,MBC-Bollywood
+http://95.170.215.107/hls/m3u8/MBC-Bollywood-BU.m3u8
+#EXTINF:-1,Bollywood TV.
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1,Mix
+http://95.170.215.107/hls/m3u8/Mix-Hollywood.m3u8
+
+#EXTINF:-1,ZEE-AFLAM
+http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
+
+#EXTINF:0,ZEE aflam.
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+#EXTINF:-1,ZEE-Alwan
+http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
+
+#EXTINF:0,b4uaflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+
+#EXTINF:-1,B4UMovies 
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1,-hind
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,-WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
