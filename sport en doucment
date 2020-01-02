@@ -42,6 +42,14 @@ https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1,4
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
+
+
+
+
+#EXTINF:-1,Fox Sports
+http://45.58.62.92:8080
+#EXTINF:-1,Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1,CMore-Football
 http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 #EXTINF:-1,CMore-Sport
@@ -64,6 +72,13 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,FIGHT-BOX
 http://95.170.215.118/hls/m3u8/FIGHT-BOX-MM-CC-E-X.m3u8
 
+
+
+#EXTINF:-1,Viasat History
+http://178.124.183.4/hls/CH_VIASATHISTORY/variant.m3u8
+
+#EXTINF:-1,Viasat Explore
+http://178.124.183.4:80/hls/JQQ83OBHTQ/variant.m3u8
 #EXTINF:-1,docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1,History english
