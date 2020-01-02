@@ -10,8 +10,12 @@ http://95.170.215.118/hls/m3u8/My-Cinema-HD--UU-FF-RR.m3u8
 http://95.170.215.118/hls/m3u8/MY-FILMBOX-OO-AA-FF.m3u8
 #EXTINF:-1, tvg-logo="",FOX-FAMILY
 http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
-#EXTINF:-1,star_movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1,Hollywood
+http://46.32.68.167/s/live/256/86.169.51.136/1/0.m3u8
+
+#EXTINF:-1,TV1000 Action
+http://178.124.183.4:80/hls/9X9NUEEKGW/variant.m3u8
 
 #EXTINF:-1,-HBO HOME
 http://109.248.236.41:4433/udp/238.1.1.71:1234
@@ -26,6 +30,8 @@ http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
 #EXTINF:-1,cinema 1 sd
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1,star_movies.
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,Star Movies SD
