@@ -26,10 +26,23 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr2
 http://95.170.215.107:80/hls/MBC-Masr-2-Backu-M.m3u8 
-#EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="Iraq (العراق)",MBC Iraq
+#EXTINF:-1,MBC IRAQ
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 
 
+#EXTINF:-1,MBC IRAQ.
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1,MBC-Bollywood
+http://95.170.215.107/hls/m3u8/MBC-Bollywood-BU.m3u8
+
+#EXTINF:-1,Mix
+http://95.170.215.107/hls/m3u8/Mix-Hollywood.m3u8
+
+#EXTINF:-1,ZEE-AFLAM
+http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
+
+#EXTINF:-1,ZEE-Alwan
+http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
 #EXTINF:-1,Rotana aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1,Rotana cinema
@@ -65,37 +78,11 @@ http://livecdnh2.tvanywhere.ae/hls/nile_sp/03.m3u8
 #EXTINF:-1,NILE SPORT plus
 http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN", beIN Sports 2 
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN", beIN Sports 3 
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN", beIN Sports 4 
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN", beIN Sports 5 
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN", beIN Sports 8 
-http://94.236.230.110:3333/8
 
 
 
-#EXTINF:-1,CINEMA 1 HD
-http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
-#EXTINF:-1,cinema 1 sd
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,STAR MOVIES HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies SD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World SD
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 
-#EXTINF:-1, tvg-logo="",FOX-FAMILY
-http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+
 
 #EXTINF:-1, tvg-logo="",SAMA
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
@@ -413,13 +400,6 @@ http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,bethlehem
 http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
-
-
-
- 
-
-#EXTINF:0,b4uaflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:0,Alfajertv 2.
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1,Al Fajer 2
