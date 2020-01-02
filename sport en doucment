@@ -6,7 +6,7 @@ http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN", beIN Sports 2 
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN", beIN Sports 3 
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN", beIN Sports 4 
@@ -41,9 +41,14 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1,4
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1,CMore-Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1,CMore-Sport
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
 #EXTINF:-1,BT-Sport
  http://sportbar.biz/lba/123/g7/btse.m3u8
- #EXTINF:-1,BT-Sport1
+#EXTINF:-1,BT-Sport1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1,BT-Sport2
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
@@ -55,6 +60,12 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 #EXTINF:-1,Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1,FIGHT-BOX
+http://95.170.215.118/hls/m3u8/FIGHT-BOX-MM-CC-E-X.m3u8
+
+#EXTINF:-1,docubox
+http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1,History english
 http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8
 #EXTINF:-1,Discovery
@@ -81,8 +92,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
  #EXTINF:0,AD_NAT_GEO_HD+
 http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
-#EXTINF:-1 group-title="Documentary SAT",Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al-Jazera-Doc
+http://95.170.215.107/hls/Al-Jazera-Doc-HD-M.m3u8
 #EXTINF:-1,nat_geo_ara
 http://livecdnH2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
 #EXTINF:-1,nat_geo_wild
