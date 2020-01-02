@@ -208,10 +208,10 @@ https://bozztv.com/36bay2/gin/giniko_ciratv_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="",med muzik
 http://95.170.215.106/hls/m3u8/MedMusic-Backup.m3u8
 
-
 #EXTINF:-1, tvg-logo="",Vin
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/43.m3u8
-
+#EXTINF:-1, tvg-logo="",Vin.
+http://95.170.215.118/hls/m3u8/VIN-TV-HD.m3u8
 #EXTINF:-1,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
