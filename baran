@@ -120,15 +120,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 http://95.170.215.118:80/hls/m3u8/Kurd-Goal.m3u8
 
 #EXTINF:-1, tvg-logo="",falcon1
-http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
-
+http://falconiptv.hopto.org:1935/f1/f1/playlist.m3u8
 #EXTINF:-1, tvg-logo="",falcon2
-http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="",falconfamily
-http://falconiptv.hopto.org:1935/f4/f4/manifest.m3u
+http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="",waar
 http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
