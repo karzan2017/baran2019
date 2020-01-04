@@ -50,8 +50,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1,Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1,CMore-Football
-http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 #EXTINF:-1,CMore-Sport
 http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
 #EXTINF:-1,BT-Sport
