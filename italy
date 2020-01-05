@@ -2,10 +2,11 @@
     
 #EXTM3U8
 
-#EXTINF:-1,HD پەخشی ڕاستەوخۆی کەناڵی ئامۆژگاری
-https://www.youtube.com/watch?v=k6mRYEaq5P0
+#EXTINF:-1,mamosta soran 1
+https://www.youtube.com/channel/UC-Qgc6FuO1Wx6XauzZ1Iumg
 
 
 
 
-
+#EXTINF:-1,mamosta soran 2
+plugin://plugin.video.youtube/channel/UC-Qgc6FuO1Wx6XauzZ1Iumg
