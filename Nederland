@@ -78,8 +78,8 @@ https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82
 EXTINF:-1,NH Gooi
 http://studiohilversum.6fm.nl:7007/hls/6fmtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
-https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTVnof
+https://593aed234297b.streamlock.net/rtvnof2/live/chunklist_w293830853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/akN2ODG.png" group-title="NETHERLANDS",RTV Noord Extra
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
@@ -123,7 +123,7 @@ http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808
 http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/live-audio101_dut=128000-video=1400000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",At5
-https://ngx.cr2.streamzilla.xlcdn.com/session/8c12bddd4085163492305f3fe9d5c3dd/sz/atvijf/wowza4/live/live.smil/playlist.m3u8
+https://ngx.cr6.streamzilla.xlcdn.com/session/b6abc3c0efc7a095846209ba01ced0fd/sz/atvijf/wowza4/live/live.smil/chunklist_b3145728.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="NETHERLANDS",RTV Arnhem
 http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
@@ -144,15 +144,12 @@ http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
  https://media.streamone.net/hlslive/account=lDJBNuobD5c2/livestream=2JJFDeYCdhw0/2JJFDeYCdhw0.m3u8
  
  
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="NETHERLANDS",Den Haag TV
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
- 
 
  
  #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",Dtv Oss
  
- https://ms7.mx-cd.net/tv/143-646311/DTV_Den_Bosch.smil/chunklist_w201397643_b1894400_slNLD.m3u8
+ https://ngx.cr2.streamzilla.xlcdn.com/session/752cb5e8a35c3f2c3db4fd42b9583400/sz/dtvmaasland/wowza4/live/dtv1/chunklist.m3u8
+ 
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",EDE TV
@@ -165,7 +162,8 @@ http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAD13mY.png" group-title="NETHERLANDS",HTR TV Heusden
-http://live.streamone.nl/livestream/h3kXcf2yyam/playlist.m3u8
+https://ngx.cr6.streamzilla.xlcdn.com/session/2c1f2536be79af8cedfc7bd2e6126c96/sz/htr/wowza4/live/live/chunklist.m3u8
+
  
  #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-nqgy4QEBOFQ/U9971fpjDjI/AAAAAAAATCs/M0AiQm7YToE/s1600/BVN-logo.png" group-title="NETHERLANDS",Bvn
  https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/index.m3u8
@@ -198,7 +196,8 @@ https://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",wos
-https://ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",salto4
 https://salto-streams.nl/hls/sotv2.m3u8
