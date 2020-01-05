@@ -52,8 +52,6 @@ http://95.170.215.107/hls/Iraqia-Kurd-M.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros                           
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros.  
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w777146511_b1296000_sleng.m3u8
 
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
