@@ -21,6 +21,7 @@ http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
 
 #EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv
 http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
+
 #EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv.
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8
@@ -128,7 +129,8 @@ http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 
 #EXTINF:-1, Nrt kids.
 http://95.170.215.106:80/hls/m3u8/NRT3-Kids.m3u8
-#EXTINF:-1, Nrt kids
+#EXTINF:-1, afarintv
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w863495126.m3u8
 http://185.132.132.19/swe162128/index.m3u8
 
 #EXTINF:-1,Zarok
