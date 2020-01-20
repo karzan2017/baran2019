@@ -130,8 +130,7 @@ http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 #EXTINF:-1, Nrt kids.
 http://95.170.215.106:80/hls/m3u8/NRT3-Kids.m3u8
 #EXTINF:-1, afarintv
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w863495126.m3u8
-http://185.132.132.19/swe162128/index.m3u8
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1,Zarok
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
