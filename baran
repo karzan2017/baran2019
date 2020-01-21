@@ -100,8 +100,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 http://95.170.215.110:80/0.m3u8
 
 #EXTINF:-1,kurdistanoil
-http://kurdistanoilandgashd.com/hls/OIL.m3u8
-
+http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
 #EXTINF:-1, tvg-logo="",kurdchannel
 http://116.203.41.89:8080/hls/stream.m3u8
 
