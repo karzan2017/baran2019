@@ -116,12 +116,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 #EXTINF:-1, tvg-logo="",Kurd-Goal
 http://95.170.215.118:80/hls/m3u8/Kurd-Goal.m3u8
 
-#EXTINF:-1, tvg-logo="",falcon1
-http://falconiptv.hopto.org:1935/f1/f1/playlist.m3u8
-#EXTINF:-1, tvg-logo="",falcon2
-http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
-#EXTINF:-1, tvg-logo="",falcon3
-http://falconiptv.hopto.org:1935/f3/f3/playlist.m3u8
+#EXTINF:-1, tvg-logo="",Astera-Sport
+http://95.170.215.118:80/hls/m3u8/Astera-Sport-A2-JP.m3u8
+
 
 #EXTINF:-1, tvg-logo="",waar
 http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
@@ -143,12 +140,6 @@ http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
 
 EXTINF:-1, tvg-logo="",kurdmaxpepule.
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
-http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
-
-#EXTINF:-1,""nrt4
-http://185.132.132.19/swe162129/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="",Dangi Quran.
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
@@ -210,6 +201,9 @@ http://95.170.215.118/hls/m3u8/VIN-TV-HD.m3u8
 #EXTINF:-1,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+
+#EXTINF:-1,kurdShow
+http://krdstream.com:80/kurdShowHD/index.m3u8
 
 
 #EXTINF:-1, tvg-logo="",kurdmax.music
