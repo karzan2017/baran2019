@@ -96,13 +96,9 @@ http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 #EXTINF:-1, tvg-logo="",Nettv. 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
-#EXTINF:-1,4k
-http://95.170.215.110:80/0.m3u8
-
 #EXTINF:-1,kurdistanoil
 http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
-#EXTINF:-1, tvg-logo="",kurdchannel
-http://116.203.41.89:8080/hls/stream.m3u8
+
 
 #EXTINF:-1, tvg-logo="",IRIB-KORDESTAN
 http://95.170.215.118:80/hls/m3u8/IRIB-KORDESTAN.m3u8 
