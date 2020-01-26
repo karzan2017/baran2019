@@ -2,6 +2,91 @@
 
 #EXTM3U8
 
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28280
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 2
+http://linux-app.tv:6204/Basimalle/Dezhin2000/8541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 3
+http://linux-app.tv:6204/Basimalle/Dezhin2000/8541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 4
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 5
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28280
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEINSPORT",BEIN SPORT 2 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28400
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEINSPORT",BEIN SPORT 3 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28399
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINSPORT",BEIN SPORT 4 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28398
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEINSPORT",BEIN SPORT 5 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28397
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINSPORT",BEIN SPORT 6 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28396
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEINSPORT",BEIN SPORT 7 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28395
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEINSPORT",BEIN SPORT 8 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28394
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEINSPORT",BEIN SPORT 9 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28393
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEINSPORT",BEIN SPORT 10 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28392
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 HD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28391
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28385
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXOUNHB.png" group-title="BEINSPORT",BEIN SPORT News
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28386
+ 
+#EXTINF-1 tvg-logo="https://i.imgur.com/NKHSbt7.png" group-title="BEINSPORT",BEIN NBA
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28374
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEINSPORT",BEIN SPORT 2 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28375
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEINSPORT",BEIN SPORT 3 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28376
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINSPORT",BEIN SPORT 4 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28377
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEINSPORT",BEIN SPORT 5 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28378
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINSPORT",BEIN SPORT 6 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28379
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEINSPORT",BEIN SPORT 7 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28380
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEINSPORT",BEIN SPORT 8 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28381
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEINSPORT",BEIN SPORT 9 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28382
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEINSPORT",BEIN SPORT 10 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28383
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28384
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
 http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN", beIN Sports 2 
@@ -12,6 +97,11 @@ http://95.170.215.118/hls/m3u8/Astera-Sport-A2-JP.m3u8
 http://95.170.215.101/hls/Bein-Sport-HD4-gfy.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN", beIN Sports 5 
 http://95.170.215.101/hls/Bein-Sport-HD5-sx9.m3u8
+
+
+
+
+
 #EXTINF:-1,-ADSport 1HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,-ADSport 2HD
