@@ -1,6 +1,15 @@
 #EXTM3U8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="4K",Npo2 4K
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21332
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="4K",Npo3 4K
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21331
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="4K",Npo NIEUWS
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21328
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="4K",Npo EXTRA 1 4K
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21330
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="4K",Npo EXTRA 2 4K
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21329
 
 #EXTINF:-1,Ziggo sport
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
