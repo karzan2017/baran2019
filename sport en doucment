@@ -42,6 +42,46 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/28392
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28391
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28385
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXOUNHB.png" group-title="BEINSPORT",BEIN SPORT News
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28386
+ 
+#EXTINF-1 tvg-logo="https://i.imgur.com/NKHSbt7.png" group-title="BEINSPORT",BEIN NBA
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28374
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEINSPORT",BEIN SPORT 2 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28375
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEINSPORT",BEIN SPORT 3 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28376
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINSPORT",BEIN SPORT 4 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28377
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEINSPORT",BEIN SPORT 5 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28378
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINSPORT",BEIN SPORT 6 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28379
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEINSPORT",BEIN SPORT 7 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28380
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEINSPORT",BEIN SPORT 8 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28381
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEINSPORT",BEIN SPORT 9 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28382
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEINSPORT",BEIN SPORT 10 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28383
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 SD
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28384
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
 http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
