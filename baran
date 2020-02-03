@@ -69,10 +69,11 @@ http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
 
 #EXTINF:-1, tvg-logo="",cihanhd
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
+#EXTINF:-1, tvg-logo="",cihanhd
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9594
 
 #EXTINF:-1,Astera Family
 http://95.170.215.118/hls/m3u8/Astera-HD.m3u8
-
 
 
 
@@ -95,9 +96,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
 #EXTINF:-1,dunya
 http://31.14.40.139:1935/liveTrans/dunya-dat/livestream-dunya-hd/dunya65aHbDJVsmn5L79G-pshtiwan.m3u8
-
-
-
+#EXTINF:-1,Qallat
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1037
+#EXTINF:-1,Best
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1039
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Astera Family HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Astera Documentary
@@ -124,6 +126,13 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/27729
 http://linux-app.tv:6204/Basimalle/Dezhin2000/212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Niga family
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1034
+#EXTINF:-1,Niga Kids
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1032
+#EXTINF:-1,Niga movies
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1033
+
+#EXTINF:-1,Kirkuk
+http://linux-app.tv:6204/Basimalle/Dezhin2000/204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Newline HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1961
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Newline HD2
@@ -134,6 +143,7 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/9596
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1036
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",zed tv
 http://linux-app.tv:6204/Basimalle/Dezhin2000/10581
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",binin
 http://linux-app.tv:6204/Basimalle/Dezhin2000/10587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",MMN Movies
@@ -169,8 +179,7 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/1019
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",JOJO mama
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Soz tv
-http://linux-app.tv:6204/Basimalle/Dezhin2000/30422
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Zar sport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="KURDISH LOCAL",Aso sport
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1005
@@ -178,6 +187,10 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/1005
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1004
 #EXTINF:-1 ",Dahen.hd
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1009
+
+
+#EXTINF:-1,Nishtimani mn
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9591
 
 #EXTINF:-1 ",Bask
 http://linux-app.tv:6204/Basimalle/Dezhin2000/1028
@@ -228,6 +241,13 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/29348
 
 #EXTINF:-1, tvg-logo="",Dangi Quran.
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
+
+#EXTINF:-1,Judy
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9592
+
+#EXTINF:-1,Srusht
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1040
+
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
 http://utv.teradek.live:1935/live/utv/playlist.m3u8
