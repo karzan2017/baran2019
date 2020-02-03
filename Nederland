@@ -65,7 +65,24 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/21305
 #EXTINF:-1,spike
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21306 
 
-#EXTINF:-1,1classic
+
+
+
+#EXTINF:-1,Film Premiere
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21281
+
+
+#EXTINF:-1,Film Family
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21282
+#EXTINF:-1,Film Europe
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21283
+
+#EXTINF:-1,Film Drama
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/21284
+
+EXTINF:-1,1classic
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21295
 #EXTINF:-1,Vice
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21294
