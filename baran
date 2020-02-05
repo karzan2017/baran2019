@@ -73,7 +73,7 @@ http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
 
 #EXTINF:-1, tvg-logo="",cihanhd
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
-#EXTINF:-1, tvg-logo="",cihanhd
+#EXTINF:-1, tvg-logo="",cihan.hd
 http://linux-app.tv:6204/Basimalle/Dezhin2000/9594
 
 #EXTINF:-1,Astera Family
