@@ -24,9 +24,7 @@ http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
 
 #EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv.
 
-http://51.75.66.91:8080/gksat.mp4
-
-
+http://95.170.215.106/hls/GK-Backup-M.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
