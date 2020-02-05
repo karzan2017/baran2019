@@ -6,6 +6,8 @@
 
 #EXTM3U8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7BDN2ou.png" group-title="KURDISH",Kurdsat
+http://95.170.215.106/hls/Kurdsat-Backup-M.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
@@ -18,6 +20,9 @@ http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdsatnews
 http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ajf0tcN.png" group-title="KURDISH",Kurdsat News
+http://95.170.215.106/hls/Kurdsat-N-Backup-M.m3u8
 
 #EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv
 http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
