@@ -269,7 +269,8 @@ http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
 #EXTINF:-1, tvg-logo="",payam.
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 
-
+#EXTINF:-1, tvg-logo="",Amozhgary. TV
+http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="",amozhgary
 
