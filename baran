@@ -296,8 +296,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
 http://live.jintv.org:12335/medialive/jintv.m3u8
 
-#EXTINF:-1, tvg-logo="",manbij
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
+
 
 #EXTINF:-1, tvg-logo="",Rojava
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
