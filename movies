@@ -14,35 +14,9 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/8541
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="UK",sky movies Movies Family
 http://linux-app.tv:6204/Basimalle/Dezhin2000/8540
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Beinmovies 1
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2151
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Beinmovies 2
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2303
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Beinmovies 3
-http://linux-app.tv:6204/Basimalle/Dezhin2000/4068
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Beinmovies 4
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2712
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein Series 1
-http://linux-app.tv:6204/Basimalle/Dezhin2000/6560
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein Series 2
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9028
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein Drama
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9031
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",BEin Amc
-http://linux-app.tv:6204/Basimalle/Dezhin2000/7136
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein fatafeat
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2714
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein Gouemet
-http://linux-app.tv:6204/Basimalle/Dezhin2000/7541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein OutDoor
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9030
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Bein HG tv
-http://linux-app.tv:6204/Basimalle/Dezhin2000/7138
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN movies first 1
-http://linux-app.tv:6204/Basimalle/Dezhin2000/3519
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSn movies first 2
 http://linux-app.tv:6204/Basimalle/Dezhin2000/27777
@@ -132,4 +106,4 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/inde
 http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1,-WOWOW MOVIES (JPN|ENG)
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
