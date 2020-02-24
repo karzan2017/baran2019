@@ -303,15 +303,16 @@ http://95.170.215.106/hls/m3u8/Rojava-TV-Backup.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
 http://95.170.215.106/hls/m3u8/Ronahi-TV-Backup.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
-http://95.170.215.106/hls/Ronahi-TV-Backup-M.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
-
-http://95.170.215.106/hls/m3u8/STERK-TV-Backup.m3u8
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk.
+http://137.74.205.201/live25/live25.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
-http://95.170.215.106/hls/CIRA-TV-Backup-M.m3u8
+
 
 #EXTINF:-1, tvg-logo="",med muzik
 http://95.170.215.106/hls/m3u8/MedMusic-Backup.m3u8
