@@ -15,29 +15,19 @@ https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat..
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
-http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 
-#EXTINF:-1, tvg-logo="",kurdsatnews
-http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ajf0tcN.png" group-title="KURDISH",Kurdsat News
-http://95.170.215.106/hls/Kurdsat-N-Backup-M.m3u8
-
-#EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv
-http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv.
-
-http://95.170.215.106/hls/GK-Backup-M.m3u8
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
 
 
-
+#EXTINF:-1, tvg-logo="",kurdistan24.
+http://95.170.215.118/hls/m3u8/K24.m3u8
 #EXTINF:-1, tvg-logo="",kurdistan24
-http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8 
+
+
 
 
 #EXTINF:-1,Spee
@@ -55,14 +45,12 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
-http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8 
 
 
 
 #EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
-http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8 
 
 
 
@@ -84,11 +72,9 @@ http://95.170.215.118/hls/m3u8/Astera-HD.m3u8
 
 #EXTINF:-1, tvg-logo="",kurdmax
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:-1, tvg-logo="",kurdmax.
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/31.m3u8 
 
-#EXTINF:-1, tvg-logo="",kurdmax.B
-http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
-#EXTINF:-1, tvg-logo="",kurdmax.S
-http://95.170.215.106/hls/KURDMAX-S-Backup-M.m3u8
 #EXTINF:-1, tvg-logo="",kurdmaxshow
 http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 
@@ -227,7 +213,8 @@ http://95.170.215.118:80/hls/m3u8/Astera-Sport-A2-JP.m3u8
 
 
 #EXTINF:-1, tvg-logo="",waar
-http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 
 #EXTINF:-1, Nrt kids.
 http://95.170.215.106:80/hls/m3u8/NRT3-Kids.m3u8
@@ -264,9 +251,7 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/1040
 #EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
 http://utv.teradek.live:1935/live/utv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="",payam
 
-http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
 
 #EXTINF:-1, tvg-logo="",payam.
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
@@ -297,27 +282,29 @@ http://live.jintv.org:12335/medialive/jintv.m3u8
 #EXTINF:-1, tvg-logo="",Rojava
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
 
-#EXTINF: -1, Rojava TV
-http://95.170.215.106/hls/m3u8/Rojava-TV-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
-http://95.170.215.106/hls/m3u8/Ronahi-TV-Backup.m3u8
 
 
+#EXTINF: -1, MEDYA HABER
+http://137.74.205.201/live15/live15.m3u8
+ 
+#EXTINF: -1, STERK
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8 
+ 
+#EXTINF: -1, CIRA TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8 
+#EXTINF: -1, jin
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
+#EXTINF: -1, RONAHI
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8 
+ 
+#EXTINF: -1, MED MUSIC
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8 
 
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
 http://137.74.205.201/live2/sterk-3mbps.m3u8
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk.
 http://137.74.205.201/live25/live25.m3u8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
-
-
-#EXTINF:-1, tvg-logo="",med muzik
-http://95.170.215.106/hls/m3u8/MedMusic-Backup.m3u8
-
-
 
 #EXTINF:-1, tvg-logo="",Vin.
 http://95.170.215.118/hls/m3u8/VIN-TV-HD.m3u8
