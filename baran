@@ -1,0 +1,300 @@
+#EXTM3U
+#EXTINF:0,kurdsat.
+
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
+#EXTINF:0,Kurdsat
+http://95.170.215.118/hls/m3u8/Kurdsat.m3u8
+#EXTINF:0,kurdsat..
+
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,kurdsat1
+
+http://95.170.215.118/hls/m3u8/Kurdsat.m3u8
+#EXTINF:0,Kurdsat News
+http://95.170.215.118/hls/m3u8/Kurdsat-News.m3u8
+
+#EXTINF:0,gk-tv
+http://51.75.66.91:8080/gksat.mp4
+
+
+#EXTINF:0,Iraqia-Kurd
+http://95.170.215.107/hls/Iraqia-Kurd-M.m3u8 
+#EXTINF:0,Spee
+
+http://speelive2020.flashmediacast.com:1935/speelive2020/livestream/chunklist_w521432909.m3u8
+#EXTINF:0,kurdistan
+
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
+#EXTINF:0,kurdistan24
+
+http://95.170.215.118/hls/m3u8/K24.m3u8
+#EXTINF:0,zagros
+
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,rudaw
+
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+#EXTINF:0,nrt
+
+http://95.170.215.118/hls/m3u8/NRT.m3u8
+#EXTINF:0,nrt2
+
+http://95.170.215.118/hls/m3u8/NRT2.m3u8
+#EXTINF:0,NewLine
+
+http://cihan.teradek.live:1935/live/new010line/playlist.m3u8
+#EXTINF:0,NewLine2.
+http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
+#EXTINF:0,cihanhd
+
+http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
+#EXTINF:0,cihan.hd
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9594
+
+#EXTINF:0,kurdmax
+
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:0,kurdmaxshow
+
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+#EXTINF:0,waar
+
+http://95.170.215.118/hls/m3u8/Waar.m3u8
+#EXTINF:0,Nettv.
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
+#EXTINF:0,4K
+
+http://95.170.215.110/0.m3u8
+#EXTINF:0,4K..
+
+http://95.170.215.110:80/0.m3u8
+#EXTINF:0,kurdistanoil
+
+http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
+
+#EXTINF:0,amozhgary
+
+http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/chunklist_w1862625064.m3u8
+#EXTINF:0,Amozhgary. TV
+
+http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dangi Quran.
+
+http://radio.dangiquran.com:40/live/radio/playlist.m3u8
+#EXTINF:0,MMN Quran
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/29348
+#EXTINF:0,Asman
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1004
+#EXTINF:0,Dahen.hd
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1009
+#EXTINF:0,Bask
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1028
+#EXTINF:0,Judy
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9592
+#EXTINF:0,Srusht
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1040
+#EXTINF:0,payam.
+
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:0,payam
+
+http://95.170.215.118/hls/m3u8/Payam-TV.m3u8   
+#EXTINF:0,utv-hawler
+
+http://utv.teradek.live:1935/live/utv/playlist.m3u8
+#EXTINF:0,speda
+
+http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
+#EXTINF:0,kurdmaxpepule.
+
+http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
+#EXTINF:0,afarintv
+
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:0,Nrt kids.
+http://95.170.215.118/hls/m3u8/NRT3-Kids.m3u8
+
+#EXTINF:0,Zarok
+
+http://95.170.215.118/hls/m3u8/Zarok-TV.m3u8
+#EXTINF:0,TRT-Kurdi
+
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,Sahar
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
+#EXTINF:0,IRIB-KORDESTAN
+
+http://95.170.215.118:80/hls/m3u8/IRIB-KORDESTAN.m3u8 
+#EXTINF:0,Aryan
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
+#EXTINF:0,Rojava
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
+#EXTINF:0,Rojava TV
+
+http://95.170.215.118/hls/m3u8/Rojava-TV.m3u8
+#EXTINF:0,Jin
+
+http://live.jintv.org:12335/medialive/jintv.m3u8
+#EXTINF:0,Ronahi
+http://95.170.215.118/hls/m3u8/Ronahi-TV.m3u8
+
+#EXTINF:0,cira
+
+http://95.170.215.118/hls/m3u8/CIRA-TV.m3u8
+#EXTINF:0,sterk
+
+http://95.170.215.118/hls/m3u8/STERK-TV.m3u8
+#EXTINF:0,med muzik
+
+http://95.170.215.118/hls/m3u8/Med-Music.m3u8
+#EXTINF:0,kurdmax.music
+
+http://31.14.40.139:1935/music/livestream/palylist.m3u8
+#EXTINF:0,Vin.
+
+http://95.170.215.118/hls/m3u8/VIN-TV-HD.m3u8
+#EXTINF:0,ava TV
+
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+#EXTINF:0,Astera Documentary
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/16729
+#EXTINF:0,Astera Family HD
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1006
+#EXTINF:0,Astera movies
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/13426
+#EXTINF:0,Astera Show
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/10588
+#EXTINF:0,Astera sport
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/13429
+#EXTINF:0,Astera Baby HD
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/13430
+#EXTINF:0,Derwaze
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28424
+#EXTINF:0,Darwaze Music
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28423
+#EXTINF:0,Imovies Action
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/27729
+#EXTINF:0,Imovies
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/213
+#EXTINF:0,Effect tv
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/212
+#EXTINF:0,Niga Kids
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1032
+#EXTINF:0,Niga movies
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1033
+#EXTINF:0,Niga family
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1034
+#EXTINF:0,Newline HD
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1961
+#EXTINF:0,Newline HD2
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1031
+#EXTINF:0,Reng HD
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9596
+#EXTINF:0,Reng Documentary
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1036
+#EXTINF:0,zed tv
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/10581
+#EXTINF:0,JOJO mama
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1997
+#EXTINF:0,binin
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/10587
+#EXTINF:0,MMn Classic Musical
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28850
+#EXTINF:0,MMN Movies
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28838
+#EXTINF:0,MMN sport
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28848
+#EXTINF:0,MMN Documentary
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28849
+#EXTINF:0,MMN Kids
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28839
+#EXTINF:0,MMN Clipe
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/28840
+#EXTINF:0,MMN Radio farsi
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/30277
+#EXTINF:0,MMN Show
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/29799
+#EXTINF:0,Xezan
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/2687
+#EXTINF:0,GK Hawler
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1019 
+#EXTINF:0,Rasan
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1962
+#EXTINF:0,hawler one
+
+http://31.14.40.139:1935/liveTrans/kurdextra/livestream-radio/chunklist_w1612833557.m3u8
+#EXTINF:0,Shaista
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/10582
+#EXTINF:0,Nibar
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/15791
+#EXTINF:0,Minara
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1029
+#EXTINF:0,Lawan
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1003
+#EXTINF:0,Aso sport
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1005
+
+
+#EXTINF:0,Kirkuk
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/204
+#EXTINF:0,Nishtimani mn
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/9591
+#EXTINF:0,Qallat
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1037
+#EXTINF:0,Best
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/1039
+#EXTINF:0,korak
+
+http://linux-app.tv:6204/Basimalle/Dezhin2000/10584
