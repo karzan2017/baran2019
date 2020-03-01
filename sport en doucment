@@ -47,12 +47,11 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/28385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXOUNHB.png" group-title="BEINSPORT",BEIN SPORT News
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28386
  
+ 
 #EXTINF-1 tvg-logo="https://i.imgur.com/NKHSbt7.png" group-title="BEINSPORT",BEIN NBA
  
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN fullhd.1 
- http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 SD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28374
  
@@ -86,16 +85,6 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/28383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 SD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28384
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 
-http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN", beIN Sports 2 
-http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN", beIN Sports 3 
-http://95.170.215.118/hls/m3u8/Astera-Sport-A2-JP.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN", beIN Sports 4 
-http://95.170.215.101/hls/Bein-Sport-HD4-gfy.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN", beIN Sports 5 
-http://95.170.215.101/hls/Bein-Sport-HD5-sx9.m3u8
 
 
 
@@ -137,18 +126,17 @@ http://persik.tv/stream/3602/287583/10249.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1,BT-Sport2
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1,Eurosport
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-http://178.124.183.4/hls/CH_VIASATHISTORY/variant.m3u8
 
-#EXTINF:-1,Viasat Explore
-http://178.124.183.4:80/hls/JQQ83OBHTQ/variant.m3u8
+
+
+#EXTINF:-1 group-title="local tv",kurdish
+
+
 #EXTINF:-1,docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1,History english
 http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8
-#EXTINF:-1,Discovery
-http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8
+
 #EXTINF:-1, tvg-logo="",national-geographic 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
 #EXTINF:-1, tvg-logo="",national-geographic.. 
@@ -184,8 +172,7 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/984
 http://linux-app.tv:6204/Basimalle/Dezhin2000/8999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN NAT GEO People
 http://linux-app.tv:6204/Basimalle/Dezhin2000/2711
- #EXTINF:0,AD_NAT_GEO_HD
-http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Discovery max Hd
 http://linux-app.tv:6204/Basimalle/Dezhin2000/9026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Discovery Turbo xtra
@@ -201,27 +188,17 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 
 
 
-#EXTINF:-1,nat_geo_wild HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1,nat_geo HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
+
 #EXTINF:-1,Nat geo people HD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,Nat geo people SD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1,Nat geo wild SD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+
 #EXTINF:-1,Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,Discovery
-http://95.170.215.118/hls/m3u8/Discovery-Channe.m3u8
-#EXTINF:-1,Eurosport2
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+
 #EXTINF:-1,Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:-1,FIGHT-BOX
-http://95.170.215.118/hls/m3u8/FIGHT-BOX-MM-CC-E-X.m3u8
 
 
 
