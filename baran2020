@@ -1,13 +1,8 @@
 #EXTM3U
-#EXTINF:0,kurdsat.
 
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-#EXTINF:0,Kurdsat
+#EXTINF:0,Kurdsat.
 http://95.170.215.118/hls/m3u8/Kurdsat.m3u8
-#EXTINF:0,kurdsat..
-
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0,kurdsat1
+#EXTINF:0,kurdsat
 
 http://95.170.215.118/hls/m3u8/Kurdsat.m3u8
 #EXTINF:0,Kurdsat News
