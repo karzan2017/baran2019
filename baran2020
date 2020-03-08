@@ -123,7 +123,7 @@ http://95.170.215.118/hls/m3u8/NRT3-Kids.m3u8
 
 http://95.170.215.118/hls/m3u8/Zarok-TV.m3u8
 #EXTINF:0,TRT-Kurdi
-https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+http://95.170.215.118/hls/m3u8/TRT-KURDI.m3u8
 
 #EXTINF:0,Sahar
 
