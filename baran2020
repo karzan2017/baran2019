@@ -141,9 +141,7 @@ http://95.170.215.118/hls/m3u8/Med-Music.m3u8
 #EXTINF:0,kurdmax.music
 
 http://31.14.40.139:1935/music/livestream/palylist.m3u8
-#EXTINF:0,Vin.
 
-http://95.170.215.118/hls/m3u8/VIN-TV-HD.m3u8
 #EXTINF:0,ava 
 http://95.170.215.118/hls/m3u8/A-TV-KURD.m3u8
 
