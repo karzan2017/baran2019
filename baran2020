@@ -65,11 +65,10 @@ http://95.170.215.110/0.m3u8
 #EXTINF:0,4K..
 
 http://95.170.215.110:80/0.m3u8
+
 #EXTINF:0,kurdistanoil
 
 http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
-
-
 
 #EXTINF:0,amozhgary
 
@@ -80,24 +79,8 @@ http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dangi Quran.
 
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
-#EXTINF:0,MMN Quran
 
-http://linux-app.tv:6204/Basimalle/Dezhin2000/29348
-#EXTINF:0,Asman
 
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1004
-#EXTINF:0,Dahen.hd
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1009
-#EXTINF:0,Bask
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1028
-#EXTINF:0,Judy
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9592
-#EXTINF:0,Srusht
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1040
 #EXTINF:0,payam.
 
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
@@ -168,136 +151,9 @@ http://95.170.215.118/hls/m3u8/A-TV-KURD.m3u8
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
-#EXTINF:-1 group-title="local tv",kurdish
 
-#EXTINF:0,Astera Documentary
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/16729
-#EXTINF:0,Astera Family HD
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1006
-#EXTINF:0,Astera movies
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/13426
-#EXTINF:0,Astera Show
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/10588
-#EXTINF:0,Astera sport
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/13429
-#EXTINF:0,Astera Baby HD
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/13430
-#EXTINF:0,Derwaze
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28424
-#EXTINF:0,Darwaze Music
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28423
-#EXTINF:0,Imovies Action
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/27729
-#EXTINF:0,Imovies
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/213
-#EXTINF:0,Effect tv
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/212
-#EXTINF:0,Niga Kids
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1032
-#EXTINF:0,Niga movies
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1033
-#EXTINF:0,Niga family
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1034
-#EXTINF:0,Newline HD
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1961
-#EXTINF:0,Newline HD2
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1031
-#EXTINF:0,Reng HD
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9596
-#EXTINF:0,Reng Documentary
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1036
-#EXTINF:0,zed tv
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/10581
-#EXTINF:0,JOJO mama
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1997
-#EXTINF:0,binin
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/10587
-#EXTINF:0,MMn Classic Musical
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28850
-#EXTINF:0,MMN Movies
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28838
-#EXTINF:0,MMN sport
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28848
-#EXTINF:0,MMN Documentary
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28849
-#EXTINF:0,MMN Kids
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28839
-#EXTINF:0,MMN Clipe
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28840
-#EXTINF:0,MMN Radio farsi
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/30277
-#EXTINF:0,MMN Show
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/29799
-#EXTINF:0,Xezan
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2687
-#EXTINF:0,GK Hawler
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1019 
-#EXTINF:0,Rasan
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1962
 #EXTINF:0,hawler one
 
 http://31.14.40.139:1935/liveTrans/kurdextra/livestream-radio/chunklist_w1612833557.m3u8
-#EXTINF:0,Shaista
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/10582
-#EXTINF:0,Nibar
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/15791
-#EXTINF:0,Minara
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1029
-#EXTINF:0,Lawan
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1003
-#EXTINF:0,Aso sport
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1005
 
 
-#EXTINF:0,Kirkuk
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/204
-#EXTINF:0,Nishtimani mn
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9591
-#EXTINF:0,Qallat
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1037
-#EXTINF:0,Best
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1039
-#EXTINF:0,korak
-
-http://linux-app.tv:6204/Basimalle/Dezhin2000/10584
