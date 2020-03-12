@@ -416,32 +416,31 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w20938
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8?sd=10&rebase=on
 
 
+
+#EXTINF:-1 group-title="SAT islamitische",Quran 
+#EXTINF:-1,majd
+http://livecdnh3.tvanywhere.ae/hls/majd/03.m3u8
  
- 
- 
- 
+#EXTINF:-1,ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w647847797.m3u8
 
 #EXTINF:-1,Ayat
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:-1,Al Iarth Al Nabawi
 http://82.212.74.2:8000/live/7307.m3u8
 
-
-#EXTINF:-1,Kuwait TV Ethra Islamic
-https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
-
-#EXTINF:-1,Sudan Tayba
-http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
 #EXTINF:-1,Tanasuh TV
 http://m.live.net.sa:1935/m/tanasuhtv/gmswf.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC SAT", Quraan Kareem
+#EXTINF:-1 , Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1, sunnah
 http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
 
 #EXTINF:-1,makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+
+
 
 #EXTINF:0,Iqraa
  
