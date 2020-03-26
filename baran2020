@@ -35,26 +35,27 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 http://95.170.215.118/hls/m3u8/Rudaw-D-J-I-O-M.m3u8
 
 #EXTINF:0,nrt
-
-http://95.170.215.118/hls/m3u8/NRT.m3u8
+https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:0,nrt.
+http://212.8.248.85:8000/nimok/swe8012.m3u8
 #EXTINF:0,nrt2
-http://95.170.215.118/hls/m3u8/NRT-2.m3u8
+https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
+#EXTINF:0,nrt2.
+http://95.170.215.118/hls/m3u8/NRT-2-S-B-T-U-Q.m3u8
 
 #EXTINF:0,NewLine
+http://teradek.live:1935/live/new010line/playlist.m3u8
 
-http://cihan.teradek.live:1935/live/new010line/playlist.m3u8
-#EXTINF:0,NewLine2.
-http://95.170.215.118/hls/m3u8/NewLine-2-HD.m3u8
 
 
 #EXTINF:0,cihanhd
-
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
+
 
 #EXTINF:0,Rasan
 http://5.189.181.203:1935/gcm4/RASAN/chunklist_w1379403487.m3u8
 #EXTINF:0,kurdmax
-http://95.170.215.118/hls/m3u8/Kurdmax-S.m3u8
+http://95.170.215.118/hls/m3u8/Kurdmax-S-H-R-S-N-O.m3u8
 #EXTINF:0,kurdmax.
 
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
@@ -62,9 +63,8 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
 http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 #EXTINF:0,waar
-http://95.170.215.118/hls/m3u8/Waar.m3u8
-#EXTINF:0,Nettv
-http://95.170.215.118/hls/m3u8/NET-TV.m3u8
+
+http://95.170.215.118/hls/m3u8/Waar-W-G-I-M-X.m3u8
 #EXTINF:0,Nettv.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 #EXTINF:0,4K
@@ -111,19 +111,17 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 http://95.170.215.118/hls/m3u8/NRT3-Kids-K-I-Y-R-V.m3u8
 
 #EXTINF:0,Zarok
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
-http://95.170.215.118/hls/m3u8/Zarok-TV.m3u8
 #EXTINF:0,TRT-Kurdi
-http://95.170.215.118/hls/m3u8/TRT-KURDI.m3u8
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:0,kurd
 http://51.15.226.215/hls/stream.m3u8
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
-#EXTINF:0,IRIB-KORDESTAN
 
-http://95.170.215.118:80/hls/m3u8/IRIB-KORDESTAN.m3u8 
 #EXTINF:0,Aryan
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
@@ -137,8 +135,8 @@ http://95.170.215.118/hls/m3u8/Rojava-TV-C-F-T-H-S.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
 
 #EXTINF:0,Ronahi
-http://95.170.215.118/hls/m3u8/Ronahi-TV.m3u8
 
+http://95.170.215.118/hls/m3u8/Ronahi-TV-Q-S-G-O-X.m3u8
 #EXTINF:0,cira
 
 http://95.170.215.118/hls/m3u8/CIRA-TV-Z-C-B-M-L.m3u8
