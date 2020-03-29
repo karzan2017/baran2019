@@ -3,8 +3,7 @@
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
 #EXTINF:0,kurdsat1
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-#EXTINF:0,kurdsat2
-http://95.170.215.118/hls/m3u8/Kurdsat-A-Y-P-Z-Q.m3u8
+
 
 #EXTINF:0,Kurdsat News
 http://95.170.215.118/hls/m3u8/Kurdsat-N-JUD-JHY-I.m3u8
@@ -52,8 +51,6 @@ http://teradek.live:1935/live/new010line/playlist.m3u8
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
 
 
-#EXTINF:0,Rasan
-http://5.189.181.203:1935/gcm4/RASAN/chunklist_w1379403487.m3u8
 #EXTINF:0,kurdmax
 http://95.170.215.118/hls/m3u8/Kurdmax-S-H-R-S-N-O.m3u8
 #EXTINF:0,kurdmax.
