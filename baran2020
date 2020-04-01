@@ -53,8 +53,8 @@ https://www.karwan1.de/karwan.tv/rasan-tv/playlist.m3u8
 
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 #EXTINF:0,kurdmaxshow
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
-http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 #EXTINF:0,waar
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8 
 #EXTINF: -1,habun
