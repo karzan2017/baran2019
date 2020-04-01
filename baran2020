@@ -5,9 +5,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
 
-#EXTINF:0,Kurdsat News
-http://95.170.215.118/hls/m3u8/Kurdsat-N-JUD-JHY-I.m3u8
-
 #EXTINF:0,gk-tv
 http://51.75.66.91:8080/gksat.mp4
 #EXTINF:0,gk-tv.
@@ -23,24 +20,23 @@ http://95.170.215.107/hls/Iraqia-Kurd-M.m3u8
 
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
 #EXTINF:0,kurdistan24
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 
-http://95.170.215.118/hls/m3u8/K24-S-H-L-E-M.m3u8
 #EXTINF:0,zagros
 
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0,rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:0,rudaw,
-http://95.170.215.118/hls/m3u8/Rudaw-D-J-I-O-M.m3u8
+
 
 #EXTINF:0,nrt
 https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/playlist.m3u8
+
 #EXTINF:0,nrt.
 http://212.8.248.85:8000/nimok/swe8012.m3u8
 #EXTINF:0,nrt2
 https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
-#EXTINF:0,nrt2.
-http://95.170.215.118/hls/m3u8/NRT-2-S-B-T-U-Q.m3u8
+
 
 #EXTINF:0,NewLine
 http://teradek.live:1935/live/new010line/playlist.m3u8
@@ -51,8 +47,8 @@ http://teradek.live:1935/live/new010line/playlist.m3u8
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
 
 
-#EXTINF:0,kurdmax
-http://95.170.215.118/hls/m3u8/Kurdmax-S-H-R-S-N-O.m3u8
+#EXTINF:0,Rasan
+https://www.karwan1.de/karwan.tv/rasan-tv/playlist.m3u8
 #EXTINF:0,kurdmax.
 
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
@@ -60,8 +56,11 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
 http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
 #EXTINF:0,waar
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8 
+#EXTINF: -1,habun
+https://www.karwan1.de/karwan.tv/habun-tv/playlist.m3u8
 
-http://95.170.215.118/hls/m3u8/Waar-W-G-I-M-X.m3u8
+
 #EXTINF:0,Nettv.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 #EXTINF:0,4K
@@ -89,9 +88,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
 #EXTINF:0,payam.
 
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
-#EXTINF:0,payam
 
-http://95.170.215.118/hls/m3u8/Payam-TV.m3u8   
 #EXTINF:0,utv-hawler
 
 http://utv.teradek.live:1935/live/utv/playlist.m3u8
@@ -99,13 +96,14 @@ http://utv.teradek.live:1935/live/utv/playlist.m3u8
 
 http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
 #EXTINF:0,kurdmaxpepule.
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/62.m3u8
+#EXTINF:0,kurdmaxpepule
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:0,afarintv
 
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0,Nrt kids.
-http://95.170.215.118/hls/m3u8/NRT3-Kids-K-I-Y-R-V.m3u8
+
+
 
 #EXTINF:0,Zarok
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
@@ -125,19 +123,13 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 #EXTINF:0,Rojava
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
-#EXTINF:0,Rojava TV
 
-http://95.170.215.118/hls/m3u8/Rojava-TV-C-F-T-H-S.m3u8
 #EXTINF:0,Jin
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
 
 #EXTINF:0,Ronahi
 
-http://95.170.215.118/hls/m3u8/Ronahi-TV-Q-S-G-O-X.m3u8
-#EXTINF:0,cira
-
-http://95.170.215.118/hls/m3u8/CIRA-TV-Z-C-B-M-L.m3u8
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 #EXTINF:0,med muzik
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
@@ -150,16 +142,13 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 http://31.14.40.139:1935/music/livestream/palylist.m3u8
 
-#EXTINF:0,ava 
-http://95.170.215.118/hls/m3u8/A-TV-KURD-T-U-J-N-C-D.m3u8
+
 
 #EXTINF:0,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 
-#EXTINF:0,hawler one
 
-http://31.14.40.139:1935/liveTrans/kurdextra/livestream-radio/chunklist_w1612833557.m3u8
 
 
