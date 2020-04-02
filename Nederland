@@ -8,17 +8,21 @@
 
 
 
-#EXTINF:-1,RN7
-https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
+#EXTINF:-1,NL : NPO 1
+http://104.218.60.145:83/Delmacostello/8023634654/375639
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.politiek
 https://smoote2d.omroep.nl/urishieldv2/l2fm473f91e769cd1f76005dd12542000000.c8601a682a6e4bcd354ddb0e0e69be1d/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.nieuws
 https://smoote2b.omroep.nl/urishieldv2/l2fm4f67ad7d3b471663005dc8405f000000.3e85c8c41a26ab56e96e88759e487793/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1000000.m3u8
 
-
-
+#EXTINF:-1,|BE| VITAYA
+http://iptvpro.vision-new.org:8789/sabri/skype/607
+#EXTINF:-1,|BE| VIJF
+http://iptvpro.vision-new.org:8789/sabri/skype/608
+#EXTINF:-1,RN7
+https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Qmusic
