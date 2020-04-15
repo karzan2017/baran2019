@@ -73,8 +73,8 @@ http://95.170.215.110:80/0.m3u8
 http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
 
 #EXTINF:0,amozhgary
+http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 
-http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/chunklist_w1862625064.m3u8
 #EXTINF:0,Amozhgary. TV
 http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
 
