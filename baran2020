@@ -37,16 +37,54 @@ http://212.8.248.85:8000/nimok/swe8012.m3u8
 #EXTINF:0,nrt2
 https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
 
-
-#EXTINF:0,NewLine
-http://teradek.live:1935/live/new010line/playlist.m3u8
-
-
-
 #EXTINF:0,cihanhd
 http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
+#EXTINF:0,NewLine
+http://teradek.live:1935/live/new010line/playlist.m3u8
+#EXTINF:0,NewLine2
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153626.m3u8
+#EXTINF:0,Rasan
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153632.m3u8
 
+#EXTINF:0,IMovies
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153624.m3u8
+#EXTINF:0,Movies
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153614.m3u8
+#EXTINF:0,Niga Movies
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153629.m3u8
+#EXTINF:0,Niga
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153628.m3u8
+#EXTINF:0,Niga family
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153627.m3u8
+#EXTINF:0,Qellat
+http://51.15.160.9:8000/live/VFS56PecA4/Z119vkc4Am/153631.ts
+#EXTINF:0,xezan
+http://51.15.160.9:8000/live/VFS56PecA4/Z119vkc4Am/153640.m3u8
+#EXTINF:0,Derwaze
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153615.m3u8
+#EXTINF:0,chare
+http://51.15.160.9:8000/live/VFS56PecA4/Z119vkc4Am/153605.m3u8
+#EXTINF:0,lawan
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153621.m3u8
+#EXTINF:0,Nishtimani mn
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153630.m3u8
+#EXTINF:0,Reng
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153634.m3u8
+#EXTINF:0,shaista
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153636.m3u8
+#EXTINF:0,Zed
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153642.m3u8
+#EXTINF:0,Binin
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153604.m3u8
+#EXTINF:0,Democracy
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153606.m3u8
 
+#EXTINF:0,effect
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153609.m3u8
+#EXTINF:0,Astera sport
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153601.m3u8
+#EXTINF:0,Z.sport
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153641.m3u8
 
 #EXTINF:0,kurdmax.
 
@@ -56,7 +94,6 @@ http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
 #EXTINF:0,waar
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8 
-
 
 
 #EXTINF:0,Nettv.
@@ -77,10 +114,16 @@ http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 
 #EXTINF:0,Amozhgary. TV
 http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
-
+#EXTINF:0,Dahen
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153607.m3u8
+#EXTINF:0,judy
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153618.m3u8
+#EXTINF:0,Komall
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153619.m3u8
 #EXTINF:0,Nrt4
 http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/136777.m3u8
-
+#EXTINF:0,Srusht
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153637.m3u8
 #EXTINF:0,Dangi Quran.
 
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
@@ -107,8 +150,13 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:0,afarintv
 
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:0,Fix-Fox
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153635.m3u8
+#EXTINF:0,jojo mama
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153616.m3u8
 
-
+#EXTINF:0,baby
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153613.m3u8
 
 #EXTINF:0,Zarok
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
@@ -147,13 +195,14 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 http://31.14.40.139:1935/music/livestream/palylist.m3u8
 
-
+#EXTINF:0,Darwaz Music
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153623.m3u8
 
 #EXTINF:0,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
-
-
+#EXTINF:0,Best
+http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/153603.m3u8
 
 
