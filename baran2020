@@ -84,6 +84,10 @@ http://source.strictv.com:8000/live/VFS56PecA4/Z119vkc4Am/136777.m3u8
 #EXTINF:0,Dangi Quran.
 
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
+
+#EXTINF:0,Renma.tv
+http://62.201.232.103:40/live/Renma/playlist.m3u8
+
 #EXTINF:0,Bangawaz
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
 #EXTINF:0,payam.
