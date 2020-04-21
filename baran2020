@@ -7,8 +7,7 @@ https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
 #EXTINF:0,gk-tv
 http://51.75.66.91:8080/gksat.mp4
-#EXTINF:0,gk-tv.
-http://95.170.215.118/hls/m3u8/Gali-Kurdistan-N-K-O-T-V.m3u8
+
 #EXTINF:0,kirkuk
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
 #EXTINF:0,Iraqia-Kurd
