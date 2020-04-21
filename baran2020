@@ -38,7 +38,7 @@ http://212.8.248.85:8000/nimok/swe8012.m3u8
 https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
 
 #EXTINF:0,cihanhd
-http://cihan.teradek.live:1935/live/cihann/playlist.m3u8
+http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
 #EXTINF:0,NewLine
 http://teradek.live:1935/live/new010line/playlist.m3u8
 #EXTINF:0,NewLine2
