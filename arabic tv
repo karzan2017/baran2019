@@ -17,27 +17,11 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:0 type="stream" channelId="-1",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
-#EXTINF:0 type="stream" channelId="-1",MBC Masr2
-http://95.170.215.107:80/hls/MBC-Masr-2-Backu-M.m3u8 
-#EXTINF:-1,MBC IRAQ
-http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 
 
 
-#EXTINF:-1,MBC-Bollywood
-http://95.170.215.107/hls/m3u8/MBC-Bollywood-BU.m3u8
 
-#EXTINF:-1,Mix
-http://95.170.215.107/hls/m3u8/Mix-Hollywood.m3u8
 
-#EXTINF:-1,ZEE-AFLAM
-http://95.170.215.109/hls/m3u8/ZEE-AFLAM-Backup.m3u8
-
-#EXTINF:-1,ZEE-Alwan
-http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
-
-#EXTINF:-1 ,ARABICA
-http://95.170.215.109:80/hls/Arabica-Backup-M.m3u8
 
 #EXTINF:-1,Rotana aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
