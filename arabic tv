@@ -1,7 +1,6 @@
 
 #EXTM3U8
-EXTINF:-1,beattest
-http://ok.ru/videoembed/1601939840672
+
 
 #EXTINF:-1 group-title="ARAB SAT",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
