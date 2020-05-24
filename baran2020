@@ -46,8 +46,7 @@ https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
 
 #EXTINF:0,cihanhd
 http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
-#EXTINF:0,NewLine
-http://liveshell.net:1935/live/new010line/chunklist_w800496971.m3u8
+
 
 
 
@@ -63,12 +62,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 
 #EXTINF:0,Nettv.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
-#EXTINF:0,4K
 
-http://95.170.215.110/0.m3u8
-#EXTINF:0,4K..
-
-http://95.170.215.110:80/0.m3u8
 
 #EXTINF:0,kurdistanoil
 
@@ -84,7 +78,7 @@ http://212.178.179.73:8080/swe73102/tracks-v1a1/mono.m3u8
 
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 
-#EXTINF:0,Renma.tv
+#EXTINF:0,Renmatv 
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
 #EXTINF:0,Bangawaz
@@ -94,8 +88,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 
 #EXTINF:0,utv-hawler
-http://liveshell.net:1935/live/u095tv/chunklist.m3u8
 
+http://liveshell.net:1935/live/u095tv/playlist.m3u8
 #EXTINF:0,speda
 
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
