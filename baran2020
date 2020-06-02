@@ -24,9 +24,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 
 
-#EXTINF:0,kurdistan24.
 
-http://k24mediaservice.streaming.mediaservices.windows.net/aea162c0-bd1f-4943-9701-c536af647243/5d852da8-8710-4c86-9d9d-e300c7d269d6.ism/manifest(format=m3u8-aapl-v4)
 
 
 #EXTINF:0,zagros
@@ -56,8 +54,7 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 #EXTINF:0,kurdmaxshow
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
-#EXTINF:0,waar
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8 
+
 
 
 #EXTINF:0,Nettv.
