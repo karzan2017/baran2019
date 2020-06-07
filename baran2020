@@ -129,7 +129,15 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 
 #EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
-
+#EXTINF: -1,  MEDYA HABER
+http://137.74.205.201/live15/live15.m3u8
+ 
+#EXTINF: -1,  STERK
+http://137.74.205.201/live25/live25.m3u8
+ 
+#EXTINF: -1,  STERK
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
+ 
 
 #EXTINF:0,kurdmax.music
 
