@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:0,kurdsat
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
+
 #EXTINF:0,kurdsat1
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
+#EXTINF:0,KurdsatNews
+http://216.66.42.23:7777/KurdsatNews/KurdsatNews_Low.m3u8
 
 #EXTINF:0,gk-tv
 http://51.75.66.91:8080/gksat.mp4
@@ -70,6 +73,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
 http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
 
+#EXTINF:0,srusht
+http://baskhd1.ddns.net:40/live/srusht/chunklist.m3u8
+
 #EXTINF:0,amozhgary
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 
@@ -83,8 +89,13 @@ http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 #EXTINF:0,Renmatv 
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
-#EXTINF:0,Bangawaz
+#EXTINF:0,baskhd.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
+
+#EXTINF:0,baskhd
+http://62.201.232.103:40/live/baskhd/chunklist.m3u8
+
+
 #EXTINF:0,payam.
 
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
@@ -92,16 +103,26 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:0,utv-hawler
 
 http://liveshell.net:1935/live/u095tv/playlist.m3u8
+
 #EXTINF:0,speda
 
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
+
+
 #EXTINF:0,kurdmaxpepule.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/62.m3u8
+
 #EXTINF:0,kurdmaxpepule
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
+
 #EXTINF:0,afarintv
 
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+
+#EXTINF:0,Nrt3
+
+http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8
 
 
 #EXTINF:0,Zarok
@@ -134,10 +155,11 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 
 #EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
+
 #EXTINF: -1,  MEDYA HABER
 http://137.74.205.201/live15/live15.m3u8
  
-#EXTINF: -1,  STERK
+#EXTINF: -1,  STERK.
 http://137.74.205.201/live25/live25.m3u8
  
 #EXTINF: -1,  STERK
