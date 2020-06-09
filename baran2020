@@ -132,6 +132,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
 
+
+#EXTINF:0,Kurd Channel
+https://server5.ikomg.com/hls/kurd.m3u8
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
