@@ -11,10 +11,14 @@ http://216.66.42.23:7777/KurdsatNews/KurdsatNews_Low.m3u8
 #EXTINF:0,gk-tv
 http://51.75.66.91:8080/gksat.mp4
 
-#EXTINF:0,kirkuk
+#EXTINF:0,GaliKurdistan
+http://216.66.42.23:7777/GaliKurdistan/GaliKurdistan_Low.m3u8
+
+#EXTINF:0,kirkuk.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
 
-
+#EXTINF:0,kirkuk
+http://216.66.42.23:7777/KirkukTV/KirkukTV_Low.m3u8
 
 
 
@@ -26,8 +30,8 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
 #EXTINF:0,kurdistan24
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 
-
-
+#EXTINF:0,kurdistan24.
+http://216.66.42.23:7777/Kurdistan24/Kurdistan24_Low.m3u8
 
 
 #EXTINF:0,zagros
@@ -63,8 +67,8 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
 
-
-
+#EXTINF:0,Nettv
+http://216.66.42.23:7777/NetTV/NetTV_Low.m3u8
 #EXTINF:0,Nettv.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
@@ -123,15 +127,17 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:0,Nrt3
 
 http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8
-
-
 #EXTINF:0,Zarok
+http://216.66.42.23:7777/Zarok/Zarok_Low.m3u8
+#EXTINF:0,Zarok.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
 #EXTINF:0,TRT-Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:0,Tishk
 
+http://216.66.42.23:7777/Tishk/Tishk_Low.m3u8
 
 #EXTINF:0,Kurd Channel
 https://server5.ikomg.com/hls/kurd.m3u8
@@ -145,6 +151,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 #EXTINF:0,Rojava
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
+#EXTINF:0,MinbijTV
+http://216.66.42.23:7777/MinbijTV/MinbijTV_Low.m3u8
 
 #EXTINF:0,Jin
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
@@ -152,22 +160,27 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
 #EXTINF:0,Ronahi
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
+
+
+#EXTINF: -1,  MEDYA HABER
+http://137.74.205.201/live15/live15.m3u8
+ #EXTINF: -1, ArtiTV
+ http://216.66.42.23:7777/ArtiTV/ArtiTV_Low.m3u8
+#EXTINF: -1,  STERK.
+http://137.74.205.201/live25/live25.m3u8
+ 
+#EXTINF: -1,  STERK
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
+
 #EXTINF:0,med muzik
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 
 #EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
-
-#EXTINF: -1,  MEDYA HABER
-http://137.74.205.201/live15/live15.m3u8
  
-#EXTINF: -1,  STERK.
-http://137.74.205.201/live25/live25.m3u8
- 
-#EXTINF: -1,  STERK
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
- 
+#EXTINF:0,KorekTV
+ http://216.66.42.23:7777/KorekTV/KorekTV_Low.m3u8
 
 #EXTINF:0,kurdmax.music
 
