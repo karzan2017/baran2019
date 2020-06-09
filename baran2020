@@ -46,9 +46,8 @@ https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:0,nrt.
 
-https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/playlist.m3u8
+http://216.66.42.23:7777/NRT/NRT_Low.m3u8
 
-http://212.8.248.85:8000/nimok/swe8012.m3u8
 
 
 #EXTINF:0,nrt2
@@ -69,6 +68,7 @@ http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
 #EXTINF:0,Nettv
 http://216.66.42.23:7777/NetTV/NetTV_Low.m3u8
+
 #EXTINF:0,Nettv.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
@@ -127,8 +127,10 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:0,Nrt3
 
 http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8
+
 #EXTINF:0,Zarok
 http://216.66.42.23:7777/Zarok/Zarok_Low.m3u8
+
 #EXTINF:0,Zarok.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
@@ -141,6 +143,7 @@ http://216.66.42.23:7777/Tishk/Tishk_Low.m3u8
 
 #EXTINF:0,Kurd Channel
 https://server5.ikomg.com/hls/kurd.m3u8
+
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
@@ -151,6 +154,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 #EXTINF:0,Rojava
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
+
 #EXTINF:0,MinbijTV
 http://216.66.42.23:7777/MinbijTV/MinbijTV_Low.m3u8
 
@@ -164,8 +168,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 
 #EXTINF: -1,  MEDYA HABER
 http://137.74.205.201/live15/live15.m3u8
- #EXTINF: -1, ArtiTV
- http://216.66.42.23:7777/ArtiTV/ArtiTV_Low.m3u8
+
+#EXTINF: -1, ArtiTV
+http://216.66.42.23:7777/ArtiTV/ArtiTV_Low.m3u8
+
 #EXTINF: -1,  STERK.
 http://137.74.205.201/live25/live25.m3u8
  
