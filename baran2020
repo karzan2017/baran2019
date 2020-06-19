@@ -107,7 +107,10 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
 #EXTINF:0,baskhd
 http://62.201.232.103:40/live/baskhd/chunklist.m3u8
 EXTINF:0,mtbamoki tv
-http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist_w1568606447.m3u8
+http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
+
+
+
 
 #EXTINF:0,payam.
 
