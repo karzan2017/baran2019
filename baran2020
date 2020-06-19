@@ -5,6 +5,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
 #EXTINF:0,kurdsat1
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
+#EXTINF:0,kurdsat
+http://216.66.42.23:7777/KurdSat/KurdSat_Low.m3u8
 #EXTINF:0,KurdsatNews
 http://216.66.42.23:7777/KurdsatNews/KurdsatNews_Low.m3u8
 
