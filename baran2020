@@ -163,7 +163,8 @@ https://server5.ikomg.com/hls/kurd.m3u8
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
-
+#EXTINF:0,Aryan.
+http://95.217.114.41:8081/aryentv/aryen_abr/aryentv/aryen/chunks.m3u8
 #EXTINF:0,Aryan
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
