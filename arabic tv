@@ -175,7 +175,15 @@ http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunkl
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1, Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1, Dubai-Racing
 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1, Dubai-Racing2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1, Dubai-Racing3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",alrai tv
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w522775832.m3u8?v=2545016994
