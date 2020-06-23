@@ -49,6 +49,26 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-2
 
 
 
+#EXTINF:0 type="stream" channelId="-1",dubai zaman
+
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1",sama dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+
+  #EXTINF:0 type="stream" channelId="-1",noor dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1, Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
+#EXTINF:-1, Dubai
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1, Abu dhabi tv
+https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,Abu dhabi drama
+https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
+#EXTINF:-1,Emarat
+https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 
 
 #EXTINF:-1,ANN
@@ -162,22 +182,6 @@ http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",watan 2
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
 
-
-
-
-#EXTINF:0 type="stream" channelId="-1",dubai zaman
-
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1",sama dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-
-  #EXTINF:0 type="stream" channelId="-1",noor dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1, Dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-
-#EXTINF:-1, Dubai
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",alrai tv
