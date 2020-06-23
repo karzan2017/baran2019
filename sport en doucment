@@ -4,103 +4,15 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28280
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 2
-http://linux-app.tv:6204/Basimalle/Dezhin2000/8541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 3
-http://linux-app.tv:6204/Basimalle/Dezhin2000/8541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 4
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28279
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 4k 5
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28280
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEINSPORT",BEIN SPORT 2 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28400
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEINSPORT",BEIN SPORT 3 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28399
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINSPORT",BEIN SPORT 4 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28398
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEINSPORT",BEIN SPORT 5 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28397
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINSPORT",BEIN SPORT 6 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28396
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEINSPORT",BEIN SPORT 7 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28395
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEINSPORT",BEIN SPORT 8 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28394
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEINSPORT",BEIN SPORT 9 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28393
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEINSPORT",BEIN SPORT 10 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28392
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28391
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28385
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXOUNHB.png" group-title="BEINSPORT",BEIN SPORT News
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28386
- 
- 
-#EXTINF-1 tvg-logo="https://i.imgur.com/NKHSbt7.png" group-title="BEINSPORT",BEIN NBA
- 
-  
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEINSPORT",BEIN SPORT 1 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28374
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEINSPORT",BEIN SPORT 2 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28375
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEINSPORT",BEIN SPORT 3 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28376
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINSPORT",BEIN SPORT 4 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28377
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEINSPORT",BEIN SPORT 5 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28378
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINSPORT",BEIN SPORT 6 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28379
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEINSPORT",BEIN SPORT 7 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28380
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEINSPORT",BEIN SPORT 8 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28381
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEINSPORT",BEIN SPORT 9 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28382
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEINSPORT",BEIN SPORT 10 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28383
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEINSPORT",BEIN SPORT 11 SD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28384
 
 
 
 
 
 
-
-
-#EXTINF:-1,NILE SPORT sd
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/01.m3u8
-#EXTINF:-1,NILE SPORT hd 
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/03.m3u8
-#EXTINF:-1,NILE SPORT plus
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 
 #EXTINF:-1,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1,actionsportstv
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1,4
@@ -122,88 +34,11 @@ http://45.58.62.92:8080
 #EXTINF:-1,Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
 
-#EXTINF:-1,BT-Sport1
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1,BT-Sport2
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-
-
-
-#EXTINF:-1 group-title="local tv",kurdish
-
-
-#EXTINF:-1,docubox
-http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
-#EXTINF:-1,History english
-http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8
-
-#EXTINF:-1, tvg-logo="",national-geographic 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
-#EXTINF:-1, tvg-logo="",national-geographic.. 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1,nat geo hd 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1,nat_geo_wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,nat_geo_wild.
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-EXTINF:-1,Nat geo people HD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,Right this minute
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 
-#EXTINF:-1,Redbull tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN H2
-http://linux-app.tv:6204/Basimalle/Dezhin2000/11037
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN HistoryHD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/13029
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN Discovery
-http://linux-app.tv:6204/Basimalle/Dezhin2000/14430
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN Discovery ID
-http://linux-app.tv:6204/Basimalle/Dezhin2000/7701
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN Discovery SC
-http://linux-app.tv:6204/Basimalle/Dezhin2000/1162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN Animal Plnet
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2587
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN NAT GEO WILD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/984
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN NAT GEO
-http://linux-app.tv:6204/Basimalle/Dezhin2000/8999
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="OSN",OSN NAT GEO People
-http://linux-app.tv:6204/Basimalle/Dezhin2000/2711
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Discovery max Hd
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9026
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png" group-title="BeinMovies",Discovery Turbo xtra
-http://linux-app.tv:6204/Basimalle/Dezhin2000/9025
-#EXTINF:-1,Al-Jazera-Doc
-http://95.170.215.107/hls/Al-Jazera-Doc-HD-M.m3u8
-#EXTINF:-1,nat_geo_ara
-http://livecdnH2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
-
 
 #EXTINF:-1,nat_geo_ara.
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 
 
-#EXTINF:-1,nat_geo_wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1,nat_geo_people
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-
-
-
-
-#EXTINF:-1,Nat geo people HD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
-
-#EXTINF:-1,Nat geo wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 
 
