@@ -4,8 +4,44 @@
 
 
 
+#EXTINF:-1 group-title="SAT ISLAM",ISLAM
+
+#EXTINF:-1 , Quraan Kareem
+https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, sunnah
+
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1,makkah tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
+ #EXTINF:0,Iqraa
+ 
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w647847797.m3u8
+
+#EXTINF:-1,Ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:-1,Al Iarth Al Nabawi
+http://82.212.74.2:8000/live/7307.m3u8
+
+#EXTINF:-1,Tanasuh TV
+http://m.live.net.sa:1935/m/tanasuhtv/gmswf.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1,peace TV 1
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 2
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 3
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 4
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
 
@@ -250,50 +286,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w69
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2093890454_b1296000_slAR.m3u8
 #EXTINF:-1,space toon HD
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 group-title="SAT ISLAM",ISLAM
-#EXTINF:-1,majd
-
- 
-#EXTINF:-1,ayat
-http://m.live.net.sa:1935/live/ayat/chunklist_w647847797.m3u8
-
-#EXTINF:-1,Ayat
-http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
-#EXTINF:-1,Al Iarth Al Nabawi
-http://82.212.74.2:8000/live/7307.m3u8
-
-#EXTINF:-1,Tanasuh TV
-http://m.live.net.sa:1935/m/tanasuhtv/gmswf.m3u8
-
-#EXTINF:-1 , Quraan Kareem
-https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, sunnah
-
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1,makkah tv
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
-
-
-
-#EXTINF:0,Iqraa
- 
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-
-#EXTINF:-1,peace TV 1
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,peace TV 2
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,peace TV 3
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,peace TV 4
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
-
-
-
 
 
 
