@@ -166,8 +166,11 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunk
 #EXTINF:0 type="stream" channelId="-1",sama dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",noor dubai
+  #EXTINF:0 type="stream" channelId="-1",noor dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1, Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",alrai tv
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w522775832.m3u8?v=2545016994
@@ -176,7 +179,7 @@ http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8
  
 #EXTINF:-1 group-title="SYRYIA SAT",syria
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1,syria news
+    #EXTINF:-1,syria news
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 
 #EXTINF:-1,Lana TV
