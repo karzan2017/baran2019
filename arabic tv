@@ -161,18 +161,18 @@ http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",dubai zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",sama dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",noor dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",alrai tv
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w522775832.m3u8?v=2545016994
 #EXTINF:0 type="stream" channelId="-1",alrai tv hd
-http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist_w995330654.m3u8
+http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8
  
 #EXTINF:-1 group-title="SYRYIA SAT",syria
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
