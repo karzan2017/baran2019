@@ -181,6 +181,12 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/9025
 http://95.170.215.107/hls/Al-Jazera-Doc-HD-M.m3u8
 #EXTINF:-1,nat_geo_ara
 http://livecdnH2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
+
+
+#EXTINF:-1,nat_geo_ara.
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+
+
 #EXTINF:-1,nat_geo_wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1,nat_geo_people
