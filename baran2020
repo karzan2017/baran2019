@@ -150,6 +150,8 @@ http://216.66.42.23:7777/Zarok/Zarok_Low.m3u8
 #EXTINF:0,Zarok.
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
+#EXTINF:0,waar
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/51.m3u8
 #EXTINF:0,TRT-Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
