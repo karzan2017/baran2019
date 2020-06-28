@@ -182,6 +182,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 
+#EXTINF:0,cira
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
 
 #EXTINF: -1,  MEDYA HABER
 http://137.74.205.201/live15/live15.m3u8
