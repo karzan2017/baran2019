@@ -44,7 +44,7 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 
 
 #EXTINF:0,nrt
-https://5d5e28481f3ad.streamlock.net/NRTHD/ngrp:livestream_all/playlist.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
 
 #EXTINF:0,nrt.
 
@@ -53,7 +53,7 @@ http://216.66.42.23:7777/NRT/NRT_Low.m3u8
 
 
 #EXTINF:0,nrt2
-https://5d5e28481f3ad.streamlock.net/NRT2/livestream/playlist.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
 #EXTINF:0,nrt2.
 http://216.66.42.23:7777/NRT2/NRT2_Low.m3u8
@@ -82,9 +82,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
 
 http://kurdistanoilandgashd.com:80/hls/OIL.m3u8
 
-#EXTINF:0,habun
 
-http://shingaliptv.ru.com/habun/tv/hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,amozhgary
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 
@@ -138,8 +136,8 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:0,afarintv
 
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-
+#EXTINF:0,Nrt3.
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
 #EXTINF:0,Nrt3
 
 http://216.66.42.23:7777/NRT3Kids/NRT3Kids_Low.m3u8
@@ -151,7 +149,7 @@ http://216.66.42.23:7777/Zarok/Zarok_Low.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
 #EXTINF:0,waar
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/51.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 #EXTINF:0,TRT-Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
@@ -176,6 +174,12 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8
 
 #EXTINF:0,MinbijTV
 http://216.66.42.23:7777/MinbijTV/MinbijTV_Low.m3u8
+
+
+
+#EXTINF:0,habun
+
+http://shingaliptv.ru.com/habun/tv/hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Jin
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
