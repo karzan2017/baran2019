@@ -3,10 +3,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",RTL8
 
-
-
-
+http://185.180.222.20/Nl-RTL8/index.m3u8?token=A9CLKBs16oGmqG2FNZro1P5wYUH3Q_6UKHhILxIb8aqmK5IZ7NvE0KXq_IgNMv0t17z.PbT.QtnC7E4fDxkSlQ--&org=ODkuMTg3LjE5MC4xMzg6ODA4MA==
 
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.politiek
