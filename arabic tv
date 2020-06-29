@@ -44,6 +44,42 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
+#EXTINF:0 type="stream" channelId="-1",MBC HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC2
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC plusdrama
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1",MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",MBC Iraq
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 
 
 
