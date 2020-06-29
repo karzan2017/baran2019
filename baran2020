@@ -61,8 +61,8 @@ http://216.66.42.23:7777/NRT2/NRT2_Low.m3u8
 #EXTINF:0,cihanhd
 http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
 
-
-
+#EXTINF:0,Ranya
+http://185.180.222.21/Kurdi:-Freedom-Tv/index.m3u8?token=A9CLKBs16oGmqG2FNZro1JMknnJ2YIUEdORF3fxCNpU1GmV_i_DxixNey60L.Th1Pnkyr5QxjiFscVXYySWFUA--&org=ODkuMTg3LjE2OS4zNjo4MDgw
 
 #EXTINF:0,kurdmax.
 
