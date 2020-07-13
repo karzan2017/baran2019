@@ -6,11 +6,19 @@
 
 #EXTINF:-1 group-title="SAT ISLAM",ISLAM
 
+#EXTINF:-1 , Quraan Kareem.
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+
 #EXTINF:-1 , Quraan Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, sunnah
 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1, sunnah.
+http://37.235.38.131:4000/play/a027/index.m3u8
+
+
+
 #EXTINF:-1,makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
  #EXTINF:0,Iqraa
@@ -19,6 +27,9 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/.m3u8
 
 #EXTINF:0,wesal
 http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
+
+#EXTINF:0,Ahlu Alquran
+http://37.235.38.131:4000/play/a00k/index.m3u8
 
 #EXTINF:0,islamchannel
 
