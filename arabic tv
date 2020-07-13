@@ -53,10 +53,16 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
+#EXTINF:-1,alfajer
+
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 
 
 
-
+#EXTINF:0,Alfajertv 2.
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1,Al Fajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MBC HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
@@ -145,7 +151,8 @@ https://babylonlive.net/babylontv/kardokardo.m3u8
 #EXTINF:-1,Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
-
+#EXTINF:-1,2m
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 group-title="Morocco SAT",2m monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1,al_aoula_inter
@@ -202,8 +209,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
 
 
-#EXTINF:-1,2m
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+
 
 
 #EXTINF:-1 group-title="AKHBAR ARABIC",alarabiya
@@ -325,10 +331,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,Alfajertv 2.
-http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1,Al Fajer 2
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
 #EXTINF:0,palestine
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 
