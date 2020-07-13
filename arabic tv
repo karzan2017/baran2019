@@ -15,13 +15,27 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
  #EXTINF:0,Iqraa
  
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/.m3u8
 
+#EXTINF:0,wesal
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
+
+#EXTINF:0,islamchannel
+
+https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist.m3u8
+
+#EXTINF:0,emanchannel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:0,guideus
+
+http://stream.streamislam.com:1930/streamer/live_index/chunklist.m3u8
 #EXTINF:-1,ayat
 http://m.live.net.sa:1935/live/ayat/chunklist_w647847797.m3u8
 
 #EXTINF:-1,Ayat
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+
 #EXTINF:-1,Al Iarth Al Nabawi
 http://82.212.74.2:8000/live/7307.m3u8
 
