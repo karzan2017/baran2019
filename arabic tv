@@ -141,6 +141,12 @@ https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 
 
+
+#EXTINF:-1,khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+
+
 #EXTINF:-1,ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
