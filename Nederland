@@ -16,6 +16,34 @@ https://smoote2d.omroep.nl/urishieldv2/l2fm473f91e769cd1f76005dd12542000000.c860
 https://smoote2b.omroep.nl/urishieldv2/l2fm4f67ad7d3b471663005dc8405f000000.3e85c8c41a26ab56e96e88759e487793/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1000000.m3u8
 
 
+
+#EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-country="BE" tvg-url="" group-title="Belgium",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/Du0YAJS.png" tvg-country="BE" tvg-url="" group-title="Belgium",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/eDYaphB.png" tvg-country="BE" tvg-url="" group-title="Belgium",Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/s0CZjmi.png" tvg-country="BE" tvg-url="" group-title="Belgium",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",streektv
+https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",TVL
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+
+
+#EXTINF:-1,| Inwonder TV
+https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:-1,RN7
 https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
