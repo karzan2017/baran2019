@@ -61,8 +61,7 @@ http://216.66.42.23:7777/NRT2/NRT2_Low.m3u8
 #EXTINF:0,cihanhd
 http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
 
-
-#EXTINF:0,kushtukal
+ #EXTINF:0,Kushtukal.
 http://baskhd1.ddns.net:40/live/kushtukal/playlist.m3u8
 
 #EXTINF:0,avar tv
