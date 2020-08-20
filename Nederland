@@ -10,12 +10,11 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.politiek
-https://smoote2d.omroep.nl/urishieldv2/l2fm473f91e769cd1f76005dd12542000000.c8601a682a6e4bcd354ddb0e0e69be1d/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8
 
+https://smoote1h.omroep.nl/urishieldv2/l2fm1a31a2060118d4bc005f3ece7f000000.36139d5674cc3eaf548965210bf502c7/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.nieuws
-https://smoote2b.omroep.nl/urishieldv2/l2fm4f67ad7d3b471663005dc8405f000000.3e85c8c41a26ab56e96e88759e487793/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1000000.m3u8
 
-
+https://smoote2h.omroep.nl/urishieldv2/l2fm2cc42a907df4374b005f3ecee5000000.69107523cbb4f4a13e3b89b4a9757e50/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 
 #EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-country="BE" tvg-url="" group-title="Belgium",Eén
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
