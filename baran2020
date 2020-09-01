@@ -44,11 +44,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 #EXTINF:0,cihanhd
 http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
 
- #EXTINF:0,iraqi kurdi
-http://85.217.223.131/mag00:1A:79:D5:2B:D1/XjDOhhr9gm/49548?token=TEANAxIKEV8RVFwHVwMGDwQEAVtUBlYCWgULVFUFUAUBVABRBQFXXFcUSUNHFUBTVV5oClEWDwVbAgdeH0ETQ1IQOgsFQAlHAA5WVgBREBoWR14OUBYPAFcOC1QFWlEBBU5HEggGEV8RBVNTAlYQGhZWTxdQRltQDmhXA0UKBVUVWAsXDQ4fR1xYOgVRDFNYUBENQQUWGRMLRENECQ0TXFtORwAIFkEER1NHWxZQBQMNERtBVltAXxZFSkQJQSh8FU5HBxkWVgtAXwoPFlsQQkcRG0FcR2pDB0RHFFYCC1VFQF9AUUAfR15XHT5XDlxYUVBDClpaRhNYFQJEH0ELX1kLEQ0TPUMMVxRfQwZWBw4HEUo=
+ 
 
-#EXTINF:0,avar tv
-http://baskhd1.ddns.net:40/live/avar/chunklist.m3u8
 
 #EXTINF:0,sportshd
 http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
@@ -89,8 +86,8 @@ http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 #EXTINF:0,Renmatv 
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
-#EXTINF:0,bangawaz
-http://baskhd1.ddns.net:40/live/bangawaztv/chunklist.m3u8
+
+
 
 #EXTINF:0,baskhd
 http://62.201.232.103:40/live/baskhd/chunklist.m3u8
@@ -108,8 +105,7 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:0,utv-hawler
 http://liveshell.net:1935/live/utv/playlist.m3u8
 
-#EXTINF:0,U2
-http://baskhd1.ddns.net:40/live/local_Utv_2/playlist.m3u8
+
 
 #EXTINF:0,speda
 
@@ -194,11 +190,9 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 #EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
  
+#EXTINF:-1 tvg-ID="" tvg-name="KURD: KURDMAX MUSIC HD" tvg-logo="" group-title="AS KURDISH",KURD: KURDMAX MUSIC HD
+http://iptvclub.live:25461/hcO78d5qTZobTn2/TZYswxE2SYcsasr/79665
 
-
-#EXTINF:0,kurdmax.music
-
-http://31.14.40.139:1935/music/livestream/palylist.m3u8
 
 
 #EXTINF:0,ava TV
