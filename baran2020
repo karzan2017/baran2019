@@ -59,8 +59,7 @@ http://31.14.40.139:1935/liveTrans/myStream/chunklist.m3u8
 http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 
 #EXTINF:0,kurdmaxshow
-http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
-
+http://31.14.40.139:1935/liveTrans/SHOW2/chunklist.m3u8
 
 
 #EXTINF:0,Nettv.
