@@ -66,8 +66,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
-
-
+#EXTINF:-1,koogi
+http://68.235.60.118:1935/koogi.tv/koogi.smil/chunklist.m3u8
 
 #EXTINF:0,Alfajertv 2.
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
