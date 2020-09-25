@@ -29,6 +29,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 #EXTINF:0,zagros
 
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+
 #EXTINF:0,rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 
@@ -39,6 +41,16 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
 
 #EXTINF:0,nrt2
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+
+
+#EXTINF:0,newline
+
+https://aramhd.com/images/n1.m3u8
+
+
+#EXTINF:0,newline2
+
+https://www.aramhd.com/images/n2.m3u8
 
 
 #EXTINF:0,cihanhd
