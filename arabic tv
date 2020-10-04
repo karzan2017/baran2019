@@ -23,7 +23,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
  
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/.m3u8
 
-
+#EXTINF:0,almajdtv
+https://se24-ott.iptvcdn.tv/hls/p/10.100.1.130:4041/23200_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=5bjpLtCP6lF_do767ARUOg&e=1601889130&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=bc6f6663a9&host=SE24-OTT.iptvcdn.tv%3A443
 
 #EXTINF:0,islamchannel
 
