@@ -33,7 +33,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:0,rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-
+#EXTINF:0,nrt
 
 #EXTINF:0,nrt.
 
@@ -83,7 +83,8 @@ http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playli
 #EXTINF:0,amozhgary
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 
-
+#EXTINF:0,Utv
+http://liveshell.net:1935/live/utv/chunklist.m3u8
 
 #EXTINF:0,Dangi Quran.
 
@@ -105,9 +106,6 @@ http://62.201.232.103:40/live/baskhd/chunklist.m3u8
 #EXTINF:0,mtbamoki tv
 http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 
-
-
-
 #EXTINF:0,payam
 
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
@@ -115,7 +113,6 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:0,speda
 
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
-
 
 #EXTINF:0,kurdmaxpepule.
 http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
@@ -130,7 +127,6 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:0,Nrt3
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
 
-
 #EXTINF:0,Zarok
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
@@ -139,8 +135,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 
 #EXTINF:0,TRT-Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
-
-
 
 #EXTINF:0,Kurd Channel
 https://server5.ikomg.com/hls/kurd.m3u8
@@ -193,9 +187,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
 #EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
  
-
-
-
 #EXTINF:0,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
