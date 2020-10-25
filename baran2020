@@ -86,9 +86,9 @@ http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
 #EXTINF:0,Utv
 http://liveshell.net:1935/live/utv/chunklist.m3u8
 
-#EXTINF:0,Dangi Quran.
+#EXTINF:0,Dangi Quran.دەنگی ئیسلام/راديوى سلێمانی
+http://62.201.232.103:40/live/rislam/playlist.m3u8
 
-http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 
 
 
