@@ -194,3 +194,14 @@ https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Quran",Radio
+#EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی 
+http://38.96.148.28:10346/stream
+
+#EXTINF:0,Dangi Islam.دەنگی ئیسلام/راديوى سلێمانی
+http://62.201.232.103:40/live/rislam/playlist.m3u8
+
+
+
+
+
