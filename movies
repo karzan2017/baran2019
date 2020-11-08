@@ -4,25 +4,25 @@
 
 #EXTM3U8
 
-
+#EXTINF:-1,Zee Bollywood 
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 
 
 
-BollywoodHD
- http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1,BollywoodHD
+ checkedby:iptvcat.com
  
  
  
  	
-Bollywood Classic
+#EXTINF:-1,Bollywood Classic
  http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&
  
  
  
- 
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com 
+ #EXTINF:-1,BFlixMovies
 
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 
 
