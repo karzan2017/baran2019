@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="kurdsat" tvg-name="kurdsat hd " tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_283F_406_E0_1040000_0_0_0.png" group-title="ku kurdsat",kurdsat
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
+#EXTINF:-1 tvg-ID="kurdsat" tvg-name="kurdsathd" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_14B9_35_800_DCA0000_0_0_0.png" group-title="ku kurdsat hd",kurdsat hd
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-ID="gk" tvg-name="gk"tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="gk",ku gk 
+http://51.75.66.91:8080/gksat.mp4
+#EXTINF:-1 tvg-ID="kirkuk" tvg-name="kirkuk" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="ku kirkuk",kirkuk
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
+#EXTINF:-1 tvg-ID="kurdistan ku" tvg-name="kurdistan" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="ku kurdistan",kurdistan
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
+#EXTINF:-1 tvg-ID="kurdistan24 ku" tvg-name="kurdistan24" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="ku kurdistan24",kurdistan24
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
+#EXTINF:-1 tvg-ID="zagros ku" tvg-name="zagros" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="ku zagros",zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="rudaw ku" tvg-name="rudaw" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6.png" group-title="ku rudaw",rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="nrt ku" tvg-name="nrt" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7.png" group-title="ku nrt",nrt
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
+#EXTINF:-1 tvg-ID="nrt2 ku" tvg-name="nrt" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8.png" group-title="ku nrt2",nrt2
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+#EXTINF:-1 tvg-ID="newline ku" tvg-name="newline" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9.png" group-title="ku newline",newline
+https://aramhd.com/images/n1.m3u8
+#EXTINF:-1 tvg-ID="newline2 ku" tvg-name="newline2" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A32_438_E0_1040000_0_0_0.png" group-title="2 newline",newline2
+https://www.aramhd.com/images/n2.m3u8
+#EXTINF:-1 tvg-ID="cihanhd ku" tvg-name="cihanhd" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A33_438_E0_1040000_0_0_0.png" group-title="ku cihanhd",cihanhd
+http://liveshell.net:1935/live/cihann/chunklist.m3u8
+#EXTINF:-1 tvg-ID="sportshd ku" tvg-name="sportshd" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A34_438_E0_1040000_0_0_0.png" group-title="ku sportshd",sportshd
+http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
+#EXTINF:-1 tvg-ID="kurdmax ku" tvg-name="kurdmax" tvg-logo="" group-title="ku kurdmax",kurdmax
+http://31.14.40.139:1935/liveTrans/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-ID="kurdmax ku" tvg-name="kurdmax" tvg-logo="" group-title="ku kurdmax",kurdmax.
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:-1 tvg-ID="kurdmaxshow" tvg-name="kurdmaxshow" tvg-logo="" group-title="ku kurdmaxshow",kurdmaxshow
+http://31.14.40.139:1935/liveTrans/SHOW2/chunklist.m3u8
+#EXTINF:-1 tvg-ID="Nettv" tvg-name="Nettv" tvg-logo="" group-title="ku Nettv",Nettv
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
+#EXTINF:-1 tvg-ID="waar ku" tvg-name="waar" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A33_438_E0_1040000_0_0_0.png" group-title="ku waar",waar
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="===== ISLAM =====" tvg-logo="" group-title="KU ISLAM",===== ISLAM =====
+#EXTINF:-1 tvg-ID="amozhgary ku" tvg-name="amozhgary" tvg-logo="" group-title="ku amozhgary",amozhgary
+http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
+#EXTINF:-1 tvg-ID="Utv" tvg-name="Utv ku" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_1451_34_800_DCA0000_0_0_0.png" group-title="ku utv",utv
+http://liveshell.net:1935/live/utv/chunklist.m3u8
+#EXTINF:-1 tvg-ID="Renma ku" tvg-name="Renma" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_1452_34_800_DCA0000_0_0_0.png" group-title="ku Renma",Renma
+http://62.201.232.103:40/live/Renma/playlist.m3u8
+#EXTINF:-1 tvg-ID="bask ku" tvg-name="bask" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_1453_34_800_DCA0000_0_0_0.png" group-title="ku bask",bask
+https://live.karwan.tv/karwan.tv/bask-tv/chunks.m3u8
+#EXTINF:-1 tvg-ID="baskhd ku" tvg-name="baskhd" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_28A4_410_E0_1040000_0_0_0.png" group-title="ku baskhd",baskhd
+http://62.201.232.103:40/live/baskhd/chunklist.m3u8
+#EXTINF:-1 tvg-ID="mtbamokitv ku" tvg-name="mtbamokitv" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2969_424_E0_1040000_0_0_0.png" group-title="ku mtbamokitv",mtbamokitv
+http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
+#EXTINF:-1 tvg-ID="PayamTV ku" tvg-name="PayamTV" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_296A_424_E0_1040000_0_0_0.png" group-title="ku PayamTV",PayamTV
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-ID="speda ku" tvg-name="speda" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_296B_424_E0_1040000_0_0_0.png" group-title="ku speda",speda
+http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="===== KIDS =====" tvg-logo="" group-title="KU KIDS",===== KIDS =====
+
+#EXTINF:-1 tvg-ID="afarinTV ku" tvg-name="afarinTV" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_296C_424_E0_1040000_0_0_0.png" group-title="ku afarinTV",afarinTV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-ID="Nrt3 ku" tvg-name="Nrt3" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A31_438_E0_1040000_0_0_0.png" group-title="ku Nrt3",Nrt3
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
+#EXTINF:-1 tvg-ID="Zarok ku" tvg-name="Zarok" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_19_2A32_438_E0_1040000_0_0_0.png" group-title="ku Zarok",Zarok
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="===== KURD BAXUR=====" tvg-logo="" group-title="KU KURD BAXUR",===== KURDBAXUR =====
+
+#EXTINF:-1 tvg-ID="TRT KU" tvg-name="trt" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1sd.png" group-title="ku trt",trt
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-ID="Kurd Channel ku" tvg-name="Kurd Channel" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2sd.png" group-title="ku Kurd Channel",Kurd Channel
+https://server5.ikomg.com/hls/kurd.m3u8
+#EXTINF:-1 tvg-ID="Sahar ku" tvg-name="Sahar" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3sd.png" group-title="ku Sahar",Sahar	
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
+#EXTINF:-1 tvg-ID="tishk ku" tvg-name="tishk" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4sd.png" group-title="ku tishk",tishk
+https://live.karwan.tv/karwan.tv/tishk-tv/chunks.m3u8
+#EXTINF:-1 tvg-ID="Aryan ku" tvg-name="Aryan" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5sd.png" group-title="ku Aryan",Aryan
+http://95.217.114.41:8081/aryentv/aryen_abr/aryentv/aryen/chunks.m3u8
+#EXTINF:-1 tvg-ID="Aryanhd ku" tvg-name="Aryanhd" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6sd.png" group-title="ku Aryanhd",Aryanhd
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
+#EXTINF:-1 tvg-ID="Rojava ku" tvg-name="Rojava" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7sd.png" group-title="ku Rojava",Rojava
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
+#EXTINF:-1 tvg-ID="habun ku" tvg-name="habun" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8sd.png" group-title="ku habun",habun
+http://shingaliptv.ru.com/habun/tv/hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="Jin ku" tvg-name="Jin" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9sd.png" group-title="ku Jin",Jin	
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
+#EXTINF:-1 tvg-ID="Ronahi ku" tvg-name="Ronahi" tvg-logo="" group-title="ku Ronahi",Ronahi
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
+#EXTINF:-1 tvg-ID="cira ku" tvg-name="cira" tvg-logo="" group-title="ku cira",cira
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
+#EXTINF:-1 tvg-ID="MEDYA HABER ku " tvg-name="MEDYA HABER" tvg-logo="" group-title="MEDYA HABER",MEDYA HABER
+http://137.74.205.201/live15/live15.m3u8
+#EXTINF:-1 tvg-ID="ARTI ku" tvg-name="ARTI" tvg-logo="" group-title="ku ARTI",ARTI
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
+#EXTINF:-1 tvg-ID=" STERK.ku" tvg-name="ku:STERK." tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_854_15_800_DCA0000_0_0_0.png" group-title=" KU STERK.",KU:  STERK.
+http://137.74.205.201/live25/live25.m3u8
+#EXTINF:-1 tvg-ID="STERK" tvg-name="KU:STERK" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_852_15_800_DCA0000_0_0_0.png" group-title="ku STERK",KU: STERK
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== Music =====" tvg-logo="" group-title="KU Music",===== music =====
+#EXTINF:-1 tvg-ID="med muzik ku" tvg-name="med muzik" tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_3_22B_2BE_1040000_0_0_0.png" group-title="ku med muzik",med muzik
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
+#EXTINF:-1 tvg-ID="med muzik.ku" tvg-name="med muzik." tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_4_22B_2BE_1040000_0_0_0.png" group-title="ku med muzik.",med muzik.
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 tvg-ID="ava TV ku" tvg-name="ava TV " tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_5_22B_2BE_1040000_0_0_0.png" group-title="ku ava TV",ava TV
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KU: 4K - Clip/tv HD" tvg-logo="" group-title=" KU Clip/tv",KU: 4K -  Clip/tv
+https://live.karwan.tv/karwan.tv/clip-tv/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KU: - kurd-show" tvg-logo="" group-title="kurd-show",KU: kurd-show
+https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== Quran",Radio =====" tvg-logo="" group-title="KU Quran",Radio",===== Quran",Radio =====
+
+#EXTINF:-1 tvg-ID="" tvg-name="KU:دەنگی قورئانی پیرۆز لە سلێمانی " tvg-logo="" group-title="KU دەنگی قورئانی پیرۆز لە سلێمانی ",KU: دەنگی قورئانی پیرۆز لە سلێمانی 
+http://38.96.148.28:10346/stream
+#EXTINF:-1 tvg-ID="" tvg-name="KU:دەنگی ئیسلام/راديوى سلێمانی" tvg-logo="" group-title="KU دەنگی ئیسلام/راديوى سلێمانی",KU: دەنگی ئیسلام/راديوى سلێمانی
+http://62.201.232.103:40/live/rislam/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="KU:Saad AlGhamdi kurdi" tvg-logo="" group-title="KU Saad AlGhamdi kurdi",KU: Saad AlGhamdi kurdi
+http://quraan.us:9970/;*.mp3
+#EXTINF:-1 tvg-ID="" tvg-name="KU:hedayat" tvg-logo="" group-title="KU hedayat",KU: hedayat
+https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
+
+
