@@ -55,7 +55,6 @@ https://www.aramhd.com/images/n2.m3u8
 #EXTINF:0,cihanhd
 http://liveshell.net:1935/live/cihann/chunklist.m3u8
 
- 
 
 
 #EXTINF:0,sportshd
@@ -92,13 +91,13 @@ http://62.201.232.103:40/live/rislam/playlist.m3u8
 
 
 
-
-
 #EXTINF:0,Renmatv 
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
 
+#EXTINF:0,bask.
 
+https://live.karwan.tv/karwan.tv/bask-tv/chunks.m3u8
 
 #EXTINF:0,baskhd
 http://62.201.232.103:40/live/baskhd/chunklist.m3u8
@@ -142,6 +141,11 @@ https://server5.ikomg.com/hls/kurd.m3u8
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
+
+
+#EXTINF:0,tishk
+https://live.karwan.tv/karwan.tv/tishk-tv/chunks.m3u8
+
 
 #EXTINF:0,Aryan.
 http://95.217.114.41:8081/aryentv/aryen_abr/aryentv/aryen/chunks.m3u8
@@ -191,9 +195,14 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
+#EXTINF:0,Clip/tv 
+https://live.karwan.tv/karwan.tv/clip-tv/chunks.m3u8
 
 
+ #EXTINF:0,kurdshow
+https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
 
+ 
 #EXTINF:-1 group-title="Quran",Radio
 #EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی 
 http://38.96.148.28:10346/stream
@@ -201,7 +210,7 @@ http://38.96.148.28:10346/stream
 #EXTINF:0,Dangi Islam.دەنگی ئیسلام/راديوى سلێمانی
 http://62.201.232.103:40/live/rislam/playlist.m3u8
 
-
-
+#EXTINF:0,hedayat
+https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
 
 
