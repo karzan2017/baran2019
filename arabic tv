@@ -347,6 +347,9 @@ http://server2.quraan.us:9810/;*.mp3
 #EXTINF:0,hedayat
 https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
 
+#EXTINF:0,Al-Mushaf Al-Mujawwad by Sheikh Muhammad Siddiq Al-Minshawi
+http://quraan.us:9776/;*.mp3
+
 #EXTINF:0,Nasser Alqatami Musshaf 
 http://184.173.185.71:9994/
 #EXTINF:0,Nabil Al Rifay Radio
