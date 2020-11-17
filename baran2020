@@ -60,6 +60,11 @@ http://liveshell.net:1935/live/cihann/chunklist.m3u8
 http://likemovies.online:1935/SOZMOVIES/Soz/chunklist.m3u8
 
 
+EXTINF:0, SOZQURAN
+
+http://likemovies.online:1935/SOZQURAN/Soz/chunklist.m3u8
+
+
 #EXTINF:0,sportshd
 http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
 
