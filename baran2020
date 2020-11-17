@@ -202,8 +202,11 @@ https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 #EXTINF:0,Clip/tv 
 https://live.karwan.tv/karwan.tv/clip-tv/chunks.m3u8
 
+#EXTINF:0,hamvar
+https://live.karwan.tv/karwan.tv/hamvar-tv/chunks.m3u8
 
- #EXTINF:0,kurdshow
+
+#EXTINF:0,kurdshow
 https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
 
  
