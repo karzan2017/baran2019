@@ -1,4 +1,7 @@
-.b-cdn.net/bokra-ahla/ep17/variant.m3u8
+
+
+#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="بكرا أحلى",بكرا أحلى الحلقة18
 https://shoofmax.b-cdn.net/bokra-ahla/ep18/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="بكرا أحلى",بكرا أحلى الحلقة19
@@ -83,7 +86,7 @@ https://shoofmax.b-cdn.net//kalabsh/ep29/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="كلبش",كلبش الحلقة 30
 https://shoofmax.b-cdn.net//kalabsh/ep30/variant.m3u8
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="avi" group-title="La Casa De Papel S1+2| Money Heist S1+2 - ",▁▂▃▅▆▇★☀二【«La Casa De Papel S2 | Money Heist S1+2 - »】二☀★▇▆▅▃▂▁
 https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
 #EXTINF:0 tvg-id="avi" group-title="La Casa De Papel S1+2| Money Heist S1+2 - ",en La Casa De Papel S1 Ep1 | الحلقة 1
