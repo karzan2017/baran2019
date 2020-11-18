@@ -351,7 +351,8 @@ http://server2.quraan.us:9856/;*.mp3
 http://quraan.us:9916/;*.mp3
 #EXTINF:0,quran Abdul Basit.
 http://server2.quraan.us:9810/;*.mp3
-
+#EXTINF:0,quran Abdul Basit..
+http://dmithrvll.cdn.mangomolo.com/quranrdo/quranrdo_aac/playlist.m3u8
 #EXTINF:0,hedayat
 https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
 
@@ -425,8 +426,7 @@ http://184.173.185.71:9770/
 #EXTINF:0,Zaki Daghistani Radio
 http://184.173.185.71:9890/
 
-#EXTINF:0,quranrdo
-http://dmithrvll.cdn.mangomolo.com/quranrdo/quranrdo_aac/playlist.m3u8
+
 
 
 
