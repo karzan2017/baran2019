@@ -123,7 +123,9 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
 
+#EXTINF:0,Dangi Quran.
 
+http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 
 #EXTINF:0,Dangi Islam
 
