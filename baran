@@ -219,7 +219,7 @@ https://live.karwan.tv/karwan.tv/hamvar-tv/chunks.m3u8
 https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
 
 #EXTINF:-1 group-title="Quran",Radio
-#EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی 
+#EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی
 http://38.96.148.28:10346/stream
 
 #EXTINF:0,Dangi Islam.دەنگی ئیسلام/راديوى سلێمانی
