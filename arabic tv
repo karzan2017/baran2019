@@ -23,8 +23,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
  
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/.m3u8
 
-#EXTINF:0,almajdtv
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.130:4041/23200_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=5bjpLtCP6lF_do767ARUOg&e=1601889130&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=bc6f6663a9&host=SE24-OTT.iptvcdn.tv%3A443
+
 
 #EXTINF:0,islamchannel
 
@@ -94,15 +93,18 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="-1",MBC max
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:0 type="stream" channelId="-1",majid.kids
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",Al Sharqiya
+#EXTINF:0 type="stream" channelId="-1",MBC Masr2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",AL MAMLAKA TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",MBC iraq
 
@@ -311,9 +313,15 @@ https://streaming.toutech.net/live/jfm/index.m3u8
 
 
 
- 
+#EXTINF:0 type="stream" channelId="-1",Al Sharqiya
+
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Iraq",Sharqiya News
+
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
 
 #EXTINF:-1,al HURRA IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/index_350_av-b.m3u8
