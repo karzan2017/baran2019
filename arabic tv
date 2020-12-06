@@ -98,10 +98,15 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 
 
+#EXTINF:0 type="stream" channelId="-1",Al Sharqiya
 
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",MBC iraq
 
-
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
 
 
