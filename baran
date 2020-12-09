@@ -1,243 +1,262 @@
-#EXTM3U
-
-
-
+##EXTM3U
 #EXTINF:0,kurdsat
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
-
 #EXTINF:0,kurdsat1
+
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-
-
-
 #EXTINF:0,gk-tv
+
 http://51.75.66.91:8080/gksat.mp4
-
-
-
 #EXTINF:0,kirkuk.
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
-
-
-
 #EXTINF:0,kurdistan
 
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
-
-
 #EXTINF:0,kurdistan24
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
-
-
 #EXTINF:0,zagros
 
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
-
 #EXTINF:0,rudaw
+
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-
-
-#EXTINF:0,nrt.
+#EXTINF:0,nrt
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
-
-#EXTINF:0,NRT
-
+#EXTINF:0,nrt.
 http://93.115.18.104/nrt/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,nrt2
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+#EXTINF:0,nrt2.
+http://86.106.181.252/nrt2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,newline
 https://www.aramhd.com/images/new1.m3u8
 
-
+#EXTINF:0,newline.
+http://93.115.18.104/newline/tracks-v1a1/mono.m3u8
 #EXTINF:0,newline2
 
 https://www.aramhd.com/images/new2.m3u8
 
+#EXTINF:0,newline2.
+http://185.96.163.136/newline2/tracks-v1a1/mono.m3u8
 #EXTINF:0,cihanhd
-http://liveshell.net:1935/live/cihann/chunklist.m3u8
 
+http://liveshell.net:1935/live/cihann/chunklist.m3u8
 #EXTINF:0,Soz Movies
 
 http://likemovies.online:1935/SOZMOVIES/Soz/chunklist.m3u8
 
-
 #EXTINF:0,linkemovies hd
-
 http://likemovies.online:1935/LIKEMOVIES/LIK/chunklist.m3u8
 
+#EXTINF:0,asteramovies
+http://194.99.21.90/asteraMOV/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,waar
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
+#EXTINF:0,Newmaxboxoff
+http://86.106.181.252/newmaxbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,sportshd
-http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
+#EXTINF:0,mmn movies
+http://185.96.163.139/mmnmov/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Nigamovies
+http://86.106.181.253/nigamovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,kurdmax.
+#EXTINF:0,Nigafamilys
 
-http://31.14.40.139:1935/liveTrans/myStream/chunklist.m3u8
-
-#EXTINF:0,kurdmax
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-
-#EXTINF:0,kurdmaxshow
-http://31.14.40.139:1935/liveTrans/SHOW2/chunklist.m3u8
+http://93.115.18.104/nigafamilys/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0,blann
+http://185.96.163.138/blann/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Rasan
+
+http://93.115.18.104/rasan/tracks-v1a1/mono.m3u8
+#EXTINF:0,asterahd
+http://185.96.163.136/asterahd/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Zedtv
+
+http://93.115.18.104/zedtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Reng
+http://185.96.163.136/reng/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,Newmaxcomedy
+
+http://86.106.181.252/newmaxc/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nettv.
 
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
+#EXTINF:0,kurdmax.
 
+http://31.14.40.139:1935/liveTrans/myStream/chunklist.m3u8
+#EXTINF:0,kurdmax
 
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:0,kurdmaxshow
 
+http://31.14.40.139:1935/liveTrans/SHOW2/chunklist.m3u8
+#EXTINF:0,waar
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
+#EXTINF:0,duhok
+
+http://185.96.163.138/duhok/tracks-v1a1/mono.m3u8
 #EXTINF:0,amozhgary
+
 http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
-
 #EXTINF:0,Utv
+
 http://liveshell.net:1935/live/utv/chunklist.m3u8
+#EXTINF:0,Renmatv
 
-
-
-#EXTINF:0,Renmatv 
 http://62.201.232.103:40/live/Renma/playlist.m3u8
-
+#EXTINF:0,kani
+http://185.96.163.136/kaniq/tracks-v1/mono.m3u8
 
 #EXTINF:0,bask.
 
 https://live.karwan.tv/karwan.tv/bask-tv/chunks.m3u8
-
 #EXTINF:0,baskhd
+
 http://62.201.232.103:40/live/baskhd/chunklist.m3u8
-
 #EXTINF:0,mtbamoki tv
-http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 
+http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 #EXTINF:0,payam
 
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
-
 #EXTINF:0,speda
 
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
-
 #EXTINF:0,Dangi Quran.
 
 http://radio.dangiquran.com:40/live/radio/playlist.m3u8
-
-
 #EXTINF:0,Dangi Islam
 
 http://62.201.232.103:40/live/rislamv/chunklist.m3u8
-
-
-
 #EXTINF:0,afarintv
 
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-
 #EXTINF:0,Nrt3
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
+#EXTINF:0,Nrt3.
+http://86.106.181.253/nrt3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Zarok
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
+#EXTINF:0,helhelok
+http://185.96.163.139/helhelok/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0,TRT-Kurdi
-https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,dasinyakis
+http://194.99.21.90/dasinyakis/tracks-v1/mono.m3u8
+
 
 #EXTINF:0,Kurd Channel
-https://server5.ikomg.com/hls/kurd.m3u8
 
+https://server5.ikomg.com/hls/kurd.m3u8
 #EXTINF:0,Sahar
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
-
-
 #EXTINF:0,tishk
+
 https://live.karwan.tv/karwan.tv/tishk-tv/chunks.m3u8
+#EXTINF:0,TRT-Kurdi
+
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:0,Aryan.
-http://95.217.114.41:8081/aryentv/aryen_abr/aryentv/aryen/chunks.m3u8
-
-#EXTINF:0,Aryan
-
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
 #EXTINF:0,Rojava
 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8
 #EXTINF:0,habun
 
 http://shingaliptv.ru.com/habun/tv/hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Jin
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8 
 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
+
+#EXTINF:0,Aryan.
+https://live.karwan.tv/karwan.tv/aryen-tv/playlist.m3u8
+#EXTINF:0,Aryan
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
 #EXTINF:0,Ronahi
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
-
 #EXTINF:0,cira
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
+#EXTINF:0,MEDYA HABER
 
-#EXTINF: -1,  MEDYA HABER
 http://137.74.205.201/live15/live15.m3u8
+#EXTINF:0,ARTI
 
-#EXTINF: -1,ARTI
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
+#EXTINF:0,STERK.
 
-
-#EXTINF: -1,  STERK.
 http://137.74.205.201/live25/live25.m3u8
- 
-#EXTINF: -1,  STERK
+#EXTINF:0,STERK
+
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
-
-
 #EXTINF:0,med muzik
 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
+#EXTINF:0,med muzik.
 
-#EXTINF: -1, med muzik.
 http://137.74.205.201/live3/mm-3mbps.m3u8
- 
 #EXTINF:0,ava TV
 
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+#EXTINF:0,avamedia
 
-#EXTINF:0,Clip/tv 
+http://86.105.252.105/avamedia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Clip/tv
+
 https://live.karwan.tv/karwan.tv/clip-tv/chunks.m3u8
 
-#EXTINF:0,hamvar.
-https://live.karwan.tv/karwan.tv/hamvar-tv/chunks.m3u8
+#EXTINF:0,denge.zelaltv
 
+http://stream.yayinlive.com:1935/dengezelaltv/dengezelaltv/playlist.m3u8
+#EXTINF:0,peshmerga
+http://86.106.181.252/peshmerga/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,kurdshow
+
 https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
+#EXTINF:0,sportshd
 
-#EXTINF:-1 group-title="Quran",Radio
+http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
+
+#EXTINF:0,dasyina sport
+http://194.99.21.90/dasinyasport/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Asterasport
+http://93.115.18.104/asteraspo/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,دەنگی قورئانی پیرۆز لە سلێمانی
+#EXTGRP:Radio quran
 http://38.96.148.28:10346/stream
-
 #EXTINF:0,Dangi Islam.دەنگی ئیسلام/راديوى سلێمانی
+#EXTGRP:Radio quran
 http://62.201.232.103:40/live/rislam/playlist.m3u8
-
-#EXTINF:0,Dangi quran
-http://38.96.148.28:10346/stream
-
-#EXTINF:0,Dangi Islam
-
-http://62.201.232.103:40/live/rislamv/chunklist.m3u8
-
 #EXTINF:0,Saad AlGhamdi kurdi
-http://quraan.us:9970/;*.mp3
-
+#EXTGRP:Radio quran
+http://quraan.us:9970/;
+#EXTINF:0,Dangi Islam
+#EXTGRP:Radio quran
+http://62.201.232.103:40/live/rislamv/chunklist.m3u8
 #EXTINF:0,hedayat
+#EXTGRP:Radio quran
 https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
