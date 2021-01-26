@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1,kurdsat
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
@@ -7,9 +9,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
 #EXTGRP:KURDISH
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 
-#EXTINF:-1,gk-tv
+#EXTINF:-1,gksat
 #EXTGRP:KURDISH
-
 http://51.75.66.91:8080/hls/gksat/index.m3u8
 
 #EXTINF:-1,kirkuk.
@@ -23,6 +24,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
 #EXTINF:-1,kurdistan24
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
+
 #EXTINF:-1,zagros
 #EXTGRP:KURDISH
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
@@ -43,9 +45,6 @@ http://93.115.18.104/nrt/tracks-v1a1/mono.m3u8
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
-#EXTINF:-1,nrt2.
-#EXTGRP:KURDISH
-http://86.106.181.252/nrt2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,newline
 #EXTGRP:KURDISH
@@ -75,51 +74,24 @@ http://likemovies.online:1935/SOZMOVIES/Soz/chunklist.m3u8
 #EXTGRP:KURDISH
 http://likemovies.online:1935/LIKEMOVIES/LIK/chunklist.m3u8
 
-#EXTINF:-1,asteramovies
-#EXTGRP:KURDISH
-http://194.99.21.90/asteraMOV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Newmaxboxoff
-#EXTGRP:KURDISH
-http://86.106.181.252/newmaxbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,mmn movies
-#EXTGRP:KURDISH
-http://185.96.163.139/mmnmov/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Nigamovies
-#EXTGRP:KURDISH
-http://86.106.181.253/nigamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nigafamilys
 #EXTGRP:KURDISH
 http://93.115.18.104/nigafamilys/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,blann
-#EXTGRP:KURDISH
-http://185.96.163.138/blann/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Rasan
 #EXTGRP:KURDISH
 http://93.115.18.104/rasan/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,asterahd
-#EXTGRP:KURDISH
-http://185.96.163.136/asterahd/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,Zedtv
 #EXTGRP:KURDISH
 http://93.115.18.104/zedtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Reng
-#EXTGRP:KURDISH
-http://185.96.163.136/reng/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Newmaxcomedy
-#EXTGRP:KURDISH
-http://86.106.181.252/newmaxc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nettv
 #EXTGRP:KURDISH
@@ -138,13 +110,19 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 #EXTGRP:KURDISH
 http://31.14.40.139:1935/liveTrans/SHOW2/chunklist.m3u8
 
+
+
+
+
 #EXTINF:-1,waar
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
 
-#EXTINF:-1,duhok
+
+
+#EXTINF:-1,duhok.
 #EXTGRP:KURDISH
-http://185.96.163.138/duhok/tracks-v1a1/mono.m3u8
+http://duhoktvstream.top:1935/live/DuhokTV/playlist.m3u8
 
 #EXTINF:-1,amozhgary
 #EXTGRP:KURDISH
@@ -158,13 +136,6 @@ http://liveshell.net:1935/live/utv/chunklist.m3u8
 #EXTGRP:KURDISH
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
-#EXTINF:-1,kani
-#EXTGRP:KURDISH
-http://185.96.163.136/kaniq/tracks-v1/mono.m3u8
-
-#EXTINF:-1,bask.
-#EXTGRP:KURDISH
-https://live.karwan.tv/karwan.tv/bask-tv/chunks.m3u8
 
 #EXTINF:-1,baskhd
 #EXTGRP:KURDISH
@@ -173,6 +144,12 @@ http://62.201.232.103:40/live/baskhd/chunklist.m3u8
 #EXTINF:-1,mtbamoki tv
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
+
+
+#EXTINF:-1,mtbamoki tv.
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/mtbamokitv/playlist.m3u8
+
 
 #EXTINF:-1,payam
 #EXTGRP:KURDISH
@@ -198,23 +175,11 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
 
-#EXTINF:-1,Nrt3.
-#EXTGRP:KURDISH
-http://86.106.181.253/nrt3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Zarok
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 
-#EXTINF:-1,helhelok
-#EXTGRP:KURDISH
-http://185.96.163.139/helhelok/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1,dasinyakis
-#EXTGRP:KURDISH
-http://194.99.21.90/dasinyakis/tracks-v1/mono.m3u8
 
 
 #EXTINF:-1,Kurd Channel
@@ -225,9 +190,7 @@ https://server5.ikomg.com/hls/kurd.m3u8
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
 
-#EXTINF:-1,tishk
-#EXTGRP:KURDISH
-https://live.karwan.tv/karwan.tv/tishk-tv/chunks.m3u8
+
 
 #EXTINF:-1,TRT-Kurdi
 #EXTGRP:KURDISH
@@ -238,17 +201,12 @@ https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8
 
-#EXTINF:-1,habun
-#EXTGRP:KURDISH
-http://shingaliptv.ru.com/habun/tv/hd/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,Jin
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
 
-#EXTINF:-1,Aryan.
-#EXTGRP:KURDISH
-https://live.karwan.tv/karwan.tv/aryen-tv/playlist.m3u8
 
 #EXTINF:-1,Aryan
 #EXTGRP:KURDISH
@@ -272,7 +230,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
 
 #EXTINF:-1,STERK.
 #EXTGRP:KURDISH
-http://137.74.205.201/live25/live25.m3u8
+http://137.74.205.201/live24/live24.m3u8
 
 #EXTINF:-1,STERK
 #EXTGRP:KURDISH
@@ -292,34 +250,17 @@ https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 
 
 
-#EXTINF:-1,Clip/tv
+#EXTINF:-1,kurdmaxmusic.tv
 #EXTGRP:KURDISH
-https://live.karwan.tv/karwan.tv/clip-tv/chunks.m3u8
-
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1,denge.zelaltv
 #EXTGRP:KURDISH
 http://stream.yayinlive.com:1935/dengezelaltv/dengezelaltv/playlist.m3u8
-#EXTINF:-1,peshmerga
-#EXTGRP:KURDISH
-http://86.106.181.252/peshmerga/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,kurdshow
-#EXTGRP:KURDISH
-https://live.karwan.tv/karwan.tv/kurd-show-tv/chunks.m3u8
+
 #EXTINF:-1,sportshd
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
-
-
-#EXTINF:-1,dasyina sport
-#EXTGRP:KURDISH
-http://194.99.21.90/dasinyasport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Asterasport
-#EXTGRP:KURDISH
-http://93.115.18.104/asteraspo/tracks-v1a1/mono.m3u8
-
-
 
 
 
@@ -339,6 +280,19 @@ http://quraan.us:9970/;
 #EXTGRP:Radio quran
 http://62.201.232.103:40/live/rislamv/chunklist.m3u8
 
-#EXTINF:-1,hedayat
+
+#EXTINF:0,quran Abdul Basit
 #EXTGRP:Radio quran
-https://live.karwan.tv/www.karwan.tv/radio-hedayat/chunks.m3u8
+http://quraan.us:9916/;*.mp3
+
+#EXTINF:0,quran Abdul Basit.
+#EXTGRP:Radio quran
+http://server2.quraan.us:9810/;*.mp3
+
+#EXTINF:0,Maher Al Meaqli
+#EXTGRP:Radio quran
+http://server2.quraan.us:9856/;*.mp3
+
+#EXTGRP:Maher Al Meaqli kaif
+#EXTGRP:Radio quran
+http://server12.mp3quran.net/maher/018.mp3
