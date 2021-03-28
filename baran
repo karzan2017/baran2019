@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1,kurdsat
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
@@ -292,13 +293,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
 
-#EXTINF:-1,cira,
-#EXTGRP:KURDISH
-https://besttv653-myflix-ciratv.aoslive.it.best-tv.com/egress/bhandler/ikomg/ciratv/chunklist.m3u8
 
-#EXTINF:-1,MEDYA HABER
-#EXTGRP:KURDISH
-https://besttv655-myflix-mediahabertv.aoslive.it.best-tv.com/egress/bhandler/ikomg/medya_haber_tv/chunklist.m3u8
 
 #EXTINF:-1,MEDYA HABER.
 #EXTGRP:KURDISH
@@ -308,14 +303,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/23
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
 
-#EXTINF:-1,ARTI.
-#EXTGRP:KURDISH
-https://besttv651-myflix-artitv.aoslive.it.best-tv.com/egress/bhandler/ikomg/arti_tv/chunklist.m3u8
 
-#EXTINF:-1,STERK.
-#EXTGRP:KURDISH
-
-https://besttv657-myflix-sterk.aoslive.it.best-tv.com/egress/bhandler/ikomg/sterk_tv/chunklist.m3u8
 #EXTINF:-1,STERK
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
@@ -358,8 +346,6 @@ http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
 #EXTINF:-1,halow sport
 #EXTGRP:KURDISH
 http://halowtv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
-
-
 
 #EXTINF:-1,دەنگی قورئانی پیرۆز لە سلێمانی
 #EXTGRP:Radio quran
