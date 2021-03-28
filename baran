@@ -8,8 +8,7 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
 
 #EXTINF:-1,kurdsat1
 #EXTGRP:KURDISH
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-
+https://gintna100.tulix.tv/gin_live/kurdsat/b014bac05e4abee6952d2d9cf96be138/6061e644/index.m3u8
 #EXTINF:-1,gksat
 #EXTGRP:KURDISH
 http://51.75.66.91:8080/hls/gksat/index.m3u8
