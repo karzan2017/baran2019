@@ -55,8 +55,9 @@ https://www.aramhd.com/images/new2.m3u8
 #EXTINF:-1,halabjatv
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/halabjatv/playlist.m3u8
-
-
+#EXTINF:-1,darband
+#EXTGRP:KURDISH
+http://baskhd.ddns.net:40/live/darband/chunklist.m3u8
 
 #EXTINF:-1,ekurd
 #EXTGRP:KURDISH
