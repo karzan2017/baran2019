@@ -4,11 +4,12 @@
 
 #EXTINF:-1,kurdsat
 #EXTGRP:KURDISH
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
+http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist.m3u8
 
-#EXTINF:-1,kurdsat1
+#EXTINF:-1,kurdsatnews
 #EXTGRP:KURDISH
-https://gintna100.tulix.tv/gin_live/kurdsat/b014bac05e4abee6952d2d9cf96be138/6061e644/index.m3u8
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist.m3u8
+
 #EXTINF:-1,gksat
 #EXTGRP:KURDISH
 http://51.75.66.91:8080/hls/gksat/index.m3u8
@@ -44,17 +45,15 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 
 
+
 #EXTINF:-1,newline
 #EXTGRP:KURDISH
-https://www.aramhd.com/images/new1.m3u8
-
-#EXTINF:-1,newline2
-#EXTGRP:KURDISH
-https://www.aramhd.com/images/new2.m3u8
+http://b3715890456.wo2.co/o.php?3967277607247497_162825416516138578833572333048_3555582561_==QZulGb3VmT
 
 #EXTINF:-1,halabjatv
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/halabjatv/playlist.m3u8
+
 #EXTINF:-1,darband
 #EXTGRP:KURDISH
 http://baskhd.ddns.net:40/live/darband/chunklist.m3u8
@@ -67,14 +66,15 @@ http://baskhd1.ddns.net:40/live/Eurokurd/playlist.m3u8
 #EXTGRP:KURDISH
 http://liveshell.net:1935/live/cihann/chunklist.m3u8
 
-#EXTINF:-1,Soz Movies
-#EXTGRP:KURDISH
-http://likemovies.online:1935/SOZMOVIES/Soz/chunklist.m3u8
 
-#EXTINF:-1,linkemovies hd
+#EXTINF:-1,barin
 #EXTGRP:KURDISH
-http://likemovies.online:1935/LIKEMOVIES/LIK/chunklist.m3u8
+http://baskhd.ddns.net:40/live/Barinhd/chunklist.m3u8
 
+
+#EXTINF:-1,neverhd
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/neverhd/playlist.m3u8
 
 #EXTINF:-1,Garyan
 #EXTGRP:KURDISH
@@ -94,12 +94,36 @@ http://baskhd1.ddns.net:40/live/xezanhd/chunklist.m3u8
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/chawhd/chunklist.m3u8 
 
+#EXTINF:-1,ala
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/alatvlockal/chunklist.m3u8
 
 
 #EXTINF:-1,Baha/HD
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/Local_Baha_HD/chunklist.m3u8
 
+
+
+
+#EXTINF:-1,first
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/first/chunklist.m3u8
+
+#EXTINF:-1,itvbuti
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/itvbuti/playlist.m3u8
+
+
+#EXTINF:-1,itvfoot
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/itvfoot/chunklist.m3u8
+
+
+
+#EXTINF:-1,itvanime
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/itvanime/chunklist.m3u8
 
 
 
@@ -140,6 +164,18 @@ http://duhoktvstream.top:1935/live/DuhokTV/playlist.m3u8
 http://baskhd1.ddns.net:40/live/Istar_Quran_Local/playlist.m3u8
 
 
+#EXTINF:-1,BarinQuraN
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/BarinQuraNbhD/playlist.m3u8
+
+
+
+#EXTINF:-1,MihrabTV
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/MihrabTV/chunklist.m3u8
+
+
+
 #EXTINF:-1,amozhgary
 #EXTGRP:KURDISH
 https://media.streambrothers.com:1936/8250/8250/chunklist.m3u8
@@ -175,6 +211,15 @@ http://baskhd1.ddns.net:40/live/jude/playlist.m3u8
 http://62.201.232.103:40/live/imkhd/playlist.m3u8
 
 
+#EXTINF:-1,itvislam
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/itvislam/playlist.m3u8
+
+
+#EXTINF:-1,babollyhd
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/babollyhd/playlist.m3u8
+
 #EXTINF:-1,tasawfhd
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/tasawfhd/chunklist.m3u8
@@ -192,6 +237,11 @@ http://baskhd1.ddns.net:40/live/ArifanHD/chunklist.m3u8
 #EXTGRP:KURDISH
 http://62.201.232.103:40/live/Renma/playlist.m3u8
 
+
+
+#EXTINF:-1,bangawaztv
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/bangawaztv/playlist.m3u8
 
 #EXTINF:-1,baskhd
 #EXTGRP:KURDISH
@@ -222,6 +272,13 @@ http://radio.dangiquran.com:40/live/radio/playlist.m3u8
 #EXTINF:-1,Dangi Quran
 #EXTGRP:KURDISH
 http://radio.dangiquran.com:40/live/radio/chunklist.m3u8
+
+
+#EXTINF:-1,Dangi Islam,
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/rislamv//playlist.m3u8
+
+
 #EXTINF:-1,Dangi Islam
 #EXTGRP:KURDISH
 http://62.201.232.103:40/live/rislamv/chunklist.m3u8
@@ -328,6 +385,9 @@ http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/RUBARHD/playlist.m3u8
 
+#EXTINF:-1,Derin
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/Derin/chunklist.m3u8
 
 #EXTINF:-1,kurdmaxmusic.tv
 #EXTGRP:KURDISH
@@ -335,17 +395,24 @@ https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
 
 #EXTINF:-1,denge.zelaltv
 #EXTGRP:KURDISH
-http://stream.yayinlive.com:1935/dengezelaltv/dengezelaltv/playlist.m3u8
-
+https://p190.radyotelekom.com.tr/player/m3u8/4d99129a049b7bb9e8a55aa68b988997/chunklis.m3u8
 
 #EXTINF:-1,sportshd
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/sportshd/chunklist.m3u8
 
 
-#EXTINF:-1,halow sport
+#EXTINF:-1,itvsport
 #EXTGRP:KURDISH
-http://halowtv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
+http://baskhd1.ddns.net:40/live/itvsport/playlist.m3u8
+
+#EXTINF:-1,kurdistan sport
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/kurdistansporthd/playlist.m3u8
+
+#EXTINF:-1,BarinSPORTHD
+#EXTGRP:KURDISH
+http://baskhd.ddns.net:40/live/BarinSPORTHD/playlist.m3u8
 
 #EXTINF:-1,دەنگی قورئانی پیرۆز لە سلێمانی
 #EXTGRP:Radio quran
@@ -354,6 +421,11 @@ http://38.96.148.28:10346/stream
 #EXTINF:-1,Dangi Islam.دەنگی ئیسلام/راديوى سلێمانی
 #EXTGRP:Radio quran
 http://62.201.232.103:40/live/rislam/playlist.m3u8
+
+
+#EXTINF:-1,Sunnat fm
+#EXTGRP:Radio quran
+http://185.105.4.50:9992/;.mp3
 
 #EXTINF:-1,Saad AlGhamdi kurdi
 #EXTGRP:Radio quran
