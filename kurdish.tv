@@ -1,6 +1,6 @@
 #EXTM3U8
-
-
+#EXTINF:-0,MAJID QURAN
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.110:4041/23200_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=imc8gr81RPlPtBcdtmrAWA&e=1620046271&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=7d568f659d&host=SE25-OTT.iptvcdn.tv%3A443
 
 #EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
