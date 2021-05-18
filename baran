@@ -168,7 +168,9 @@ http://baskhd1.ddns.net:40/live/Istar_Quran_Local/playlist.m3u8
 #EXTGRP:KURDISH
 http://baskhd1.ddns.net:40/live/BarinQuraNbhD/playlist.m3u8
 
-
+#EXTINF:-1,Esra
+#EXTGRP:KURDISH
+http://baskhd1.ddns.net:40/live/Esra_TV/chunklist.m3u8
 
 #EXTINF:-1,MihrabTV
 #EXTGRP:KURDISH
