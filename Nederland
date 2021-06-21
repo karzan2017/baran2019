@@ -1,77 +1,151 @@
-
-
-
-
-
-
-
-
-
 #EXTM3U
 
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",npo.nieuws
+#EXTINF:-1 ,politiek24
+#EXTGRP:Nederland
 https://smoote2b.omroep.nl/urishieldv2/l2fm3ed5c0652f7488fa005fd14bd3000000.288efa433c67004eb4cb1d551ad0cf88/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 
 
-#EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-country="BE" tvg-url="" group-title="Belgium",Eén
+#EXTINF:-1,politiek24
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/master.m3u8
+
+#EXTINF:-1,politiek24,
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
+
+
+#EXTINF:-1,npo-nieuws
+#EXTGRP:Nederland
+https://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+
+#EXTINF:-1,journaal24
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/master.m3u8
+
+
+
+
+#EXTINF:-1,NPO1.
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
+
+#EXTINF:-1 ,NPO2.
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/master.m3u8
+
+
+#EXTINF:-1 ,NPO2
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
+
+
+#EXTINF:-1 ,NPO3
+#EXTGRP:Nederland
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
+
+#EXTINF:-1 ,NPO3.
+#EXTGRP:Nederland
+
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/master.m3u8
+
+
+
+#EXTINF:-1 ,Nos
+#EXTGRP:Nederland
+http://streaming.flamingotv.net/nostv/live.m3u8
+
+#EXTINF:-1,Teleshopping
+#EXTGRP:Nederland
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,Rechtbank
+#EXTGRP:Nederland
+https://dhclzcsxsio1e.cloudfront.net/9e844cd7-2b72-4f1a-bfb3-413e8bbdba14/hls_15.m3u8
+
+
+
+
+
+#EXTINF:-1,Eén
+#EXTGRP:Nederland
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/Du0YAJS.png" tvg-country="BE" tvg-url="" group-title="Belgium",Ketnet
+
+#EXTINF:-1,VRT Ketnet
+#EXTGRP:Nederland
 https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/eDYaphB.png" tvg-country="BE" tvg-url="" group-title="Belgium",Ketnet Junior
-https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-?checkedby:iptvcat.com
+#EXTINF:-1 ,Canvas
+#EXTGRP:Nederland
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/s0CZjmi.png" tvg-country="BE" tvg-url="" group-title="Belgium",Q-Music
+
+
+
+#EXTINF:-1,Q-Music
+#EXTGRP:Nederland
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",streektv
-https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,streektv
+#EXTGRP:Nederland
+https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",TVL
+#EXTINF:-1,TVL
+#EXTGRP:Nederland
 https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 
 
+#EXTINF:-1,valkenburg
+#EXTGRP:Nederland
+https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 
+#EXTINF:-1,lon
+#EXTGRP:Nederland
+http://94.231.255.154:1935/lon/lonweb_720p/playlist.m3u8
 
+#EXTINF:-1,oh
+#EXTGRP:Nederland
+http://217.63.64.27:1935/OH-Playout/ngrp:Playout-stream_all/playlist.m3u8
 
 #EXTINF:-1,RN7
+#EXTGRP:Nederland
 https://streaming.rn7.nl/rn7tv/live_576/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Qmusic
-
+#EXTINF:-1 ,Qmusic
+#EXTGRP:Nederland
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NETHERLANDS",Qmusic
+#EXTINF:-1 ,Qmusic
+#EXTGRP:Nederland
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 
 
- #EXTINF:-1,VRT Ketnet
-https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",Omroep Zeeland
 
- https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
  
- #EXTINF:-1 tvg-logo="https://i.imgur.com/RlC6eyV.png" group-title="NETHERLANDS",Omrop Fryslan
+#EXTINF:-1 ,Omroep Zeeland
+#EXTGRP:Nederland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+ 
+#EXTINF:-1 ,Omrop Fryslan
+#EXTGRP:Nederland
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="NETHERLANDS",Omroep Ede
+#EXTINF:-1 ,Omroep Ede
+#EXTGRP:Nederland
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LZJo7k.png" group-title="NETHERLANDS",Omroep Gelderland
-
+#EXTINF:-1 ,Omroep Gelderland
+#EXTGRP:Nederland
  https://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",Omroep Tilburg
 
+#EXTINF:-1 ,Omroep Tilburg
+#EXTGRP:Nederland
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 
 
@@ -79,54 +153,66 @@ https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTVnof
+#EXTINF:-1 ,RTVnof
+#EXTGRP:Nederland
 https://593aed234297b.streamlock.net/rtvnof2/live/chunklist_w293830853.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akN2ODG.png" group-title="NETHERLANDS",RTV Noord Extra
+#EXTINF:-1 ,RTV Noord Extra
+#EXTGRP:Nederland
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j1HwXBj.png" group-title="NETHERLANDS",Omroep West
+#EXTINF:-1 ,Omroep West
+#EXTGRP:Nederland
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0uxI1Rm.png" group-title="NETHERLANDS",Radio 538 102.1 FM Amsterdam
+#EXTINF:-1 ,Radio 538 102.1 FM Amsterdam
+#EXTGRP:Nederland
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKVaZYH.png" group-title="NETHERLANDS",Omroep_Peel
+#EXTINF:-1 ,Omroep_Peel
+#EXTGRP:Nederland
 https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRF3hv5.png" group-title="NETHERLANDS",RTV Maastricht
+#EXTINF:-1 ,RTV Maastricht
+#EXTGRP:Nederland
 https://stream.rtvmaastricht.nl/rtvm_live/tv/playlist.m3u8?
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7oQYDrA.png" group-title="NETHERLANDS",Regionieuws TV Groningen 
+#EXTINF:-1 ,Regionieuws TV Groningen 
+#EXTGRP:Nederland
 http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IBtSSp5.png" group-title="NETHERLANDS",Meer Vandaag
+#EXTINF:-1 ,Meer Vandaag
+#EXTGRP:Nederland
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="NETHERLANDS",RTV Arnhem
+#EXTINF:-1 ,RTV Arnhem
+#EXTGRP:Nederland
 http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
+#EXTINF:-1,RTV Noordoost Friesland
+#EXTGRP:Nederland
 http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
  
  
- #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",Omroep Brabant
- https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 ,Omroep Brabant
+#EXTGRP:Nederland
+https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
  
  
-  #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",Flevoland
- https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 ,Flevoland
+#EXTGRP:Nederland
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
  
  
  
@@ -134,55 +220,73 @@ http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmwUSUV.png" group-title="NETHERLANDS",EDE TV
+#EXTINF:-1 ,EDE TV
+#EXTGRP:Nederland
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1652623679_b1894400_slNLD.m3u8
 
 #EXTINF:0,hk13
+#EXTGRP:Nederland
 http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="NETHERLANDS",GO-RTV 
+#EXTINF:-1 ,GO-RTV 
+#EXTGRP:Nederland
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
 
  
- #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-nqgy4QEBOFQ/U9971fpjDjI/AAAAAAAATCs/M0AiQm7YToE/s1600/BVN-logo.png" group-title="NETHERLANDS",Bvn
- https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/index.m3u8
+#EXTINF:-1 ",Bvn
+#EXTGRP:Nederland
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/index.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",RTV Utrecht
-
+#EXTINF:-1 ,RTV Utrecht
+#EXTGRP:Nederland
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",UStad
+#EXTINF:-1,UStad
+#EXTGRP:Nederland
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rtvgo
+#EXTINF:-1,rtvgo
+#EXTGRP:Nederland
 https://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rijnmond
+#EXTINF:-1 ,rijnmond
+#EXTGRP:Nederland
 https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",RTV Dordrecht
+#EXTINF:-1,RTV Dordrecht
+#EXTGRP:Nederland
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",rtvnoord
+#EXTINF:-1 ,rtvnoord
+#EXTGRP:Nederland
 https://media.rtvnoord.nl/live/rtvnoord/tv/6a46cbb2-57ee-4192-b55a-de7b4575b19b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="NETHERLANDS",wos
+#EXTINF:-1 ,wos
+#EXTGRP:Nederland
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 
+
+
+
+#EXTINF:-1 ,Tweede Exloermond
+#EXTGRP:Nederland
+
+
+http%3a//5f1b356656745.streamlock.net/radiocontinu/live/chunklist.m3u8
  
 #EXTINF:-1 ,ADE Mix 
+#EXTGRP:Nederland
 https://live.salto.nl/hls/at5_high.m3u8
 
 #EXTINF:-1,salto4.
+#EXTGRP:Nederland
 https://salto-streams.nl/hls/sotv2_high.m3u8
 
 #EXTINF:-1,salto3
- https://salto-streams.nl/hls/sotv1_high.m3u8
-
-
-
+#EXTGRP:Nederland
+https://salto-streams.nl/hls/sotv1_high.m3u8
 
