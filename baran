@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,the marksman
+https://s3.xemovie.com/Movies/TheMarksman.mp4
 #EXTINF:-1,kurdsat
 #EXTGRP:KURDISH
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/35
